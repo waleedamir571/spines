@@ -1,0 +1,2606 @@
+<?php include 'partials/header.php'; ?>
+<?php include 'partials/nav.php'; ?>
+
+    <main class="site-main post-274013 page type-page status-publish has-post-thumbnail hentry" role="main">
+
+
+        <div class="page-content">
+            <div data-elementor-type="wp-page" data-elementor-id="274013" class="elementor elementor-274013" data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-1720dc8 e-con-full e-flex e-con e-parent" data-id="1720dc8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="elementor-element elementor-element-2f17952 e-con-full e-flex e-con e-child" data-id="2f17952" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div data-dce-background-color="#1CD9AD8F" class="elementor-element elementor-element-488668e e-con-full e-transform e-flex e-con e-child" data-id="488668e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-70,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;vw&quot;,&quot;size&quot;:-20,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-30,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-84,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        </div>
+                        <div data-dce-background-color="#44A9CF" class="elementor-element elementor-element-7b19fe3 e-con-full e-transform e-flex e-con e-child" data-id="7b19fe3" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:40,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;vw&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-55,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-67,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-52,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        </div>
+                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-c71cffe elementor-widget-mobile__width-initial elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="c71cffe" data-element_type="widget"
+                            data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h1 class="elementor-heading-title elementor-size-default">Your Words. Your Book. Your Way.</h1>
+                            </div>
+                        </div>
+                        <div data-dce-title-color="#4C617B" class="elementor-element elementor-element-b92ef80 elementor-widget__width-initial ob-harakiri-inherit elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="b92ef80" data-element_type="widget"
+                            data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Everything you need to publish your book professionally, from proofreading, design, printing, and distribution in one intuitive platform.</h2>
+                            </div>
+                        </div>
+                        <!-- dce invisible element 90f505d -->
+                        <div class="elementor-element elementor-element-16143a5 ob-has-background-overlay elementor-widget elementor-widget-button" data-id="16143a5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-494494c ob-has-background-overlay elementor-widget elementor-widget-html" data-id="494494c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="html.default">
+                            <div class="elementor-widget-container">
+                                <script>
+                                    var body = document.querySelector('body');
+
+                                    onWindowScroll()
+
+                                    window.addEventListener('scroll', onWindowScroll);
+
+                                    function onWindowScroll() {
+                                        if (window.scrollY > 0) {
+                                            body.classList.remove('not-scrolled');
+                                            body.classList.add('scrolled');
+                                        } else {
+                                            body.classList.add('not-scrolled');
+                                            body.classList.remove('scrolled');
+                                        }
+                                    }
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-d6175a1 e-con-full e-flex e-con e-child" data-id="d6175a1" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div class="elementor-element elementor-element-d25a609 e-con-full e-transform e-flex e-con e-child" data-id="d25a609" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;position&quot;:&quot;absolute&quot;,&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:-50,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;,&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                            <div class="elementor-element elementor-element-a476574 e-con-full col-books-left e-flex e-con e-child" data-id="a476574" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-d8c8b15 elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="d8c8b15" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:900,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img fetchpriority="high" decoding="async" width="188" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20188%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273889" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 188px) 100vw, 188px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1-188x300.jpg" /><noscript><img fetchpriority="high" decoding="async" width="188" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1-188x300.jpg" class="attachment-medium size-medium wp-image-273889" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-12-1.jpg 250w" sizes="(max-width: 188px) 100vw, 188px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-f8ee410 elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="f8ee410" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:600,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="194" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273891" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 194px) 100vw, 194px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1-194x300.jpg" /><noscript><img decoding="async" width="194" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1-194x300.jpg" class="attachment-medium size-medium wp-image-273891" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-11-1.jpg 250w" sizes="(max-width: 194px) 100vw, 194px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-6aba129 elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="6aba129" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:300,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="194" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273893" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 194px) 100vw, 194px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1-194x300.jpg" /><noscript><img loading="lazy" decoding="async" width="194" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1-194x300.jpg" class="attachment-medium size-medium wp-image-273893" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-10-1.jpg 250w" sizes="(max-width: 194px) 100vw, 194px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-8257d82 elementor-widget__width-initial no-shadow animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="8257d82" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="201" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20201%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273895" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1-201x300.jpg 201w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 201px) 100vw, 201px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1-201x300.jpg" /><noscript><img loading="lazy" decoding="async" width="201" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1-201x300.jpg" class="attachment-medium size-medium wp-image-273895" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1-201x300.jpg 201w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-09-1.jpg 250w" sizes="(max-width: 201px) 100vw, 201px" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-45d80d5 e-con-full col-books-right e-flex e-con e-child" data-id="45d80d5" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-466ead0 elementor-widget__width-initial no-shadow animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="466ead0" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="194" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273897" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 194px) 100vw, 194px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1-194x300.jpg" /><noscript><img loading="lazy" decoding="async" width="194" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1-194x300.jpg" class="attachment-medium size-medium wp-image-273897" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1-194x300.jpg 194w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-07-1.jpg 250w" sizes="(max-width: 194px) 100vw, 194px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-7d73f8f elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="7d73f8f" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:300,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="188" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20188%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273899" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 188px) 100vw, 188px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1-188x300.jpg" /><noscript><img loading="lazy" decoding="async" width="188" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1-188x300.jpg" class="attachment-medium size-medium wp-image-273899" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-06-1.jpg 250w" sizes="(max-width: 188px) 100vw, 188px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-15e1ee5 elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="15e1ee5" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:600,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="188" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20188%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273901" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 188px) 100vw, 188px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1-188x300.jpg" /><noscript><img loading="lazy" decoding="async" width="188" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1-188x300.jpg" class="attachment-medium size-medium wp-image-273901" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-04-1.jpg 250w" sizes="(max-width: 188px) 100vw, 188px" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-d64e5b7 elementor-widget__width-initial animated-fast elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-image" data-id="d64e5b7" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:900,&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="188" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20188%20300'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273903" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1.jpg 250w"
+                                            data-lazy-sizes="(max-width: 188px) 100vw, 188px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1-188x300.jpg" /><noscript><img loading="lazy" decoding="async" width="188" height="300" src="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1-188x300.jpg" class="attachment-medium size-medium wp-image-273903" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1-188x300.jpg 188w, https://cdn.spines.com/wp-content/uploads/2025/04/book-cover-03-1.jpg 250w" sizes="(max-width: 188px) 100vw, 188px" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-8394f08 elementor-widget__width-initial laptop ob-has-background-overlay elementor-widget elementor-widget-image" data-id="8394f08" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="653" height="370" src="https://cdn.spines.com/wp-content/uploads/2025/04/laptop-1.png" class="attachment-large size-large wp-image-273905" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/laptop-1.png 653w, https://cdn.spines.com/wp-content/uploads/2025/04/laptop-1-300x170.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/laptop-1-360x204.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/laptop-1-600x340.png 600w"
+                                    sizes="(max-width: 653px) 100vw, 653px" /> </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-217d8ee e-con-full e-flex elementor-invisible e-con e-child" data-id="217d8ee" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:600,&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div class="elementor-element elementor-element-b527f02 elementor-widget__width-initial elementor-hidden-mobile ob-has-background-overlay elementor-widget elementor-widget-image" data-id="b527f02" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="257" height="65" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20257%2065'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-273908" alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/reviews-avatars-2.jpg"
+                                /><noscript><img loading="lazy" decoding="async" width="257" height="65" src="https://cdn.spines.com/wp-content/uploads/2025/04/reviews-avatars-2.jpg" class="attachment-medium size-medium wp-image-273908" alt="" /></noscript>                                </div>
+                        </div>
+                        <div class="elementor-element elementor-element-54402b8 elementor-widget__width-initial elementor-hidden-desktop elementor-hidden-tablet ob-has-background-overlay elementor-widget elementor-widget-image" data-id="54402b8" data-element_type="widget" data-e-type="widget"
+                            data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="239" height="74" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20239%2074'%3E%3C/svg%3E" class="attachment-medium size-medium wp-image-297141" alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/07/reviews-avatars-mobile.png"
+                                /><noscript><img loading="lazy" decoding="async" width="239" height="74" src="https://cdn.spines.com/wp-content/uploads/2025/07/reviews-avatars-mobile.png" class="attachment-medium size-medium wp-image-297141" alt="" /></noscript>                                </div>
+                        </div>
+                        <div class="elementor-element elementor-element-5355e70 e-con-full e-flex e-con e-child" data-id="5355e70" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-b55b7dc e-con-full e-flex e-con e-child" data-id="b55b7dc" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div data-dce-title-color="#151B23" class="elementor-element elementor-element-a34a248 elementor-widget__width-auto ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="a34a248" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-heading-title elementor-size-default">Excellent</div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-6a34eaf ob-has-background-overlay elementor-widget elementor-widget-rating" data-id="6a34eaf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="rating.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="e-rating" itemtype="https://schema.org/Rating" itemscope="" itemprop="reviewRating">
+                                            <meta itemprop="worstRating" content="0">
+                                            <meta itemprop="bestRating" content="5">
+                                            <div class="e-rating-wrapper" itemprop="ratingValue" content="4.5" role="img" aria-label="Rated 4.5 out of 5">
+                                                <div class="e-icon">
+                                                    <div class="e-icon-wrapper e-icon-marked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                    <div class="e-icon-wrapper e-icon-unmarked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                </div>
+                                                <div class="e-icon">
+                                                    <div class="e-icon-wrapper e-icon-marked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                    <div class="e-icon-wrapper e-icon-unmarked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                </div>
+                                                <div class="e-icon">
+                                                    <div class="e-icon-wrapper e-icon-marked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                    <div class="e-icon-wrapper e-icon-unmarked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                </div>
+                                                <div class="e-icon">
+                                                    <div class="e-icon-wrapper e-icon-marked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                    <div class="e-icon-wrapper e-icon-unmarked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                </div>
+                                                <div class="e-icon">
+                                                    <div class="e-icon-wrapper e-icon-marked" style="--e-rating-icon-marked-width: 50%;">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                    <div class="e-icon-wrapper e-icon-unmarked">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="22" viewBox="0 0 24 22" fill="none"><path d="M11.2154 0.421527C11.4341 -0.104376 12.1791 -0.104376 12.3979 0.421527L15.0439 6.78324C15.1361 7.00494 15.3446 7.15642 15.5839 7.17561L22.4519 7.72622C23.0197 7.77174 23.2499 8.48027 22.8173 8.85081L17.5846 13.3332C17.4023 13.4894 17.3226 13.7345 17.3783 13.9681L18.977 20.6701C19.1092 21.2241 18.5065 21.662 18.0204 21.3651L12.1404 17.7736C11.9355 17.6485 11.6778 17.6485 11.4729 17.7736L5.5929 21.3651C5.10682 21.662 4.5041 21.2241 4.63626 20.6701L6.23493 13.9681C6.29065 13.7345 6.21101 13.4894 6.02865 13.3332L0.795956 8.85081C0.363386 8.48027 0.593604 7.77174 1.16136 7.72622L8.02936 7.17561C8.26871 7.15642 8.47721 7.00494 8.56942 6.78323L11.2154 0.421527Z" fill="#E3DEDE"></path></svg>                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-dce-title-color="#5F7A9B" class="elementor-element elementor-element-177cb7b elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="177cb7b" data-element_type="widget"
+                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-heading-title elementor-size-default">based on 1,500+ reviews</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#F8F5F1" class="elementor-element elementor-element-7cfc1f71 e-flex e-con-boxed e-con e-parent" data-id="7cfc1f71" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;,&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-21e49459 e-con-full e-flex e-con e-child" data-id="21e49459" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-17b1ca5b ob-has-background-overlay elementor-widget elementor-widget-eael-counter" data-id="17b1ca5b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-counter.default">
+                                <div class="elementor-widget-container">
+                                    <div class="eael-counter-container">
+                                        <div class="eael-counter eael-counter-17b1ca5b eael-counter-layout-5" data-target=".eael-counter-number-17b1ca5b">
+                                            <span class="eael-counter-icon-wrap">
+                <span class="eael-counter-icon">
+                    <span class="eael-counter-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M27.5592 8.52298C27.5588 8.52308 27.5584 8.52317 27.558 8.52327L22.9899 9.61131L22.8002 9.66871C22.6546 9.72812 22.5411 9.83334 22.4742 9.95946C22.4047 10.0908 22.3879 10.2396 22.4245 10.3796L23.8927 15.6126L29.9226 14.133L28.4787 8.98673C28.3976 8.69706 28.0255 8.41369 27.5592 8.52298ZM30.7335 17.023L24.7036 18.5026L27.9761 30.1664L34.0063 28.6879L30.7335 17.023ZM34.8172 31.578L28.787 33.0565L30.2303 38.2006C30.3114 38.4903 30.6836 38.7737 31.15 38.6643C31.1503 38.6642 31.1506 38.6641 31.151 38.6641L35.7191 37.576L35.9088 37.5186C36.0544 37.4592 36.168 37.354 36.2348 37.2279C36.3044 37.0966 36.3211 36.9477 36.2845 36.8077L34.8172 31.578ZM21.656 6.89549C21.7063 6.87476 21.7572 6.85512 21.8085 6.83659C21.8332 6.8277 21.8581 6.81945 21.8831 6.81187L22.1642 6.72683C22.1929 6.71814 22.2219 6.71032 22.251 6.70337L26.8663 5.60411L26.8696 5.60332C28.7778 5.15344 30.8184 6.21833 31.3672 8.17631L39.1755 36.0062L39.1793 36.0199C39.4166 36.8975 39.3109 37.83 38.8856 38.6326C38.4608 39.4343 37.7505 40.0441 36.9005 40.3507C36.8758 40.3596 36.851 40.3679 36.8259 40.3755L36.5448 40.4605C36.5161 40.4692 36.4872 40.477 36.458 40.484L31.8427 41.5832L31.8394 41.584C29.9312 42.0339 27.8906 40.969 27.3418 39.011C27.3418 39.0108 27.3419 39.0112 27.3418 39.011L22.4057 21.4178V38.1122C22.4057 39.0693 22.018 39.9813 21.3374 40.6493C20.6577 41.3164 19.7418 41.6863 18.7924 41.6863H14.566C13.8054 41.6863 13.0662 41.4489 12.4528 41.0114C11.8394 41.4489 11.1002 41.6863 10.3396 41.6863H6.11321C5.16388 41.6863 4.24791 41.3164 3.56824 40.6493C2.88762 39.9813 2.5 39.0693 2.5 38.1122V9.07518C2.5 8.11814 2.88762 7.20608 3.56824 6.53807C4.24791 5.87098 5.16388 5.50111 6.11321 5.50111H10.3396C11.1002 5.50111 11.8394 5.73855 12.4528 6.17604C13.0662 5.73855 13.8054 5.50111 14.566 5.50111H18.7924C19.7418 5.50111 20.6577 5.87098 21.3374 6.53807C21.4521 6.6506 21.5584 6.77006 21.656 6.89549ZM19.4057 10.2265V9.07518C19.4057 8.93208 19.348 8.78903 19.236 8.67912C19.1231 8.56827 18.964 8.50111 18.7924 8.50111H14.566C14.3944 8.50111 14.2354 8.56827 14.1225 8.67912C14.0105 8.78903 13.9528 8.93208 13.9528 9.07518V30.39H19.4057V10.2403C19.4056 10.2357 19.4056 10.2311 19.4057 10.2265ZM19.4057 33.39H13.9528V38.1122C13.9528 38.2553 14.0105 38.3984 14.1225 38.5083C14.2354 38.6191 14.3944 38.6863 14.566 38.6863H18.7924C18.964 38.6863 19.1231 38.6191 19.236 38.5083C19.348 38.3984 19.4057 38.2553 19.4057 38.1122V33.39ZM10.9528 38.1122V16.7974H5.5V38.1122C5.5 38.2553 5.55766 38.3984 5.66965 38.5083C5.78258 38.6191 5.94162 38.6863 6.11321 38.6863H10.3396C10.5112 38.6863 10.6702 38.6191 10.7832 38.5083C10.8952 38.3984 10.9528 38.2553 10.9528 38.1122ZM5.5 13.7974H10.9528V9.07518C10.9528 8.93208 10.8952 8.78903 10.7832 8.67912C10.6702 8.56827 10.5112 8.50111 10.3396 8.50111H6.11321C5.94162 8.50111 5.78258 8.56827 5.66965 8.67912C5.55766 8.78903 5.5 8.93208 5.5 9.07518V13.7974Z" fill="#5F7A9B"></path></svg></span>                                            </span>
+                                            </span>
+
+                                            <div class="eael-counter-number-title-wrap">
+                                                <div class="eael-counter-number-wrap">
+                                                    <div class="eael-counter-number eael-counter-number-17b1ca5b" data-to="2800" data-speed="500">0</div>
+                                                    <span class="eael-counter-number-suffix">+</span> </div>
+
+
+                                                <div class="eael-counter-title">Books published</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- .eael-counter-container -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-345bd555 e-con-full e-flex e-con e-child" data-id="345bd555" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-21ecb4b5 ob-has-background-overlay elementor-widget elementor-widget-eael-counter" data-id="21ecb4b5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-counter.default">
+                                <div class="elementor-widget-container">
+                                    <div class="eael-counter-container">
+                                        <div class="eael-counter eael-counter-21ecb4b5 eael-counter-layout-5" data-target=".eael-counter-number-21ecb4b5">
+                                            <span class="eael-counter-icon-wrap">
+                <span class="eael-counter-icon">
+                    <span class="eael-counter-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M12.6189 10.1022C15.5961 8.38228 19.0561 7.68891 22.4661 8.1289C25.876 8.5689 29.0467 10.1178 31.4898 12.5371C33.9328 14.9564 35.5126 18.1119 35.9859 21.5174C36.0999 22.3379 35.5272 23.0955 34.7067 23.2096C33.8861 23.3236 33.1285 22.7509 33.0145 21.9303C32.6318 19.1766 31.3543 16.6251 29.3788 14.6688C27.4034 12.7125 24.8395 11.46 22.0822 11.1042C19.3248 10.7485 16.527 11.3091 14.1196 12.6999C12.396 13.6956 10.941 15.0773 9.86119 16.7239H13.5002C14.3286 16.7239 15.0002 17.3954 15.0002 18.2239C15.0002 19.0523 14.3286 19.7239 13.5002 19.7239H7.40875C7.38602 19.7244 7.36323 19.7244 7.3404 19.7239H6.50018C5.67176 19.7239 5.00018 19.0523 5.00018 18.2239V11.2239C5.00018 10.3954 5.67176 9.72385 6.50018 9.72385C7.32861 9.72385 8.00018 10.3954 8.00018 11.2239V14.1642C9.24852 12.5288 10.8147 11.1445 12.6189 10.1022ZM6.29371 23.7381C7.11425 23.6241 7.87187 24.1968 7.98591 25.0174C8.3686 27.7711 9.64607 30.3226 11.6215 32.2789C13.597 34.2352 16.1609 35.4877 18.9182 35.8434C21.6756 36.1992 24.4734 35.6386 26.8807 34.2478C28.6043 33.2521 30.0593 31.8703 31.1392 30.2238H27.5002C26.6718 30.2238 26.0002 29.5523 26.0002 28.7238C26.0002 27.8954 26.6718 27.2238 27.5002 27.2238H33.5917C33.6144 27.2233 33.6371 27.2233 33.6599 27.2238H34.5002C35.3286 27.2238 36.0002 27.8954 36.0002 28.7238V35.7238C36.0002 36.5523 35.3286 37.2238 34.5002 37.2238C33.6718 37.2238 33.0002 36.5523 33.0002 35.7238V32.7835C31.7519 34.4189 30.1856 35.8032 28.3814 36.8455C25.4043 38.5654 21.9443 39.2588 18.5343 38.8188C15.1243 38.3788 11.9536 36.8298 9.5106 34.4105C7.06756 31.9912 5.48773 28.8358 5.01446 25.4303C4.90043 24.6098 5.47317 23.8521 6.29371 23.7381Z" fill="#5F7A9B"></path></svg></span>                                            </span>
+                                            </span>
+
+                                            <div class="eael-counter-number-title-wrap">
+                                                <div class="eael-counter-number-wrap">
+                                                    <div class="eael-counter-number eael-counter-number-21ecb4b5" data-to="450" data-speed="500">0</div>
+                                                    <span class="eael-counter-number-suffix">+</span> </div>
+
+
+                                                <div class="eael-counter-title">Authors published a second book with us</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- .eael-counter-container -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-75c6b739 e-con-full e-flex e-con e-child" data-id="75c6b739" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-7e3e5a40 ob-has-background-overlay elementor-widget elementor-widget-eael-counter" data-id="7e3e5a40" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-counter.default">
+                                <div class="elementor-widget-container">
+                                    <div class="eael-counter-container">
+                                        <div class="eael-counter eael-counter-7e3e5a40 eael-counter-layout-5" data-target=".eael-counter-number-7e3e5a40">
+                                            <span class="eael-counter-icon-wrap">
+                <span class="eael-counter-icon">
+                    <span class="eael-counter-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M23.25 14.5C23.25 13.6716 23.9216 13 24.75 13H37C37.8284 13 38.5 13.6716 38.5 14.5V26.75C38.5 27.5784 37.8284 28.25 37 28.25C36.1716 28.25 35.5 27.5784 35.5 26.75V18.1213L24.0607 29.5607C23.4749 30.1464 22.5251 30.1464 21.9393 29.5607L16 23.6213L6.56066 33.0607C5.97487 33.6464 5.02513 33.6464 4.43934 33.0607C3.85355 32.4749 3.85355 31.5251 4.43934 30.9393L14.9393 20.4393C15.5251 19.8536 16.4749 19.8536 17.0607 20.4393L23 26.3787L33.3787 16H24.75C23.9216 16 23.25 15.3284 23.25 14.5Z" fill="#5F7A9B"></path></svg></span>                                            </span>
+                                            </span>
+
+                                            <div class="eael-counter-number-title-wrap">
+                                                <div class="eael-counter-number-wrap">
+                                                    <div class="eael-counter-number eael-counter-number-7e3e5a40" data-to="20" data-speed="500">0</div>
+                                                    <span class="eael-counter-number-suffix">%</span> </div>
+
+
+                                                <div class="eael-counter-title">Annual growth in royalty payout</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- .eael-counter-container -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-4698b0e0 e-flex e-con-boxed e-con e-parent" data-id="4698b0e0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-455ca741 e-con-full e-flex e-con e-child" data-id="455ca741" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div data-dce-title-color="#16CEA3" class="elementor-element elementor-element-41617675 ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="41617675" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-heading-title elementor-size-default">WHY SPINES</div>
+                                </div>
+                            </div>
+                            <div data-dce-title-color="#133B49" class="elementor-element elementor-element-50520fa5 elementor-widget-mobile__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="50520fa5" data-element_type="widget"
+                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Publishing Your Book <span class="for-mobile">Has Never Been Easier</span></h2>
+                                </div>
+                            </div>
+                            <div data-dce-title-color="#133B49" class="elementor-element elementor-element-7cfcb35c elementor-hidden-mobile ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="7cfcb35c" data-element_type="widget" data-e-type="widget"
+                                data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Has Never Been Easier</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-7507e973 e-con-full e-flex e-con e-child" data-id="7507e973" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div data-dce-background-color="#44AACF7D" class="elementor-element elementor-element-775131d4 e-con-full e-transform e-flex e-con e-child" data-id="775131d4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            </div>
+                            <div class="elementor-element elementor-element-7770de88 e-con-full e-flex e-con e-child" data-id="7770de88" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-6c2999ea ob-has-background-overlay elementor-widget elementor-widget-image" data-id="6c2999ea" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img decoding="async" width="600" height="773" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20773'%3E%3C/svg%3E" class="attachment-woocommerce_single size-woocommerce_single wp-image-274953" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-600x773.jpg 600w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-233x300.jpg 233w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-795x1024.jpg 795w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-768x990.jpg 768w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-1192x1536.jpg 1192w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-360x464.jpg 360w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book.jpg 1416w"
+                                            data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-600x773.jpg" /><noscript><img loading="lazy" decoding="async" width="600" height="773" src="https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-600x773.jpg" class="attachment-woocommerce_single size-woocommerce_single wp-image-274953" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-600x773.jpg 600w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-233x300.jpg 233w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-795x1024.jpg 795w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-768x990.jpg 768w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-1192x1536.jpg 1192w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book-360x464.jpg 360w, https://cdn.spines.com/wp-content/uploads/2025/04/author-with-book.jpg 1416w" sizes="(max-width: 600px) 100vw, 600px" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-523edf7b e-con-full e-flex e-con e-child" data-id="523edf7b" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div data-dce-title-color="#133B49" data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-2c9b0c00 elementor-view-stacked elementor-position-inline-start elementor-tablet-position-block-start animated-fast elementor-shape-circle elementor-mobile-position-block-start elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-icon-box"
+                                    data-id="2c9b0c00" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="icon-box.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-icon-box-wrapper">
+
+                                            <div class="elementor-icon-box-icon">
+                                                <span class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="51" height="59" viewBox="0 0 51 59" fill="none"><path d="M5.87207 53.9564L11.8187 42.3896L22.6307 48.173L17.7653 58.1625L14.5217 52.9049L5.87207 53.9564Z" fill="#16CEA3"></path><path d="M44.3184 53.9564L38.3717 42.3896L27.5597 48.173L32.4251 58.1625L35.6687 52.9049L44.3184 53.9564Z" fill="#16CEA3"></path><path d="M25.9238 50C39.7309 50 50.9238 38.8071 50.9238 25C50.9238 11.1929 39.7309 0 25.9238 0C12.1167 0 0.923828 11.1929 0.923828 25C0.923828 38.8071 12.1167 50 25.9238 50Z" fill="#5F7A9B"></path><path d="M47.6507 25C47.6507 23.2749 46.5959 21.806 45.0876 21.185C46.241 20.0415 46.6551 18.2769 45.9946 16.6799C45.3341 15.0829 43.7962 14.1266 42.1697 14.1365C42.7907 12.6381 42.5048 10.8538 41.2824 9.63136C40.06 8.40896 38.2757 8.12308 36.7773 8.74413C36.7773 7.11756 35.8211 5.5797 34.2339 4.91921C32.6468 4.25872 30.8723 4.67276 29.7288 5.82615C29.1077 4.32773 27.6389 3.26306 25.9137 3.26306C24.1886 3.26306 22.7197 4.31787 22.0987 5.82615C20.9551 4.67276 19.1906 4.25872 17.5936 4.91921C16.0064 5.5797 15.0403 7.11756 15.0502 8.74413C13.5518 8.12308 11.7675 8.40896 10.5451 9.63136C9.32266 10.8538 9.03677 12.6381 9.65783 14.1365C8.03125 14.1365 6.4934 15.0927 5.83291 16.6799C5.17242 18.267 5.58646 20.0415 6.73985 21.185C5.24143 21.806 4.17676 23.2749 4.17676 25C4.17676 26.7252 5.23157 28.1941 6.73985 28.8151C5.58646 29.9586 5.17242 31.7232 5.83291 33.3202C6.4934 34.9074 8.03125 35.8735 9.65783 35.8636C9.03677 37.362 9.32266 39.1463 10.5451 40.3687C11.7675 41.5911 13.5518 41.877 15.0502 41.256C15.0502 42.8825 16.0064 44.4204 17.5936 45.0809C19.1807 45.7414 20.9551 45.3273 22.0987 44.1739C22.7197 45.6724 24.1886 46.737 25.9137 46.737C27.6389 46.737 29.1077 45.6822 29.7288 44.1739C30.8723 45.3273 32.6369 45.7414 34.2339 45.0809C35.8211 44.4204 36.7872 42.8825 36.7773 41.256C38.2757 41.877 40.06 41.5911 41.2824 40.3687C42.5048 39.1463 42.7907 37.362 42.1697 35.8636C43.7962 35.8636 45.3341 34.9074 45.9946 33.3202C46.6551 31.7331 46.241 29.9586 45.0876 28.8151C46.5861 28.1941 47.6507 26.7252 47.6507 25Z" fill="white"></path><path d="M25.924 40.5363C17.3573 40.5363 10.3877 33.5667 10.3877 25C10.3877 16.4334 17.3573 9.46375 25.924 9.46375C34.4906 9.46375 41.4602 16.4334 41.4602 25C41.4602 33.5667 34.4906 40.5363 25.924 40.5363Z" fill="#16CEA3"></path><path d="M26.634 18.4937L28.2606 21.7961C28.3789 22.0327 28.5958 22.1904 28.8619 22.2299L32.4995 22.7622C33.1502 22.8608 33.4163 23.6593 32.9432 24.1226L30.3111 26.6857C30.1238 26.873 30.035 27.1293 30.0843 27.3856L30.7054 31.0134C30.8138 31.664 30.1336 32.1569 29.552 31.8513L26.2988 30.136C26.0622 30.0177 25.7862 30.0177 25.5595 30.136L22.3063 31.8513C21.7247 32.1569 21.0445 31.664 21.1529 31.0134L21.774 27.3856C21.8134 27.1293 21.7346 26.8631 21.5473 26.6857L18.9152 24.1226C18.442 23.6593 18.7081 22.8608 19.3588 22.7622L22.9964 22.2299C23.2527 22.1904 23.4794 22.0327 23.5977 21.7961L25.2243 18.4937C25.52 17.9022 26.358 17.9022 26.6537 18.4937H26.634Z" fill="white"></path></svg>				</span>
+                                            </div>
+
+                                            <div class="elementor-icon-box-content">
+
+                                                <h3 class="elementor-icon-box-title">
+                                                    <span>
+							Premium-Quality Publishing						</span>
+                                                </h3>
+
+                                                <p class="elementor-icon-box-description">
+                                                    Publish with the highest standards. Your book will be expertly designed and produced, ready to inspire readers. </p>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div data-dce-title-color="#133B49" data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-200a9b44 elementor-view-stacked elementor-position-inline-start elementor-tablet-position-block-start animated-fast elementor-shape-circle elementor-mobile-position-block-start elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-icon-box"
+                                    data-id="200a9b44" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:150,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="icon-box.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-icon-box-wrapper">
+
+                                            <div class="elementor-icon-box-icon">
+                                                <span class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="51" height="48" viewBox="0 0 51 48" fill="none"><g clip-path="url(#clip0_606_3961)"><path d="M17.2102 30.08L20.2802 46.18H22.2502L23.9002 35.36H23.9602L22.3402 32.39H28.8102L27.1902 35.36H27.2502L28.9002 46.18H30.8702L33.9402 30.08C33.6402 30.06 33.3402 30.04 33.0302 30.04H32.0402C30.1102 31.03 27.9102 31.59 25.5702 31.59C23.2302 31.59 21.0402 31.03 19.1002 30.04H18.1102C17.8002 30.04 17.5002 30.06 17.2002 30.08H17.2102Z" fill="white"></path><path d="M28.89 46.18H20.27L17.2 30.08C10.94 30.55 6 35.76 6 42.14V48.01H45.12V42.14C45.12 35.76 40.18 30.55 33.92 30.08L30.85 46.18H28.88H28.89Z" fill="#16CEA3"></path><path d="M27.24 35.36H27.18L28.8 32.39H22.33L23.95 35.36H23.89L22.25 46.18H28.89L27.24 35.36Z" fill="#7D94B0"></path><path d="M32.0301 30.04C35.3801 28.33 37.9101 25.35 38.9401 21.76H39.1401C41.0101 21.76 42.5401 20.29 42.5401 18.49V17.44C42.5401 15.88 41.3901 14.57 39.8701 14.25C39.9201 13.78 39.9601 13.3 39.9601 12.82V12.68C39.9601 12.33 39.9401 11.98 39.9001 11.59C39.6901 9.36001 38.9101 7.29001 37.7201 5.54001C37.1001 4.64001 36.3601 3.82001 35.5401 3.10001C34.9301 2.57001 34.0501 2.08001 33.1001 1.66001C29.9901 0.300013 26.5601 -0.209987 23.1801 0.0800134C21.7401 0.200013 20.6901 0.360013 20.5901 0.450013C15.2501 2.03001 11.3401 6.97001 11.3401 12.82C11.3401 12.91 11.3401 13 11.3401 13.09C11.3401 13.48 11.3401 13.87 11.3801 14.25C9.80008 14.53 8.58008 15.83 8.58008 17.44V18.49C8.58008 20.29 10.1101 21.76 11.9801 21.76H12.1801C13.2001 25.34 15.7401 28.33 19.0901 30.04C21.0201 31.03 23.2201 31.59 25.5601 31.59C27.9001 31.59 30.0901 31.03 32.0301 30.04ZM39.5001 16.16C40.0901 16.32 40.5401 16.82 40.5401 17.44V18.49C40.5401 19.17 40.0201 19.72 39.3401 19.82C39.4001 19.3 39.4501 18.78 39.4501 18.24C39.4501 17.7 39.4001 17.22 39.3401 16.72C39.4001 16.53 39.4601 16.35 39.5101 16.16H39.5001ZM10.6001 18.49V17.44C10.6001 16.77 11.1101 16.23 11.7701 16.13C11.7701 16.39 11.7801 16.64 11.7901 16.9C11.7301 17.34 11.7001 17.79 11.7001 18.25C11.7001 18.78 11.7401 19.31 11.8101 19.83C11.1301 19.73 10.6101 19.18 10.6101 18.5L10.6001 18.49ZM14.1801 21.48C13.9801 20.83 13.8401 20.16 13.7601 19.47C13.7101 19.07 13.6901 18.66 13.6901 18.24C13.6901 17.66 13.7501 17.09 13.8401 16.54C13.8801 16.28 13.9401 16.03 14.0001 15.77C15.6301 14.61 17.7101 12.81 18.5101 11.39C18.5101 11.39 31.7001 14.48 36.5001 14.83C36.6401 14.84 36.7701 14.85 36.8901 14.85C37.0701 15.4 37.2101 15.96 37.3001 16.53C37.3901 17.09 37.4501 17.65 37.4501 18.23C37.4501 18.64 37.4201 19.05 37.3801 19.46C37.3001 20.15 37.1601 20.82 36.9601 21.46C35.5101 26.19 30.9601 29.65 25.5701 29.65C20.1801 29.65 15.6401 26.19 14.1801 21.46V21.48Z" fill="#4C617B"></path><path d="M25.0098 27C41.1587 27 42.0098 25.9404 42.0098 19" stroke="#133B49"></path><circle cx="25.0098" cy="27" r="2" fill="#38485C"></circle></g><defs><clipPath id="clip0_606_3961"><rect width="50" height="48" fill="white" transform="translate(0.961914)"></rect></clipPath></defs></svg>				</span>
+                                            </div>
+
+                                            <div class="elementor-icon-box-content">
+
+                                                <h3 class="elementor-icon-box-title">
+                                                    <span>
+							Personal Guidance						</span>
+                                                </h3>
+
+                                                <p class="elementor-icon-box-description">
+                                                    Your dedicated project manager is with you every step of the way, making the process seamless, efficient, and enjoyable. </p>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div data-dce-title-color="#133B49" data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-2b616823 elementor-view-stacked elementor-position-inline-start elementor-tablet-position-block-start animated-fast elementor-shape-circle elementor-mobile-position-block-start elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-icon-box"
+                                    data-id="2b616823" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="icon-box.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-icon-box-wrapper">
+
+                                            <div class="elementor-icon-box-icon">
+                                                <span class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="51" height="45" viewBox="0 0 51 45" fill="none"><g clip-path="url(#clip0_606_3977)"><path d="M37.0763 16.6595L37.0356 16.6028L36.71 16.9347L36.6937 16.9509L36.2623 17.388C36.132 17.5175 36.0018 17.6551 35.8715 17.7847C35.5541 18.1004 35.2366 18.3999 34.9354 18.6994L34.4795 19.1284L34.4632 19.1446L34.048 19.5251C33.9015 19.6546 33.755 19.7841 33.6166 19.9055L33.5759 19.946C33.7143 19.9703 33.8527 20.0108 33.9911 20.0755C35.0412 20.5208 35.5296 21.7269 35.0819 22.7631C34.6342 23.8073 33.4212 24.293 32.3792 23.8478C31.5326 23.4835 31.0604 22.6255 31.15 21.7593C30.4092 22.1883 29.7824 22.3907 29.2207 22.3907C28.9683 22.3907 28.7404 22.3502 28.5368 22.2774C28.6101 22.5283 28.659 22.7874 28.6752 23.0545C28.7404 24.0502 28.4066 24.9568 27.7391 25.6206C25.2643 28.0815 21.6743 29.5305 19.4194 29.6843H19.338C19.0286 29.6843 18.7274 29.5629 18.5076 29.3443C18.2634 29.1095 18.1413 28.7776 18.1657 28.4377C18.3122 26.3491 19.4682 22.9331 22.2523 20.1646C22.8628 19.5575 23.6932 19.2256 24.5968 19.2256C24.9468 19.2256 25.2887 19.2822 25.6225 19.3713C25.5492 19.1608 25.5085 18.9341 25.5085 18.6832C25.0689 18.6832 24.6212 18.5942 24.1898 18.4161C22.4558 17.6794 21.6499 15.6962 22.3907 13.9719C23.1315 12.2477 25.1259 11.4463 26.8599 12.1829C27.6088 12.4986 28.1868 13.0491 28.5368 13.7129L28.7648 13.47L28.7811 13.4538L29.2125 13.0005C29.5056 12.701 29.8068 12.3853 30.1324 12.0696C30.2627 11.9401 30.401 11.8106 30.5313 11.681L30.9709 11.252L31.0116 11.2115L31.0279 11.1953C27.9019 9.44683 24.2223 8.59685 20.38 8.97732C10.3833 9.9649 3.09744 18.8127 4.09059 28.7291C5.08375 38.6535 13.9733 45.8985 23.9455 44.9109C26.811 44.6276 29.4405 43.6886 31.728 42.272L31.7605 42.2477C33.0223 41.4625 34.1783 40.5396 35.204 39.4873C35.3098 39.3902 35.4075 39.2849 35.5133 39.1878C35.7494 38.8559 36.0588 38.5564 36.1565 38.1354L36.1809 38.0788C37.0601 33.1408 31.0849 33.8532 30.9546 30.2024C30.8488 27.2234 34.6749 26.6487 36.7263 25.4749C37.2147 25.0782 37.7683 24.633 37.9474 24.123C38.0207 23.9287 38.1102 23.7507 38.1916 23.5645C38.5824 22.415 38.5091 21.5893 38.3951 20.4641C38.2567 19.0556 37.7764 17.7685 37.0601 16.6514L37.0763 16.6595ZM12.0358 16.1495C12.6627 14.6843 14.3722 13.9962 15.8538 14.6195C17.3354 15.2428 18.0192 16.9428 17.3924 18.4161C16.7655 19.8813 15.056 20.5693 13.5744 19.946C12.0928 19.3227 11.409 17.6228 12.0358 16.1495ZM8.51909 29.0043C6.78514 28.2677 5.97922 26.2844 6.72001 24.5602C7.45267 22.8359 9.45526 22.0345 11.1892 22.7712C12.9232 23.5078 13.7291 25.4911 12.9883 27.2153C12.2475 28.9395 10.253 29.7328 8.51909 29.0043ZM21.5929 37.0102C20.6323 39.2606 18.0192 40.3049 15.7479 39.3497C13.4849 38.3945 12.4347 35.7879 13.3953 33.5456C14.3559 31.2952 16.9772 30.2509 19.2321 31.2061C21.4952 32.1613 22.5454 34.7598 21.5848 37.0102H21.5929ZM32.2327 37.8035C31.6547 39.1635 30.0754 39.7949 28.7078 39.2121C27.3402 38.6373 26.7052 37.0588 27.2832 35.7069C27.8693 34.347 29.4405 33.7156 30.8081 34.2903C32.1757 34.8732 32.8107 36.4436 32.2327 37.7954V37.8035Z" fill="#16CEA3"></path><path d="M13.5747 19.946C15.0481 20.5693 16.7577 19.8894 17.3926 18.4161C18.0195 16.9428 17.3356 15.2428 15.8541 14.6195C14.3725 13.9962 12.6711 14.6762 12.0361 16.1495C11.4093 17.6228 12.0931 19.3146 13.5747 19.946Z" fill="#7D94B0"></path><path d="M11.1976 22.7712C9.46364 22.0345 7.4692 22.8359 6.7284 24.5602C5.9876 26.2763 6.79352 28.2677 8.52747 29.0043C10.2614 29.7329 12.2559 28.9395 12.9967 27.2153C13.7375 25.4911 12.9315 23.4997 11.1976 22.7712Z" fill="#BDC8D6"></path><path d="M26.8519 12.1829C25.1179 11.4463 23.1235 12.2477 22.3827 13.9719C21.6419 15.6961 22.4478 17.6794 24.1818 18.416C24.6132 18.6022 25.061 18.6832 25.5006 18.6832C25.5006 17.8575 25.9646 16.797 27.2019 15.2428L27.5601 14.8138H27.5683L27.9834 14.3119C28.1055 14.1824 28.2358 14.0367 28.3742 13.891L28.5289 13.7129C28.1788 13.0491 27.6008 12.4986 26.8519 12.1829Z" fill="#4C617B"></path><path d="M27.2834 35.715C26.6973 37.075 27.3404 38.6454 28.708 39.2201C30.0756 39.803 31.6549 39.1635 32.2329 37.8116C32.819 36.4517 32.1759 34.8812 30.8083 34.3065C29.4407 33.7317 27.8614 34.3631 27.2834 35.7231V35.715Z" fill="#F8F5F1"></path><path d="M32.3624 23.8398C33.4126 24.285 34.6255 23.7993 35.0651 22.755C35.5129 21.7108 35.0244 20.5127 33.9743 20.0675C33.8359 20.0108 33.6975 19.9704 33.5591 19.938L33.0869 20.3346L32.6636 20.6908C32.1019 21.136 31.5891 21.4841 31.1251 21.7513C31.0355 22.6174 31.5077 23.4836 32.3543 23.8398H32.3624Z" fill="#00D6A0"></path><path d="M19.2406 31.2062C16.9775 30.251 14.3644 31.2953 13.4038 33.5457C12.4432 35.7961 13.4933 38.3946 15.7564 39.3498C18.0195 40.305 20.6326 39.2607 21.6014 37.0103C22.5619 34.7599 21.5118 32.1614 19.2487 31.2062H19.2406Z" fill="#DCE2EA"></path><path d="M36.4658 16.3114C36.5309 16.2466 36.5961 16.1738 36.6612 16.109H36.6693C42.5061 10.0297 49.1082 1.40853 47.8464 0.153805C47.7406 0.0485699 47.5859 0 47.3824 0C45.1518 0 37.4101 5.94981 31.8175 11.2682C31.7443 11.3411 31.671 11.4058 31.5977 11.4787L31.557 11.5192C31.5 11.5758 31.4349 11.6325 31.3779 11.6892L36.2542 16.538C36.3274 16.4652 36.3925 16.3923 36.4658 16.3195V16.3114Z" fill="#133B49"></path><path d="M28.0155 15.2104C27.9422 15.2914 27.8933 15.3643 27.8201 15.4452C27.755 15.5262 27.6898 15.6071 27.6328 15.68C26.5339 17.0642 26.135 17.9627 26.1105 18.6346C26.0943 19.0798 26.2489 19.4198 26.485 19.7274C26.713 20.0189 27.0142 20.286 27.3072 20.5774C27.5921 20.8607 27.8526 21.1522 28.1376 21.3788C28.4388 21.6136 28.7725 21.7836 29.204 21.7836C29.7494 21.7836 30.4576 21.5164 31.4508 20.8365C31.695 20.6665 31.9474 20.4884 32.2323 20.2617C32.3056 20.197 32.387 20.1322 32.4684 20.0674L32.5335 20.0189C32.5905 19.9703 32.6475 19.9298 32.7126 19.8732L28.8458 16.028L28.0236 15.2104H28.0155Z" fill="#133B49"></path><path d="M30.5473 12.4987C30.2135 12.8306 29.9205 13.1382 29.6274 13.4296C29.5541 13.5025 29.489 13.5753 29.4158 13.6482C29.3506 13.721 29.2692 13.7939 29.2041 13.8668L34.0478 18.6833C34.1129 18.6185 34.1943 18.5457 34.2676 18.4728C34.3408 18.408 34.4141 18.3352 34.4874 18.2623C34.7886 17.979 35.0979 17.6795 35.4235 17.3476C35.5538 17.2181 35.684 17.0805 35.8143 16.9509C35.8875 16.8781 35.9527 16.8052 36.0259 16.7324C36.0992 16.6595 36.1643 16.5948 36.2376 16.5138L31.3614 11.6649C31.2881 11.7378 31.2148 11.8025 31.1416 11.8754C31.0683 11.9482 30.995 12.013 30.9218 12.0859C30.7834 12.2154 30.6531 12.3449 30.5229 12.4744L30.5473 12.4987Z" fill="#38485C"></path><path d="M29.0085 14.0934C28.9433 14.1662 28.8701 14.2391 28.8049 14.32L28.7887 14.3362C28.6584 14.4738 28.5363 14.6114 28.4223 14.7491C28.3572 14.83 28.2839 14.9029 28.2188 14.9757C28.1537 15.0486 28.0804 15.1295 28.0234 15.2024L28.8456 16.02L32.7124 19.8651C32.7857 19.8003 32.8671 19.7356 32.9404 19.6708C33.0136 19.606 33.095 19.5413 33.1683 19.4765C33.3067 19.3551 33.4532 19.2256 33.5998 19.088C33.673 19.0232 33.7463 18.9503 33.8196 18.8856C33.8928 18.8127 33.9661 18.7561 34.0475 18.6832L29.2038 13.8667C29.1306 13.9476 29.0654 14.0124 29.0003 14.0934H29.0085Z" fill="#00D6A0"></path><path d="M27.0143 20.8688C26.7456 20.6017 26.4444 20.4074 26.1351 20.2374C25.6385 19.9784 25.1094 19.8246 24.5884 19.8246C23.872 19.8246 23.1882 20.0755 22.6672 20.5855C22.3904 20.8607 22.1381 21.1441 21.8938 21.4274L21.7962 21.5407C21.5682 21.8079 21.3566 22.0831 21.1612 22.3583L21.0554 22.5121C20.8681 22.7873 20.689 23.0545 20.5262 23.3297L20.4367 23.4835C20.2739 23.7587 20.1192 24.034 19.9889 24.3092L19.9727 24.3416C19.9401 24.4063 19.9157 24.4711 19.8831 24.5359C19.8343 24.6411 19.7854 24.7463 19.7366 24.8516C19.6959 24.9325 19.6715 25.0135 19.6307 25.0944C19.59 25.1997 19.5412 25.2968 19.5005 25.402C19.4679 25.483 19.4435 25.5639 19.411 25.6368C19.3784 25.7339 19.3377 25.8392 19.3051 25.9363C19.2807 26.0172 19.2563 26.0901 19.2319 26.1711C19.1993 26.2682 19.1749 26.3653 19.1423 26.4625C19.1179 26.5353 19.1016 26.6082 19.0772 26.681C19.0528 26.7782 19.0283 26.8753 19.0039 26.9644C18.9876 27.0291 18.9714 27.0939 18.9551 27.1586V27.1344C19.297 25.8068 19.8994 24.2444 20.3308 23.8883C20.6076 23.184 21.5357 24.0016 21.0065 25.1511C20.4774 26.3006 20.5751 26.3249 20.7542 26.5515C20.9251 26.7782 21.9752 24.9001 22.5044 25.572C23.0417 26.2439 20.6646 26.9725 21.0065 27.6767C21.3484 28.381 23.2045 26.762 23.758 27.2234C23.9616 27.3934 24.043 27.4905 24.0592 27.5472C25.2071 26.932 26.3386 26.1468 27.2992 25.1916C28.1784 24.3173 28.2842 22.9412 27.6737 21.7674C27.5027 21.4517 27.2911 21.136 27.0224 20.8688H27.0143Z" fill="#38485C"></path><path d="M23.7584 27.2234C23.2048 26.7701 21.3488 28.381 21.0069 27.6767C20.665 26.9724 23.042 26.2439 22.5047 25.572C21.9675 24.9001 20.9255 26.7782 20.7545 26.5515C20.5836 26.3248 20.4777 26.3006 21.0069 25.1511C21.5442 24.0016 20.6161 23.1759 20.3312 23.8883C19.9079 24.2444 19.2973 25.7987 18.9636 27.1343V27.1586C18.7438 28.0086 18.6461 28.7614 18.7763 29.0367C19.9812 29.9028 23.9375 27.62 23.9375 27.62C23.9375 27.62 24.084 27.6443 24.0515 27.5472C24.0352 27.4905 23.9538 27.3934 23.7503 27.2234H23.7584Z" fill="#00D6A0"></path></g><defs><clipPath id="clip0_606_3977"><rect width="50" height="45" fill="white" transform="translate(0.961914)"></rect></clipPath></defs></svg>				</span>
+                                            </div>
+
+                                            <div class="elementor-icon-box-content">
+
+                                                <h3 class="elementor-icon-box-title">
+                                                    <span>
+							Full Creative Control						</span>
+                                                </h3>
+
+                                                <p class="elementor-icon-box-description">
+                                                    Enjoy the freedom to publish your way. Manage every stage of the process in one intuitive dashboard and get professional support when you need it. </p>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div data-dce-title-color="#133B49" data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-24ac045d elementor-view-stacked elementor-position-inline-start elementor-tablet-position-block-start animated-fast elementor-shape-circle elementor-mobile-position-block-start elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-icon-box"
+                                    data-id="24ac045d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:450,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="icon-box.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-icon-box-wrapper">
+
+                                            <div class="elementor-icon-box-icon">
+                                                <span class="elementor-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="51" height="43" viewBox="0 0 51 43" fill="none"><g clip-path="url(#clip0_606_3997)"><path d="M16.3939 33.738C14.6181 34.504 12.9316 35.4637 11.3789 36.5818C14.6181 39.857 18.8389 42.0493 23.3721 42.8152C20.4006 40.2532 18.0626 37.2069 16.3939 33.738Z" fill="#16CEA3"></path><path d="M5.56934 25.6291C6.26537 29.2037 7.85375 32.5317 10.2631 35.3667C11.9496 34.1341 13.7879 33.0776 15.7332 32.2411C14.5464 29.3357 13.8503 26.2631 13.6808 23.0847H8.56763C8.25531 24.4758 7.05063 25.5235 5.57826 25.6291H5.56934Z" fill="#16CEA3"></path><path d="M26.2453 23.0759H15.3408C15.5104 26.043 16.1618 28.9132 17.2772 31.6249C20.1417 30.5772 23.1578 29.9785 26.2542 29.8552V23.0759H26.2453Z" fill="#16CEA3"></path><path d="M26.2453 43.0001V31.5017C23.3987 31.6162 20.6056 32.1708 17.9375 33.1305C19.8114 36.9868 22.6759 40.394 26.2453 43.0001Z" fill="#16CEA3"></path><path d="M16.0456 8.22312C16.3311 8.22312 16.6078 8.26714 16.8755 8.33757C18.4996 5.26489 20.7037 2.48274 23.3807 0.176025C18.4549 1.00363 13.9575 3.47762 10.6201 7.21943C11.5749 7.96779 12.5922 8.63692 13.6363 9.25322C14.2431 8.61931 15.0908 8.22312 16.0456 8.22312Z" fill="#16CEA3"></path><path d="M16.1348 14.7647C15.5727 16.9306 15.2871 19.1668 15.2871 21.4471H26.2452V14.5886C23.702 14.483 21.2123 14.0516 18.8119 13.312C18.2319 14.166 17.2503 14.7383 16.1438 14.7647H16.1348Z" fill="#16CEA3"></path><path d="M12.7173 11.4984C12.7173 11.2166 12.7619 10.9437 12.8333 10.6796C11.7 10.0193 10.6024 9.28851 9.56732 8.47852C7.1669 11.6128 5.7213 15.2402 5.29297 19.0876C5.30189 19.0876 5.31082 19.0876 5.31974 19.0876C6.82781 19.0876 8.08602 20.0825 8.48758 21.4384H13.6186C13.6186 19.0348 13.922 16.6753 14.5109 14.3862C13.449 13.8403 12.7084 12.7574 12.7084 11.4896L12.7173 11.4984Z" fill="#16CEA3"></path><path d="M36.8818 35.49C36.7836 35.49 36.6944 35.4724 36.6052 35.4636C35.0168 38.2457 32.9644 40.7285 30.4658 42.8767C35.2667 42.1372 39.7016 39.8305 43.0479 36.3088C41.9236 35.5252 40.7278 34.8385 39.4785 34.231C38.8717 34.9881 37.9348 35.49 36.8818 35.49Z" fill="#16CEA3"></path><path d="M40.2018 32.206C40.2018 32.3821 40.175 32.5581 40.1482 32.7254C41.5492 33.3945 42.8877 34.1781 44.146 35.0586C46.9658 31.6073 48.6255 27.4693 48.9468 23.0583H40.2285C40.1036 25.3475 39.711 27.5837 39.0596 29.7408C39.7556 30.3395 40.2018 31.2111 40.2018 32.1972V32.206Z" fill="#16CEA3"></path><path d="M49.0002 21.4295C48.9823 16.8601 47.5456 12.5108 44.824 8.81299C42.95 10.2217 40.9066 11.4014 38.7471 12.3083C39.7465 15.2401 40.2551 18.304 40.2641 21.4295H48.9912H49.0002Z" fill="#16CEA3"></path><path d="M19.3652 11.4984C19.3652 11.5864 19.3474 11.6744 19.3384 11.7625C21.5693 12.4492 23.8894 12.8542 26.2452 12.9511V0C22.8989 2.44758 20.204 5.5731 18.3301 9.13002C18.9636 9.72871 19.3652 10.5651 19.3652 11.4984Z" fill="#16CEA3"></path><path d="M27.9053 12.9686C30.8946 12.9158 33.8394 12.3875 36.6414 11.3838C34.8388 6.9817 31.8316 3.12544 27.9053 0.184814V12.9686Z" fill="#16CEA3"></path><path d="M30.4658 0.123291C33.8657 3.0463 36.5249 6.70888 38.1846 10.7764C40.1746 9.92243 42.0664 8.8307 43.8064 7.52767C40.3709 3.53054 35.6682 0.924479 30.4658 0.123291Z" fill="#16CEA3"></path><path d="M27.9044 21.4383H38.6126C38.6126 18.5241 38.1307 15.6539 37.2027 12.9158C34.2133 13.9899 31.0812 14.5534 27.8955 14.6062V21.4383H27.9044Z" fill="#16CEA3"></path><path d="M33.5628 32.2061C33.5628 32.2061 33.5628 32.1709 33.5628 32.1533C31.7156 31.7395 29.8238 31.5018 27.9053 31.4753V42.8064C30.8054 40.6318 33.2147 37.9377 34.9994 34.9002C34.1339 34.3103 33.5628 33.3242 33.5628 32.2061Z" fill="#16CEA3"></path><path d="M36.8815 28.9308C37.1045 28.9308 37.3276 28.9572 37.5418 29.0012C38.104 27.0819 38.4431 25.1009 38.5591 23.0759H27.8955V29.8464C29.9658 29.8816 32.0092 30.1281 33.9992 30.586C34.5703 29.5999 35.6322 28.9308 36.8636 28.9308H36.8815Z" fill="#16CEA3"></path><path d="M12.7169 11.4983C12.7169 12.7661 13.4487 13.8491 14.5195 14.3949C14.9746 14.6326 15.4921 14.7735 16.0454 14.7735C16.0722 14.7735 16.1079 14.7735 16.1346 14.7647C17.2501 14.7383 18.2316 14.166 18.8027 13.312C19.1061 12.863 19.2846 12.3259 19.3292 11.7625C19.3292 11.6744 19.356 11.5952 19.356 11.4983C19.356 10.5651 18.9544 9.72867 18.3209 9.12998C17.9193 8.7514 17.4196 8.47847 16.8664 8.3376C16.5986 8.26717 16.322 8.22314 16.0365 8.22314C15.0906 8.22314 14.2339 8.61934 13.6271 9.25324C13.2434 9.64943 12.9668 10.1425 12.824 10.6883C12.7526 10.9525 12.708 11.2166 12.708 11.5071L12.7169 11.4983Z" fill="#4C617B"></path><path d="M5.31954 19.0965C5.31954 19.0965 5.30169 19.0965 5.29277 19.0965C3.47238 19.1141 2 20.5756 2 22.3716C2 24.1677 3.49022 25.6468 5.31954 25.6468C5.40877 25.6468 5.48016 25.6292 5.56939 25.6204C7.04177 25.5148 8.24644 24.467 8.55876 23.076C8.6123 22.8471 8.63907 22.6093 8.63907 22.3628C8.63907 22.0371 8.57661 21.7289 8.48737 21.4384C8.07689 20.0825 6.81868 19.0876 5.31954 19.0876V19.0965Z" fill="#4C617B"></path><path d="M33.5625 32.2061C33.5625 33.3242 34.1336 34.3103 34.9992 34.9002C35.4632 35.2171 36.0075 35.402 36.6054 35.4549C36.7036 35.4549 36.7928 35.4813 36.882 35.4813C37.9439 35.4813 38.872 34.9794 39.4788 34.2223C39.8179 33.7909 40.0588 33.289 40.148 32.7255C40.1748 32.5583 40.2016 32.3822 40.2016 32.2061C40.2016 31.22 39.7554 30.3484 39.0594 29.7497C38.631 29.3799 38.1224 29.1158 37.5513 29.0013C37.3371 28.9573 37.114 28.9309 36.891 28.9309C35.6595 28.9309 34.5976 29.6 34.0265 30.5861C33.7499 31.0527 33.5893 31.5898 33.5803 32.1621C33.5803 32.1797 33.5803 32.1973 33.5803 32.2149L33.5625 32.2061Z" fill="#4C617B"></path></g><defs><clipPath id="clip0_606_3997"><rect width="50" height="43" fill="white" transform="translate(0.961914)"></rect></clipPath></defs></svg>				</span>
+                                            </div>
+
+                                            <div class="elementor-icon-box-content">
+
+                                                <h3 class="elementor-icon-box-title">
+                                                    <span>
+							Global Distribution and Marketing						</span>
+                                                </h3>
+
+                                                <p class="elementor-icon-box-description">
+                                                    In any format — eBook, audiobook, or print-on-demand — your book will be distributed and marketed worldwide, with just a few clicks. </p>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#FFFFFF" class="elementor-element elementor-element-0a48a34 e-flex e-con-boxed e-con e-parent" data-id="0a48a34" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-747c8f8 e-con-full e-flex e-con e-child" data-id="747c8f8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-015dc4f e-con-full elementor-hidden-tablet elementor-hidden-mobile col-left e-flex e-con e-child" data-id="015dc4f" data-element_type="container" data-e-type="container" data-settings="{&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-2ba33ab elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="2ba33ab" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.4,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="120" height="120" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E" title="author-photo-02.jpg" alt="author-photo-02.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-02-r4e6r0yrkkkhactpw20p5oj3thm9qnwxejhawhfgkw.jpg"
+                                        /><noscript><img width="120" height="120" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-02-r4e6r0yrkkkhactpw20p5oj3thm9qnwxejhawhfgkw.jpg" title="author-photo-02.jpg" alt="author-photo-02.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-e5849d9 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="e5849d9" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-04.jpg" alt="author-photo-04.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-04-r4e6r0yrg6ow67qrvrstss89r51j02sh2pkkhn18ek.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-04-r4e6r0yrg6ow67qrvrstss89r51j02sh2pkkhn18ek.jpg" title="author-photo-04.jpg" alt="author-photo-04.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-c0246c1 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="c0246c1" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.5,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-01_2.jpg" alt="author-photo-01_2.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-01_2-r4e6r1wln0q6htpeqa7gd9zqciww7rw7eu81ywzu8c.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-01_2-r4e6r1wln0q6htpeqa7gd9zqciww7rw7eu81ywzu8c.jpg" title="author-photo-01_2.jpg" alt="author-photo-01_2.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-5aa2acf elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="5aa2acf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-03.jpg" alt="author-photo-03.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-03-r4e6r2ufturgtfo1ksm2xrr6xws9fgzxqyvjg6yg24.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-03-r4e6r2ufturgtfo1ksm2xrr6xws9fgzxqyvjg6yg24.jpg" title="author-photo-03.jpg" alt="author-photo-03.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-b7da165 e-con-full elementor-hidden-tablet elementor-hidden-mobile col-right e-flex e-con e-child" data-id="b7da165" data-element_type="container" data-e-type="container" data-settings="{&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-0f0e97c elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="0f0e97c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.6,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-05.jpg" alt="author-photo-05.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-05-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-05-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg" title="author-photo-05.jpg" alt="author-photo-05.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-ce3732e elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="ce3732e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3.1,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-06.jpg" alt="author-photo-06.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-06-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-06-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg" title="author-photo-06.jpg" alt="author-photo-06.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-91b436a elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="91b436a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.5,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-08.jpg" alt="author-photo-08.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-08-r4e6r4q47iu1gnlb9tfc2ra44oizuv7ef86ieqvnpo.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-08-r4e6r4q47iu1gnlb9tfc2ra44oizuv7ef86ieqvnpo.jpg" title="author-photo-08.jpg" alt="author-photo-08.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-db2c9b0 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="db2c9b0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.3,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;motion_fx_opacity_effect&quot;:&quot;yes&quot;,&quot;motion_fx_opacity_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:50}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_opacity_direction&quot;:&quot;out-in&quot;,&quot;motion_fx_opacity_level&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-07.jpg" alt="author-photo-07.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-07-r4e6r5nyecvbs9jy4btyn91kq2ed2kb4rctzw0u9jg.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-07-r4e6r5nyecvbs9jy4btyn91kq2ed2kb4rctzw0u9jg.jpg" title="author-photo-07.jpg" alt="author-photo-07.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-0983ac8 e-con-full elementor-hidden-desktop e-flex e-con e-child" data-id="0983ac8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-5909891 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="5909891" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="120" height="120" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E" title="author-photo-02.jpg" alt="author-photo-02.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-02-r4e6r0yrkkkhactpw20p5oj3thm9qnwxejhawhfgkw.jpg"
+                                        /><noscript><img width="120" height="120" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-02-r4e6r0yrkkkhactpw20p5oj3thm9qnwxejhawhfgkw.jpg" title="author-photo-02.jpg" alt="author-photo-02.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-ab86bff elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="ab86bff" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-04.jpg" alt="author-photo-04.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-04-r4e6r0yrg6ow67qrvrstss89r51j02sh2pkkhn18ek.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-04-r4e6r0yrg6ow67qrvrstss89r51j02sh2pkkhn18ek.jpg" title="author-photo-04.jpg" alt="author-photo-04.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-b5555e8 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="b5555e8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-01_2.jpg" alt="author-photo-01_2.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-01_2-r4e6r1wln0q6htpeqa7gd9zqciww7rw7eu81ywzu8c.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-01_2-r4e6r1wln0q6htpeqa7gd9zqciww7rw7eu81ywzu8c.jpg" title="author-photo-01_2.jpg" alt="author-photo-01_2.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-d28ea99 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="d28ea99" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-03.jpg" alt="author-photo-03.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-03-r4e6r2ufturgtfo1ksm2xrr6xws9fgzxqyvjg6yg24.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-03-r4e6r2ufturgtfo1ksm2xrr6xws9fgzxqyvjg6yg24.jpg" title="author-photo-03.jpg" alt="author-photo-03.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                            <div data-dce-background-color="#FFFFFF" class="elementor-element elementor-element-039274c e-con-full e-flex e-con e-child" data-id="039274c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div data-dce-title-color="#16CEA3" class="elementor-element elementor-element-71993b4 ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="71993b4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-heading-title elementor-size-default">Did you know</div>
+                                    </div>
+                                </div>
+                                <div data-dce-title-color="#133B49" class="elementor-element elementor-element-ca364b7 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="ca364b7" data-element_type="widget"
+                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h2 class="elementor-heading-title elementor-size-default">9 Out of 10 Fully Written Books Never Get Published</h2>
+                                    </div>
+                                </div>
+                                <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-d40fa2d elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="d40fa2d" data-element_type="widget"
+                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <p>This is because the publishing process is full of barriers: overcomplicated, time-consuming, and out of reach for most writers. Frustrated and stuck, many give up before they even get the chance.</p>
+                                        <p>Founded by authors and writers themselves, Spines understands the many challenges authors face, aims to <strong>democratize publishing</strong> for writers everywhere.</p>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-dc5bc18 quotes-carousel elementor-arrows-yes elementor--star-style-star_fontawesome ob-has-background-overlay elementor-widget elementor-widget-reviews" data-id="dc5bc18" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;slides_per_view&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;speed&quot;:1000,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="reviews.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-swiper">
+                                            <div class="elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Slides">
+                                                <div class="swiper-wrapper">
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-d59cf7d">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Anais Nin" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Anais-Nin-e17464389322501-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Anais-Nin-e17464389322501-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg" alt="Anais Nin"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Anais Nin</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “We write to taste life twice, in the moment and in retrospect.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-650b5d8">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Toni Morrison" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Toni-Morrison-e1746444238948-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Toni-Morrison-e1746444238948-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg" alt="Toni Morrison"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Toni Morrison</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    "If there's a book that you want to read, but it hasn't been written yet, then you must write it." </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-61cb040">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Maya Angelou" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Maya-Angelou-r4e6r00wrt5npnld1dlfroch61s4q5kr8p4ms226nw.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Maya-Angelou-r4e6r00wrt5npnld1dlfroch61s4q5kr8p4ms226nw.jpg" alt="Maya Angelou"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Maya Angelou</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “There is no greater agony than bearing an untold story inside you.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-8b24f53">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Stephen King" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Stephen-King-e1746439181100-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Stephen-King-e1746439181100-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg" alt="Stephen King"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Stephen King</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “The scariest moment is always just before you start.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-b4d152b">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Ernest Hemingway" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Ernest-Hemingway-e1746439252828-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Ernest-Hemingway-e1746439252828-r8sf2t0rwbiu4b5x32bxvj2qcoo4rqjs43i7o9zby4.jpg" alt="Ernest Hemingway"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ernest Hemingway</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-"
+                                                                    aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “All you have to do is write one true sentence. Write the truest sentence that you know.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-6ee9247">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Jodi Picoult" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Jodi-Picoult-e1746439393302-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Jodi-Picoult-e1746439393302-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg" alt="Jodi Picoult"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Jodi Picoult</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    "You can always edit a bad page. You can’t edit a blank page." </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-669567d">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Ray Bradbury" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Ray-Bradbury-scaled-e1746439562406-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Ray-Bradbury-scaled-e1746439562406-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg" alt="Ray Bradbury"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ray Bradbury</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “You only fail if you stop writing.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-fb5853e">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Philip Pullman" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Philip-Pullman-e1746439640306-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Philip-Pullman-e1746439640306-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg" alt="Philip Pullman"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Philip Pullman</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “After nourishment, shelter and companionship, stories are the thing we need most in the world.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-873b503">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="Richard Bach" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Richard-Bach-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Richard-Bach-r8sf2tym35k4fx4jxkqkg0u6y2jhzfnig85p5jxxrw.jpg" alt="Richard Bach"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Richard Bach</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    "A professional writer is an amateur who didn’t quit." </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div class="elementor-testimonial elementor-repeater-item-bc46998">
+                                                            <div class="elementor-testimonial__header">
+                                                                <div class="elementor-testimonial__image">
+                                                                    <img width="70" height="70" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" alt="The Alchemist" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Paulo-Coelho-e17464397214471-r8sf2uwg9zlerj36s3570ilnjgev74r8sct6mtwjlo.jpg"><noscript><img width="70" height="70" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/Paulo-Coelho-e17464397214471-r8sf2uwg9zlerj36s3570ilnjgev74r8sct6mtwjlo.jpg" alt="The Alchemist"></noscript>
+                                                                </div>
+                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">The Alchemist</span></cite>
+                                                                <div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>
+                                                            </div>
+                                                            <div class="elementor-testimonial__content">
+                                                                <div class="elementor-testimonial__text">
+                                                                    “When a person really desires something, all the universe conspires to help that person to realize his dream.” </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>                                                    </div>
+                                                <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next">
+                                                    <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>                                                    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-9f61995 ob-has-background-overlay elementor-widget elementor-widget-html" data-id="9f61995" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="html.default">
+                                    <div class="elementor-widget-container">
+                                        <script>
+                                            (function($) {
+                                                $(document).ready(function() {
+                                                    var carousel = $('.quotes-carousel .swiper');
+                                                    var swiperInitInterval = setInterval(function() {
+
+                                                        var swiperInstance = carousel[0].swiper;
+
+                                                        if (swiperInstance) {
+                                                            var observer = new IntersectionObserver(function(entries) {
+                                                                entries.forEach(entry => {
+                                                                    if (entry.isIntersecting) {
+                                                                        swiperInstance.autoplay.start();
+                                                                    } else {
+                                                                        swiperInstance.autoplay.stop();
+                                                                    }
+                                                                });
+                                                            }, {
+                                                                threshold: 0
+                                                            });
+
+                                                            // quotes slider
+                                                            observer.observe($(carousel).get(0));
+                                                        }
+
+                                                    }, 50);
+
+                                                });
+
+                                            })(jQuery);
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-63da26d e-con-full elementor-hidden-desktop e-flex e-con e-child" data-id="63da26d" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-a090f83 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="a090f83" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-05.jpg" alt="author-photo-05.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-05-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-05-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg" title="author-photo-05.jpg" alt="author-photo-05.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-e80db85 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="e80db85" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-06.jpg" alt="author-photo-06.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-06-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-06-r4e6r3sa0osr51mofb0pi9injanmn63o33j0xgx1vw.jpg" title="author-photo-06.jpg" alt="author-photo-06.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-83cb139 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="83cb139" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-08.jpg" alt="author-photo-08.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-08-r4e6r4q47iu1gnlb9tfc2ra44oizuv7ef86ieqvnpo.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-08-r4e6r4q47iu1gnlb9tfc2ra44oizuv7ef86ieqvnpo.jpg" title="author-photo-08.jpg" alt="author-photo-08.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                                <div class="elementor-element elementor-element-7cba0c2 elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-image" data-id="7cba0c2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="image.default">
+                                    <div class="elementor-widget-container">
+                                        <img width="110" height="110" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20110'%3E%3C/svg%3E" title="author-photo-07.jpg" alt="author-photo-07.jpg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-07-r4e6r5nyecvbs9jy4btyn91kq2ed2kb4rctzw0u9jg.jpg"
+                                        /><noscript><img width="110" height="110" decoding="async" src="https://cdn.spines.com/wp-content/uploads/elementor/thumbs/author-photo-07-r4e6r5nyecvbs9jy4btyn91kq2ed2kb4rctzw0u9jg.jpg" title="author-photo-07.jpg" alt="author-photo-07.jpg" loading="lazy" /></noscript>                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#FFFFFF" class="elementor-element elementor-element-94da08c e-flex e-con-boxed e-con e-parent" data-id="94da08c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;,&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-0ca99a3 e-con-full e-flex e-con e-child" data-id="0ca99a3" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-b07a1a5 logos-carousel ob-has-background-overlay elementor-widget elementor-widget-image-carousel" data-id="b07a1a5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;6&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;speed&quot;:1500,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="image-carousel.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+                                        <div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 6">
+                                                <figure class="swiper-slide-inner"><img width="300" height="73" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2073'%3E%3C/svg%3E" alt="Startup-Rise-america-logo-black-1.png"
+                                                        data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/Startup-Rise-america-logo-black-1-300x73.png" /><noscript><img width="300" height="73" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/10/Startup-Rise-america-logo-black-1-300x73.png" alt="Startup-Rise-america-logo-black-1.png" /></noscript></figure>
+                                            </div>
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 6">
+                                                <figure class="swiper-slide-inner"><img width="300" height="66" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2066'%3E%3C/svg%3E" alt="SiliconANGLE-logo-1-1.png"
+                                                        data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/SiliconANGLE-logo-1-1-300x66.png" /><noscript><img width="300" height="66" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/10/SiliconANGLE-logo-1-1-300x66.png" alt="SiliconANGLE-logo-1-1.png" /></noscript></figure>
+                                            </div>
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 6">
+                                                <figure class="swiper-slide-inner"><img width="381" height="96" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20381%2096'%3E%3C/svg%3E" alt="fortune-1.svg"
+                                                        data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/fortune-1.svg" /><noscript><img width="381" height="96" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/10/fortune-1.svg" alt="fortune-1.svg" /></noscript></figure>
+                                            </div>
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 6">
+                                                <figure class="swiper-slide-inner"><img width="300" height="63" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2063'%3E%3C/svg%3E" alt="pw-logo-transparent-small.png"
+                                                        data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/06/pw-logo-transparent-small.png" /><noscript><img width="300" height="63" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/06/pw-logo-transparent-small.png" alt="pw-logo-transparent-small.png" /></noscript></figure>
+                                            </div>
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 6">
+                                                <figure class="swiper-slide-inner"><img width="620" height="156" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20620%20156'%3E%3C/svg%3E" alt="Forbes-Black-1-1.svg"
+                                                        data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/Forbes-Black-1-1.svg" /><noscript><img width="620" height="156" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/10/Forbes-Black-1-1.svg" alt="Forbes-Black-1-1.svg" /></noscript></figure>
+                                            </div>
+                                            <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 6">
+                                                <figure class="swiper-slide-inner"><img width="102" height="59" decoding="async" class="swiper-slide-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%2059'%3E%3C/svg%3E" alt="wsj-1.svg" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/wsj-1.svg"
+                                                    /><noscript><img width="102" height="59" decoding="async" class="swiper-slide-image" src="https://cdn.spines.com/wp-content/uploads/2024/10/wsj-1.svg" alt="wsj-1.svg" /></noscript></figure>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-6d8185a ob-has-background-overlay elementor-widget elementor-widget-html" data-id="6d8185a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="html.default">
+                                <div class="elementor-widget-container">
+                                    <script type="text/javascript">
+                                        (function($) {
+                                            $(document).ready(function() {
+                                                var carousel = jQuery('.logos-carousel .swiper');
+                                                var swiperInitInterval = setInterval(function() {
+
+                                                    var swiperInstance = carousel[0].swiper;
+                                                    if (swiperInstance) {
+                                                        clearInterval(swiperInitInterval);
+                                                        // swiperInstance.params.autoplay = {
+                                                        //     delay: 4000,
+                                                        //     disableOnInteraction: false,
+                                                        //  },
+                                                        swiperInstance.params.loop = true;
+                                                        swiperInstance.params.spaceBetween = 40;
+                                                        swiperInstance.params.slidesPerGroup = 1;
+                                                        swiperInstance.params.freeMode = true;
+
+
+                                                        if (window.innerWidth < 768) {
+                                                            swiperInstance.params.slidesPerView = "auto";
+                                                            swiperInstance.params.centeredSlides = true
+                                                        }
+
+                                                        swiperInstance.params.breakpoints = {
+                                                            0: {
+                                                                slidesPerView: "auto",
+                                                                freeMode: true,
+                                                                loop: true,
+                                                                centeredSlides: true
+                                                            },
+
+                                                            768: {
+                                                                slidesPerView: 4,
+                                                                freeMode: true,
+                                                                loop: true,
+                                                                centeredSlides: false
+                                                            },
+
+                                                            1024: {
+                                                                slidesPerView: 6,
+                                                                freeMode: true,
+                                                                loop: true,
+                                                                centeredSlides: false
+                                                            },
+                                                        };
+
+                                                        swiperInstance.loopDestroy();
+                                                        swiperInstance.loopCreate();
+
+                                                        swiperInstance.update();
+                                                        swiperInstance.updateSize();
+                                                        swiperInstance.updateSlides();
+                                                        // swiperInstance.autoplay.start();
+
+                                                        // Intersection Observer
+                                                        var observer = new IntersectionObserver(function(entries) {
+                                                            entries.forEach(entry => {
+                                                                if (entry.isIntersecting) {
+                                                                    swiperInstance.autoplay.start();
+                                                                } else {
+                                                                    swiperInstance.autoplay.stop();
+                                                                }
+                                                            });
+                                                        }, {
+                                                            threshold: 0
+                                                        });
+
+
+                                                        //logos
+                                                        observer.observe($(carousel).get(0));
+
+                                                    }
+                                                }, 50);
+                                            });
+
+                                        })(jQuery);
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#F6F7F9" class="elementor-element elementor-element-7f330e7d e-flex e-con-boxed e-con e-parent" data-id="7f330e7d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-759c2af8 e-con-full e-flex e-con e-child" data-id="759c2af8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div data-dce-title-color="#16CEA3" class="elementor-element elementor-element-73a321e3 ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="73a321e3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-heading-title elementor-size-default">HOW IT WORKS</div>
+                                </div>
+                            </div>
+                            <div data-dce-title-color="#133B49" class="elementor-element elementor-element-5dfa29d9 elementor-widget-mobile__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="5dfa29d9" data-element_type="widget"
+                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Publish with Spines</h2>
+                                </div>
+                            </div>
+                            <div data-dce-title-color="#133B49" class="elementor-element elementor-element-cf65e9a ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="cf65e9a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">in Just Four Simple Steps</h2>
+                                </div>
+                            </div>
+                            <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-1156792f elementor-widget__width-initial ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="1156792f" data-element_type="widget" data-e-type="widget"
+                                data-settings="{&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <p>Spines proofreads, designs covers, formats, publishes, and starts distributing your book in just a couple of weeks.</p>
+                                </div>
+                            </div>
+                            <div data-dce-background-color="#44AACFCC" class="elementor-element elementor-element-48115f55 e-con-full e-transform e-flex e-con e-child" data-id="48115f55" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            </div>
+                            <div data-dce-background-color="#1CD9AD66" class="elementor-element elementor-element-fcf006d e-con-full e-transform e-flex e-con e-child" data-id="fcf006d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            </div>
+                            <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-66d27bf e-n-tabs-tablet ob-has-background-overlay elementor-widget elementor-widget-n-tabs" data-id="66d27bf" data-element_type="widget" data-e-type="widget"
+                                data-settings="{&quot;horizontal_scroll_mobile&quot;:&quot;disable&quot;,&quot;horizontal_scroll&quot;:&quot;disable&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="nested-tabs.default">
+                                <div class="elementor-widget-container">
+                                    <div class="e-n-tabs" data-widget-number="107816895" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+                                        <div class="e-n-tabs-heading" role="tablist">
+                                            <button id="e-n-tab-title-1078168951" data-tab-title-id="e-n-tab-title-1078168951" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1078168951" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				<div class="step">Step 1</div> Upload Your Manuscript			</span>
+		</button>
+                                            <button id="e-n-tab-title-1078168952" data-tab-title-id="e-n-tab-title-1078168952" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168952" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				<div class="step">Step 2</div> Edit &amp; Perfect Your Book			</span>
+		</button>
+                                            <button id="e-n-tab-title-1078168953" data-tab-title-id="e-n-tab-title-1078168953" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168953" style="--n-tabs-title-order: 3;">
+						<span class="e-n-tab-title-text">
+				<div class="step">Step 3</div> Design Your Cover &amp; Layout			</span>
+		</button>
+                                            <button id="e-n-tab-title-1078168954" data-tab-title-id="e-n-tab-title-1078168954" class="e-n-tab-title" aria-selected="false" data-tab-index="4" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168954" style="--n-tabs-title-order: 4;">
+						<span class="e-n-tab-title-text">
+				<div class="step">Step 4</div> Publish &amp; Distribute			</span>
+		</button>
+                                        </div>
+                                        <div class="e-n-tabs-content">
+                                            <div id="e-n-tab-content-1078168951" role="tabpanel" aria-labelledby="e-n-tab-title-1078168951" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-5da48941 e-con-full e-flex e-con e-child" data-id="5da48941"
+                                                data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                <div class="elementor-element elementor-element-750c6fa9 e-con-full e-flex e-con e-child" data-id="750c6fa9" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                    <div class="elementor-element elementor-element-1fd8485a e-con-full e-flex e-con e-child" data-id="1fd8485a" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-7d75099c elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="7d75099c" data-element_type="widget"
+                                                            data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <h3 class="elementor-heading-title elementor-size-default">Upload Your Manuscript With A Few Clicks</h3>
+                                                            </div>
+                                                        </div>
+                                                        <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-541c4ffd elementor-icon-list--layout-traditional elementor-list-item-link-full_width ob-has-background-overlay elementor-widget elementor-widget-icon-list" data-id="541c4ffd"
+                                                            data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="icon-list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <ul class="elementor-icon-list-items">
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6.99947 17.9992C5.75174 17.9992 4.55512 17.5251 3.67285 16.6812C2.79058 15.8373 2.29492 14.6927 2.29492 13.4992C2.29492 12.3057 2.79058 11.1612 3.67285 10.3172C4.55512 9.47333 5.75174 8.99922 6.99947 8.99922C7.29415 7.6864 8.15623 6.5327 9.39605 5.79193C10.01 5.42514 10.6981 5.17077 11.4212 5.04333C12.1444 4.9159 12.8883 4.9179 13.6106 5.04922C14.3328 5.18054 15.0193 5.43861 15.6308 5.8087C16.2422 6.17878 16.7667 6.65364 17.1742 7.20615C17.5818 7.75866 17.8644 8.378 18.006 9.02882C18.1476 9.67963 18.1454 10.3492 17.9995 10.9992H18.9995C19.9277 10.9992 20.818 11.368 21.4743 12.0243C22.1307 12.6807 22.4995 13.571 22.4995 14.4992C22.4995 15.4275 22.1307 16.3177 21.4743 16.9741C20.818 17.6305 19.9277 17.9992 18.9995 17.9992H17.9995M9 14.9993L12 11.9993M12 11.9993L15 14.9993M12 11.9993V20.9993" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Easily upload your manuscript using Spines’ user-friendly dashboard. Just fill in a few simple details, like the book title, author’s name, and category.</span>
+                                                                    </li>
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M12 15C10.4087 15 8.88258 14.3679 7.75736 13.2426C6.63214 12.1174 6 10.5913 6 9C6 7.4087 6.63214 5.88258 7.75736 4.75736C8.88258 3.63214 10.4087 3 12 3C13.5913 3 15.1174 3.63214 16.2426 4.75736C17.3679 5.88258 18 7.4087 18 9C18 10.5913 17.3679 12.1174 16.2426 13.2426C15.1174 14.3679 13.5913 15 12 15ZM12 15L15.4 20.89L16.998 17.657L20.596 17.889L17.196 12M6.80234 12L3.40234 17.89L7.00034 17.657L8.59834 20.889L11.9983 15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Instantly receive a copyright certificate for your book.</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-efb6768 btn-cta ob-has-background-overlay elementor-widget elementor-widget-button" data-id="efb6768" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-button-wrapper">
+                                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-element elementor-element-5d47d934 e-con-full e-flex e-con e-child" data-id="5d47d934" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div class="elementor-element elementor-element-297efa8f e-con-full e-flex e-con e-child" data-id="297efa8f" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                            <div class="elementor-element elementor-element-1bf974c ob-has-background-overlay elementor-widget elementor-widget-image" data-id="1bf974c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                                data-widget_type="image.default">
+                                                                <div class="elementor-widget-container">
+                                                                    <img decoding="async" width="800" height="442" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20442'%3E%3C/svg%3E" class="attachment-large size-large wp-image-273958" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-600x332.png 600w"
+                                                                        data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3.png" /><noscript><img loading="lazy" decoding="async" width="800" height="442" src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3.png" class="attachment-large size-large wp-image-273958" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-1-3-600x332.png 600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>                                                                    </div>
+                                                            </div>
+                                                            <div class="elementor-element elementor-element-72bcfe5c elementor-widget__width-initial elementor-absolute ob-has-background-overlay elementor-widget elementor-widget-image" data-id="72bcfe5c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:45}},&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:45}},&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                                data-widget_type="image.default">
+                                                                <div class="elementor-widget-container">
+                                                                    <img decoding="async" width="293" height="285" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20293%20285'%3E%3C/svg%3E" class="attachment-large size-large wp-image-273960" alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/manucripts.png"
+                                                                    /><noscript><img loading="lazy" decoding="async" width="293" height="285" src="https://cdn.spines.com/wp-content/uploads/2025/04/manucripts.png" class="attachment-large size-large wp-image-273960" alt="" /></noscript>                                                                    </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="e-n-tab-content-1078168952" role="tabpanel" aria-labelledby="e-n-tab-title-1078168952" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-34a12595 e-con-full e-flex e-con e-child" data-id="34a12595"
+                                                data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                <div class="elementor-element elementor-element-3d797cbd e-con-full e-flex e-con e-child" data-id="3d797cbd" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                    <div class="elementor-element elementor-element-547c7b7a e-con-full e-flex e-con e-child" data-id="547c7b7a" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-423772f elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="423772f" data-element_type="widget"
+                                                            data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <h3 class="elementor-heading-title elementor-size-default">AI-Powered Manuscript Scans for Smarter Editing</h3>
+                                                            </div>
+                                                        </div>
+                                                        <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-1bf79733 elementor-icon-list--layout-traditional elementor-list-item-link-full_width ob-has-background-overlay elementor-widget elementor-widget-icon-list" data-id="1bf79733"
+                                                            data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="icon-list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <ul class="elementor-icon-list-items">
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M16 18C16.5304 18 17.0391 18.2107 17.4142 18.5858C17.7893 18.9609 18 19.4696 18 20C18 19.4696 18.2107 18.9609 18.5858 18.5858C18.9609 18.2107 19.4696 18 20 18C19.4696 18 18.9609 17.7893 18.5858 17.4142C18.2107 17.0391 18 16.5304 18 16C18 16.5304 17.7893 17.0391 17.4142 17.4142C17.0391 17.7893 16.5304 18 16 18ZM16 6C16.5304 6 17.0391 6.21071 17.4142 6.58579C17.7893 6.96086 18 7.46957 18 8C18 7.46957 18.2107 6.96086 18.5858 6.58579C18.9609 6.21071 19.4696 6 20 6C19.4696 6 18.9609 5.78929 18.5858 5.41421C18.2107 5.03914 18 4.53043 18 4C18 4.53043 17.7893 5.03914 17.4142 5.41421C17.0391 5.78929 16.5304 6 16 6ZM9 18C9 16.4087 9.63214 14.8826 10.7574 13.7574C11.8826 12.6321 13.4087 12 15 12C13.4087 12 11.8826 11.3679 10.7574 10.2426C9.63214 9.11742 9 7.5913 9 6C9 7.5913 8.36786 9.11742 7.24264 10.2426C6.11742 11.3679 4.5913 12 3 12C4.5913 12 6.11742 12.6321 7.24264 13.7574C8.36786 14.8826 9 16.4087 9 18Z" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Spines scans your manuscript using built-in AI to understand your audience, genre, and writing style. It then automatically identifies grammar mistakes and areas for improvement—making the editing process faster and smarter.</span>
+                                                                    </li>
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 21V19C6 17.9391 6.42143 16.9217 7.17157 16.1716C7.92172 15.4214 8.93913 15 10 15H13.5M8 7C8 8.06087 8.42143 9.07828 9.17157 9.82843C9.92172 10.5786 10.9391 11 12 11C13.0609 11 14.0783 10.5786 14.8284 9.82843C15.5786 9.07828 16 8.06087 16 7C16 5.93913 15.5786 4.92172 14.8284 4.17157C14.0783 3.42143 13.0609 3 12 3C10.9391 3 9.92172 3.42143 9.17157 4.17157C8.42143 4.92172 8 5.93913 8 7ZM18.42 15.6102C18.615 15.4152 18.8465 15.2605 19.1013 15.155C19.3561 15.0494 19.6292 14.9951 19.905 14.9951C20.1808 14.9951 20.4539 15.0494 20.7087 15.155C20.9635 15.2605 21.195 15.4152 21.39 15.6102C21.585 15.8052 21.7397 16.0368 21.8452 16.2915C21.9508 16.5463 22.0051 16.8194 22.0051 17.0952C22.0051 17.371 21.9508 17.6441 21.8452 17.8989C21.7397 18.1537 21.585 18.3852 21.39 18.5802L18 22.0002H15V19.0002L18.42 15.6102Z" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">If needed, you can also connect with professional editors for an added layer of refinement.</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-a20fe69 btn-cta ob-has-background-overlay elementor-widget elementor-widget-button" data-id="a20fe69" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-button-wrapper">
+                                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-element elementor-element-5804c4f e-con-full e-flex e-con e-child" data-id="5804c4f" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div class="elementor-element elementor-element-59ab17d2 ob-has-background-overlay elementor-widget elementor-widget-image" data-id="59ab17d2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="image.default">
+                                                            <div class="elementor-widget-container">
+                                                                <img decoding="async" width="800" height="442" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20442'%3E%3C/svg%3E" class="attachment-large size-large wp-image-273966" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-600x332.png 600w"
+                                                                    data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1.png" /><noscript><img loading="lazy" decoding="async" width="800" height="442" src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1.png" class="attachment-large size-large wp-image-273966" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-2-1-600x332.png 600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="e-n-tab-content-1078168953" role="tabpanel" aria-labelledby="e-n-tab-title-1078168953" data-tab-index="3" style="--n-tabs-title-order: 3;" class=" elementor-element elementor-element-458e20c7 e-con-full e-flex e-con e-child" data-id="458e20c7"
+                                                data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                <div class="elementor-element elementor-element-1157ae96 e-con-full e-flex e-con e-child" data-id="1157ae96" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                    <div class="elementor-element elementor-element-d86d233 e-con-full e-flex e-con e-child" data-id="d86d233" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-1f31c215 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="1f31c215" data-element_type="widget"
+                                                            data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <h3 class="elementor-heading-title elementor-size-default">Custom Covers Tailored to Your Book &amp; Style</h3>
+                                                            </div>
+                                                        </div>
+                                                        <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-29be2e04 elementor-icon-list--layout-traditional elementor-list-item-link-full_width ob-has-background-overlay elementor-widget elementor-widget-icon-list" data-id="29be2e04"
+                                                            data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="icon-list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <ul class="elementor-icon-list-items">
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M20.9992 3C18.145 3.3904 15.4492 4.54414 13.1963 6.33944C10.9433 8.13474 9.21692 10.505 8.19922 13.2M21.0008 3C20.6104 5.85418 19.4566 8.55002 17.6613 10.8029C15.866 13.0559 13.4958 14.7823 10.8008 15.8M10.5996 9C12.5428 9.89687 14.1027 11.4568 14.9996 13.4M3 21V17C3 16.2089 3.2346 15.4355 3.67412 14.7777C4.11365 14.1199 4.73836 13.6072 5.46927 13.3045C6.20017 13.0017 7.00444 12.9225 7.78036 13.0769C8.55629 13.2312 9.26902 13.6122 9.82843 14.1716C10.3878 14.731 10.7688 15.4437 10.9231 16.2196C11.0775 16.9956 10.9983 17.7998 10.6955 18.5307C10.3928 19.2616 9.88008 19.8864 9.22228 20.3259C8.56448 20.7654 7.79113 21 7 21H3Z" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Choose from a wide range of custom-made cover designs, tailored to your book and personal style preferences. If you already have a cover, we can enhance it with our cover tool - or simply upload and use your own.</span>
+                                                                    </li>
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M9 15V8C9 7.20435 9.31607 6.44129 9.87868 5.87868C10.4413 5.31607 11.2044 5 12 5C12.7956 5 13.5587 5.31607 14.1213 5.87868C14.6839 6.44129 15 7.20435 15 8V15M9 11H15M5 19H19" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Customize your book’s interior formatting in real time to match your style and genre.</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-f308df5 btn-cta ob-has-background-overlay elementor-widget elementor-widget-button" data-id="f308df5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-button-wrapper">
+                                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-element elementor-element-27a1937c e-con-full e-flex e-con e-child" data-id="27a1937c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div class="elementor-element elementor-element-15eed8e0 ob-has-background-overlay elementor-widget elementor-widget-image" data-id="15eed8e0" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="image.default">
+                                                            <div class="elementor-widget-container">
+                                                                <img decoding="async" width="800" height="442" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20442'%3E%3C/svg%3E" class="attachment-large size-large wp-image-273972" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-600x332.png 600w"
+                                                                    data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1.png" /><noscript><img loading="lazy" decoding="async" width="800" height="442" src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1.png" class="attachment-large size-large wp-image-273972" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-3-1-600x332.png 600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="e-n-tab-content-1078168954" role="tabpanel" aria-labelledby="e-n-tab-title-1078168954" data-tab-index="4" style="--n-tabs-title-order: 4;" class=" elementor-element elementor-element-47b0689e e-con-full e-flex e-con e-child" data-id="47b0689e"
+                                                data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                <div class="elementor-element elementor-element-298c3c96 e-con-full e-flex e-con e-child" data-id="298c3c96" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                    <div class="elementor-element elementor-element-66baf573 e-con-full e-flex e-con e-child" data-id="66baf573" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-51308bfa elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="51308bfa" data-element_type="widget"
+                                                            data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <h3 class="elementor-heading-title elementor-size-default">Publish Easily &amp; Reach Readers Worldwide</h3>
+                                                            </div>
+                                                        </div>
+                                                        <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-1bcd0ab4 elementor-icon-list--layout-traditional elementor-list-item-link-full_width ob-has-background-overlay elementor-widget elementor-widget-icon-list" data-id="1bcd0ab4"
+                                                            data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="icon-list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <ul class="elementor-icon-list-items">
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M3.59961 9H20.3996M3.59961 15H20.3996M11.4997 3C9.81501 5.69961 8.92188 8.81787 8.92188 12C8.92188 15.1821 9.81501 18.3004 11.4997 21M12.5 3C14.1847 5.69961 15.0778 8.81787 15.0778 12C15.0778 15.1821 14.1847 18.3004 12.5 21M3 12C3 13.1819 3.23279 14.3522 3.68508 15.4442C4.13738 16.5361 4.80031 17.5282 5.63604 18.364C6.47177 19.1997 7.46392 19.8626 8.55585 20.3149C9.64778 20.7672 10.8181 21 12 21C13.1819 21 14.3522 20.7672 15.4442 20.3149C16.5361 19.8626 17.5282 19.1997 18.364 18.364C19.1997 17.5282 19.8626 16.5361 20.3149 15.4442C20.7672 14.3522 21 13.1819 21 12C21 9.61305 20.0518 7.32387 18.364 5.63604C16.6761 3.94821 14.3869 3 12 3C9.61305 3 7.32387 3.94821 5.63604 5.63604C3.94821 7.32387 3 9.61305 3 12Z" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Hit publish, and Spines takes care of the rest. Your book will be distributed across major platforms, reaching readers worldwide.</span>
+                                                                    </li>
+                                                                    <li class="elementor-icon-list-item">
+                                                                        <span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 8C18.7956 8 19.5587 8.31607 20.1213 8.87868C20.6839 9.44129 21 10.2044 21 11C21 11.7956 20.6839 12.5587 20.1213 13.1213C19.5587 13.6839 18.7956 14 18 14M10 8V19C10 19.2652 9.89464 19.5196 9.70711 19.7071C9.51957 19.8946 9.26522 20 9 20H8C7.73478 20 7.48043 19.8946 7.29289 19.7071C7.10536 19.5196 7 19.2652 7 19V14M12 7.99995L16.524 4.22995C16.6555 4.12046 16.8154 4.0507 16.9851 4.02885C17.1548 4.00701 17.3271 4.03398 17.482 4.1066C17.6369 4.17922 17.7679 4.29449 17.8597 4.4389C17.9514 4.5833 18.0001 4.75087 18 4.92195V17.0779C18.0001 17.249 17.9514 17.4166 17.8597 17.561C17.7679 17.7054 17.6369 17.8207 17.482 17.8933C17.3271 17.9659 17.1548 17.9929 16.9851 17.971C16.8154 17.9492 16.6555 17.8794 16.524 17.7699L12 13.9999H4C3.73478 13.9999 3.48043 13.8946 3.29289 13.7071C3.10536 13.5195 3 13.2652 3 12.9999V8.99995C3 8.73473 3.10536 8.48038 3.29289 8.29284C3.48043 8.1053 3.73478 7.99995 4 7.99995H12Z" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>						</span>
+                                                                        <span class="elementor-icon-list-text">Set up automatic ad campaigns on Amazon, Facebook, and Instagram, while having your own personalized author platform to showcase and sell your book.</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-6cd541f btn-cta ob-has-background-overlay elementor-widget elementor-widget-button" data-id="6cd541f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-button-wrapper">
+                                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-element elementor-element-529eae72 e-con-full e-flex e-con e-child" data-id="529eae72" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                                        <div class="elementor-element elementor-element-7eab9a62 ob-has-background-overlay elementor-widget elementor-widget-image" data-id="7eab9a62" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_photomorph_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                            data-widget_type="image.default">
+                                                            <div class="elementor-widget-container">
+                                                                <img decoding="async" width="800" height="442" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20442'%3E%3C/svg%3E" class="attachment-large size-large wp-image-273978" alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-600x332.png 600w"
+                                                                    data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1.png" /><noscript><img loading="lazy" decoding="async" width="800" height="442" src="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1.png" class="attachment-large size-large wp-image-273978" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1.png 894w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-300x166.png 300w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-768x424.png 768w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-360x199.png 360w, https://cdn.spines.com/wp-content/uploads/2025/04/step-image-4-1-600x332.png 600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>                                                                </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#FFFFFF" class="elementor-element elementor-element-8d8514c e-flex e-con-boxed e-con e-parent" data-id="8d8514c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-0d52120 e-con-full e-flex e-con e-child" data-id="0d52120" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div data-dce-title-color="#133B49" class="elementor-element elementor-element-a55ae44 elementor-widget__width-initial animated-fast ob-harakiri-inherit elementor-invisible ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="a55ae44"
+                                data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Your Book Deserves a Global Audience</h2>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-d9d488e e-con-full animated-fast e-flex elementor-invisible e-con e-child" data-id="d9d488e" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:200,&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div class="elementor-element elementor-element-922ffdd elementor-skin-coverflow books-carousel elementor-widget__width-inherit elementor-widget-mobile__width-inherit ob-has-background-overlay elementor-widget elementor-widget-media-carousel" data-id="922ffdd"
+                                    data-element_type="widget" data-e-type="widget" data-settings="{&quot;skin&quot;:&quot;coverflow&quot;,&quot;slides_per_view&quot;:&quot;7&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;speed&quot;:2000,&quot;slides_per_view_tablet&quot;:&quot;5&quot;,&quot;slides_per_view_mobile&quot;:&quot;3&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;loop&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="media-carousel.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-swiper">
+                                            <div class="elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Slides">
+                                                <div class="swiper-wrapper">
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-17-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Larry Boucher" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-20-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Charlie Quinn" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-16-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Ilan Heitner" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-12-1-r4e6qi5yb9dzatyu6pzjlgzwoz2tp89l3xi4gnkf0g.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Leianne McNair" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-15-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Debra Bliss" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-19-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By John Calu" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide" role="group" aria-roledescription="slide">
+                                                        <div data-bg="https://spines.com/wp-content/uploads/elementor/thumbs/book-cover-14-r4e6rhvtiyqvk0iye5fd87zf9m6rtq7dwuakp63gg0.jpg" class="elementor-carousel-image rocket-lazyload" role="img" aria-label="By Candace Grant" style="">
+
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-dc0e532 ob-has-background-overlay elementor-widget elementor-widget-html" data-id="dc0e532" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="html.default">
+                                <div class="elementor-widget-container">
+                                    <script type="text/javascript">
+                                        (function() {
+
+                                            var booksSwiperInstance;
+                                            var carousel = document.querySelector('.books-carousel .swiper');
+                                            carousel.style.display = 'none';
+
+                                            carousel.querySelectorAll('.elementor-carousel-image').forEach(function(element) {
+                                                var text = element.getAttribute('aria-label');
+                                                var by = element.parentNode.querySelector('.by');
+                                                if (text && !by) {
+                                                    // Create new div
+                                                    var div = document.createElement('div');
+                                                    div.className = 'by';
+                                                    div.textContent = text;
+                                                    // Insert it after the element
+                                                    element.parentNode.insertBefore(div, element.nextSibling);
+                                                }
+                                            });
+
+                                            var swiperInitInterval = setInterval(function() {
+
+                                                if (carousel && carousel.swiper) {
+                                                    booksSwiperInstance = carousel.swiper;
+                                                    clearInterval(swiperInitInterval);
+
+
+                                                    booksSwiperInstance.params.centeredSlides = true;
+                                                    booksSwiperInstance.params.grabCursor = true;
+                                                    booksSwiperInstance.params.slideToClickedSlide = true;
+                                                    booksSwiperInstance.params.watchSlidesProgress = true;
+
+
+                                                    booksSwiperInstance.params.coverflowEffect.rotate = 0;
+                                                    booksSwiperInstance.params.coverflowEffect.stretch = -125;
+                                                    booksSwiperInstance.params.coverflowEffect.depth = 200;
+                                                    booksSwiperInstance.params.coverflowEffect.modifier = 1;
+                                                    booksSwiperInstance.params.coverflowEffect.slideShadows = false;
+
+
+                                                    booksSwiperInstance.params.breakpoints[0].coverflowEffect = {}
+                                                    booksSwiperInstance.params.breakpoints[0].coverflowEffect.stretch = -50;
+                                                    booksSwiperInstance.params.breakpoints[0].coverflowEffect.depth = 130;
+
+
+                                                    booksSwiperInstance.params.breakpoints[767].coverflowEffect = {};
+                                                    booksSwiperInstance.params.breakpoints[767].coverflowEffect.stretch = -70;
+                                                    booksSwiperInstance.params.breakpoints[767].coverflowEffect.depth = 150;
+
+                                                    booksSwiperInstance.currentBreakpoint = false;
+
+                                                    booksSwiperInstance.on('setTranslate', applyDynamicBlur);
+
+                                                    booksSwiperInstance.on('setTransition', function(swiper, transition) {
+                                                        swiper.slides.forEach(function(slide) {
+                                                            return slide.querySelector('.elementor-carousel-image').style.transition = `filter ${transition}ms`;
+                                                        });
+                                                    });
+
+                                                    booksSwiperInstance.update();
+
+
+
+                                                    // Intersection Observer
+                                                    var observer = new IntersectionObserver(function(entries) {
+                                                        entries.forEach(entry => {
+                                                            if (entry.isIntersecting) {
+                                                                booksSwiperInstance.autoplay.start();
+                                                            } else {
+                                                                booksSwiperInstance.autoplay.stop();
+                                                            }
+                                                        });
+                                                    }, {
+                                                        threshold: 0.2
+                                                    });
+
+                                                    observer.observe(carousel);
+
+                                                    setTimeout(function() {
+                                                        carousel.style.display = 'block';
+                                                        // updateBlur();
+                                                    }, 30);
+
+                                                }
+                                            }, 50);
+
+
+
+                                            function applyDynamicBlur(swiper) {
+                                                const maxBlur = 4;
+
+                                                swiper.slides.forEach(slide => {
+                                                    const progress = slide.progress;
+                                                    const clampedProgress = Math.min(Math.abs(progress), 1.5);
+                                                    const blur = clampedProgress / 1.5 * maxBlur;
+
+                                                    // if ( blur < 0.01 ) blur = 0;
+
+                                                    slide.querySelector('.elementor-carousel-image').style.filter = `blur(${blur}px)`;
+                                                });
+                                            }
+
+
+                                        })();
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-dce-background-color="#F8F5F1" class="elementor-element elementor-element-d0a1fb8 e-con-full e-flex e-con e-parent" data-id="d0a1fb8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;,&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div data-dce-title-color="#133B49" class="elementor-element elementor-element-c010489 elementor-widget__width-initial elementor-widget-mobile__width-inherit ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="c010489"
+                        data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                        data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default"><span class="accented">2,800+ Authors</span> Have Published Their Books With Spines</h2>
+                        </div>
+                    </div>
+                    <div data-dce-title-color="#4C617B" class="elementor-element elementor-element-87c42b2 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="87c42b2" data-element_type="widget"
+                        data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                        data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-heading-title elementor-size-default">All without needing tech or design expertise.</div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-b78031e e-con-full e-flex e-con e-child" data-id="b78031e" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div class="elementor-element elementor-element-9ddad55 e-con-full block-overflow block-overflow-1 e-flex e-con e-child" data-id="9ddad55" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-956ca17 e-con-full row-reviews e-flex e-con e-child" data-id="956ca17" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-fe3cb5e no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="fe3cb5e" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-fe3cb5e" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">The quality of their work exceeded my expectations, and their commitment to excellence was evident at every stage. While no process is without its challenges, Spines Publishing handled everything with patience and expertise, making the journey smooth and rewarding.</span></p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Daniel Solomon</p>
+                                                    <p class="eael-testimonial-user-company">D</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-97caa3f no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="97caa3f" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-97caa3f" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>There is no other company on the face of the planet that’s going to put themselves in your shoes every step of the way, and go out of their way to make sure not only that you are successful, but that
+                                                        you, as a published author, develop a backbone!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Melvin Shoales</p>
+                                                    <p class="eael-testimonial-user-company">M</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-ce96834 no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="ce96834" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-ce96834" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I had the most phenomenal and pleasurable experience working with Isabel. Every request that I had made was met with a delightful spirit and the willingness to help me win the day. I am overwhelmed with
+                                                        her devotion and leadership… What a spectacular team member under the realm of Spines.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Hikeem Wallace</p>
+                                                    <p class="eael-testimonial-user-company">H</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-8e8d75a ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="8e8d75a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-8e8d75a" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>Spines can take the idea you are passionate about and facilitate bringing it into reality. Everyone was not only helpful but very encouraging in the entire creative process. I highly recommend Spines
+                                                        as the best publishing service available to all aspiring authors who would like to touch the world with their thoughts.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273990"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1.jpg 200w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-273990" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Deandre-Jefferson-1.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Deandre Jefferson</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-98fed3b ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="98fed3b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-98fed3b" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>Isabel and the rest of the team were supportive and patient as I worked through the process. Ready to tackle book #2!!!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273991"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1.jpg 200w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-273991" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Glenn-Diehll-1.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Glenn Diehll</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-e01c0be ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="e01c0be" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-e01c0be" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>OMG, Wardah has done it again!! My second book looks incredible on the inside and out! I love Wardah’s professionalism and how she constantly kept me in the loop and was quick to correct any changes
+                                                        necessary to make the book exactly what I envisioned.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273992"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1.jpg 200w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-273992" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Josanne-Stewart-1.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Josanne Stewart</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-89c943e ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="89c943e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-89c943e" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I am happy to recommend Spines and my project manager Wardah as the best in the industry! Authors, while considering publishing, STOP looking and choose Spines!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="73" height="73" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2073%2073'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273993"
+                                                            alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Kirk-Anthony-Floyd-2-1.jpg" /><noscript><img loading="lazy" decoding="async" width="73" height="73" src="https://cdn.spines.com/wp-content/uploads/2025/04/Kirk-Anthony-Floyd-2-1.jpg" class="attachment-thumbnail size-thumbnail wp-image-273993" alt="" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Kirk Anthony Floyd</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-71e0e43 no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="71e0e43" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-71e0e43" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>If you are a first-time author like myself, Spines is the publishing company you need!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Nikodeme Mentor</p>
+                                                    <p class="eael-testimonial-user-company">N</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-8342cef ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="8342cef" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-8342cef" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I want to take this opportunity to thank the staff at Spines Publishing, especially Eli Nazari. You have made a lifelong dream come true: becoming an author. I look forward to working with you on my
+                                                        second book. God bless!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="73" height="73" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2073%2073'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273994"
+                                                            alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Terry-Parker-2-1.jpg" /><noscript><img loading="lazy" decoding="async" width="73" height="73" src="https://cdn.spines.com/wp-content/uploads/2025/04/Terry-Parker-2-1.jpg" class="attachment-thumbnail size-thumbnail wp-image-273994" alt="" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Terry Parker</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-c3cb2a6 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="c3cb2a6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-c3cb2a6" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I continue to be very impressed with Spines. From onboarding with Adriano to my account manager Wardah, they were very thorough and communicative every step of the way. They do set you up to succeed! I would recommend this team to anyone.</span></p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="73" height="73" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2073%2073'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273995"
+                                                            alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/D-Lawson-2-1.jpg" /><noscript><img loading="lazy" decoding="async" width="73" height="73" src="https://cdn.spines.com/wp-content/uploads/2025/04/D-Lawson-2-1.jpg" class="attachment-thumbnail size-thumbnail wp-image-273995" alt="" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> D Lawson</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-e8d6355 e-con-full block-overflow block-overflow-2 e-flex e-con e-child" data-id="e8d6355" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-d45d65f e-con-full row-reviews e-flex e-con e-child" data-id="d45d65f" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-b9becb0 no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="b9becb0" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-b9becb0" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>My production manager, José Uzcátegui, was extremely helpful and a pleasure to work with; he was incredibly involved and called with updates every week. He was just as excited as me to have my book out!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Lisette Conti</p>
+                                                    <p class="eael-testimonial-user-company">L</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-f7b3e13 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="f7b3e13" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-f7b3e13" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>It was a true partnership. I couldn’t have asked for a better team to collaborate with on this journey. Thank you for championing my story and for the incredible work you do in amplifying diverse voices.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="93" height="93" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2093%2093'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273996"
+                                                            alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Leeora-Benjamin-1.jpg" /><noscript><img loading="lazy" decoding="async" width="93" height="93" src="https://cdn.spines.com/wp-content/uploads/2025/04/Leeora-Benjamin-1.jpg" class="attachment-thumbnail size-thumbnail wp-image-273996" alt="" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Leeora Benjamin</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-0e21cc8 no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="0e21cc8" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-0e21cc8" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>The enthusiasm and encouragement from Spines is incredible. My account managers Andres Herrera and Isabel Bullrich helped me through the entire process, made me feel welcomed, encouraged me to ask questions,
+                                                        and ensured that my novel would remain true to my vision.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Bironi Mikell</p>
+                                                    <p class="eael-testimonial-user-company">B</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-0884cfe ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="0884cfe" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-0884cfe" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>Blown away!! My mind is BLOWN. The process was so simple—from the vision being captured to the book now LIVE! Writing a book I thought was a dream, but now it’s a reality. THANK YOU, at a loss for words!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="94" height="94" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%2094'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273997"
+                                                            alt="" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Natasha-BarShalom-White-1.jpg" /><noscript><img loading="lazy" decoding="async" width="94" height="94" src="https://cdn.spines.com/wp-content/uploads/2025/04/Natasha-BarShalom-White-1.jpg" class="attachment-thumbnail size-thumbnail wp-image-273997" alt="" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Natasha BarShalom White</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-3799ca6 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="3799ca6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-3799ca6" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Karla Leon at Spines could not have been more helpful. She was attentive and quick, turning around my comments in a day (if not in a few hours). I could not be happier.</span></p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273998"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1.jpg 200w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-273998" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Lawrence-Bloom-1.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Lawrence Bloom</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-9932774 no-avatar ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="9932774" data-element_type="widget" data-e-type="widget"
+                                    data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}" data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-9932774" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I HIGHLY recommend them to any author, whether you are new or not. Ela Nazari, my production manager, was very professional, patient and amazing to work with. I am very difficult and persistent and Ela
+                                                        could manage me… Ela, more books are coming for you to publish!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Delores Coleman</p>
+                                                    <p class="eael-testimonial-user-company">D</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-c89854c ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="c89854c" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-c89854c" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I sent my book to 17 different publishers and got rejected every time, and vanity publishers quoted me between $11k-$17k. With Spines, I got my book published in less than 30 days!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-273999"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-300x300.jpg 300w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda.jpg 350w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-273999" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-300x300.jpg 300w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Carlos-Andromeda.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Carlos Andromeda</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-a2ed0be ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="a2ed0be" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-a2ed0be" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I’ve paid over <strong>$3,500 for editors in the past</strong>, and I felt like they changed my book! With Spines, I had complete creative control over how my book turned out.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-274000"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton.jpg 300w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-274000" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Joshua-Holton.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Joshua Holton</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-dcbcbb6 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="dcbcbb6" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-dcbcbb6" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>I’m a total beginner when it comes to computers, but I managed to design a professional-looking cover with Spines in just 3 minutes!</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-274001"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-274001" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Valerie Price</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-762aac1 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial" data-id="762aac1" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                    data-widget_type="eael-testimonial.default">
+                                    <div class="elementor-widget-container">
+
+                                        <div id="eael-testimonial-762aac1" class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
+
+
+
+
+
+
+                                            <div class="eael-testimonial-content">
+                                                <div class="eael-testimonial-text">
+                                                    <p>My proofreading process used to take months, and I had to hire 3 freelancers. With Spines, I can do it in a single day.</p>
+                                                </div>
+                                            </div>
+                                            <div class="eael-testimonial-content eael-testimonial-inline-bio">
+                                                <div class="eael-testimonial-image">
+                                                    <figure><img decoding="async" width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-image-211036"
+                                                            alt="" data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2024/10/author-02-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2024/10/author-02-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2024/10/author-02.jpg 300w"
+                                                            data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/10/author-02-150x150.jpg" /><noscript><img loading="lazy" decoding="async" width="150" height="150" src="https://cdn.spines.com/wp-content/uploads/2024/10/author-02-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-211036" alt="" srcset="https://cdn.spines.com/wp-content/uploads/2024/10/author-02-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2024/10/author-02-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2024/10/author-02.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
+                                                </div>
+                                                <div class="bio-text">
+                                                    <p class="eael-testimonial-user"><span>Author</span> Bradley Matthews-Middleton</p>
+                                                </div>
+                                                <ul class="testimonial-star-rating">
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                    <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                </ul>
+                                            </div>
+
+
+                                            <span class="eael-testimonial-quote"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-6f0eaf8 ob-has-background-overlay elementor-widget elementor-widget-html" data-id="6f0eaf8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                        data-widget_type="html.default">
+                        <div class="elementor-widget-container">
+                            <script>
+                                (function($) {
+
+                                    $('.block-overflow:not(.elementor-element-edit-mode)').each(function(index, element) {
+
+                                        var $element = $(element);
+                                        var $content = $element.find(".row-reviews");
+                                        var $clone = $content.find('.elementor-widget-eael-testimonial').clone();
+
+                                        $clone.addClass('clone');
+                                        $content.append($clone);
+
+                                        var direction = 1;
+
+                                        if ($element.hasClass('block-overflow-2')) {
+                                            direction = -1;
+                                            $element.scrollLeft($element.prop("scrollWidth"));
+                                        }
+
+                                        var speedNormal = 40 * direction;
+                                        var speedSlow = 9 * direction;
+
+                                        var position = 0;
+                                        var speed = speedNormal;
+
+                                        var rafId = null; // ← id анимации
+                                        var isAnimating = false;
+
+                                        function animate() {
+                                            if (!isAnimating) return;
+
+                                            if ($(window).width() >= 768) {
+
+                                                position -= speed / 60;
+
+                                                if ($element.hasClass('block-overflow-2')) {
+                                                    if (position >= $content.width() / 2) {
+                                                        position = 0;
+                                                    }
+                                                } else {
+                                                    if (position <= -$content.width() / 2) {
+                                                        position = 0;
+                                                    }
+                                                }
+
+                                                $content.css('transform', `translateX(${position}px)`);
+                                            }
+
+                                            rafId = requestAnimationFrame(animate);
+                                        }
+
+                                        function startAnimation() {
+                                            if (isAnimating) return;
+                                            isAnimating = true;
+                                            animate();
+                                        }
+
+                                        function stopAnimation() {
+                                            isAnimating = false;
+                                            if (rafId) {
+                                                cancelAnimationFrame(rafId);
+                                                rafId = null;
+                                            }
+                                        }
+
+                                        // Hover speed control
+                                        $element.hover(
+                                            function() {
+                                                speed = speedSlow;
+                                            },
+                                            function() {
+                                                speed = speedNormal;
+                                            }
+                                        );
+
+                                        // Intersection Observer
+                                        var observer = new IntersectionObserver(function(entries) {
+                                            entries.forEach(entry => {
+                                                if (entry.isIntersecting) {
+                                                    startAnimation();
+                                                } else {
+                                                    stopAnimation();
+                                                }
+                                            });
+                                        }, {
+                                            threshold: 0.1
+                                        });
+
+                                        observer.observe(element);
+
+                                    });
+
+                                })(jQuery);
+                            </script>
+                        </div>
+                    </div>
+                    <!-- dce invisible element 3a9f504 -->
+                    <div class="elementor-element elementor-element-d9d16b7 ob-has-background-overlay elementor-widget elementor-widget-button" data-id="d9d16b7" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_butterbutton_use_it&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                        data-widget_type="button.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-button-wrapper">
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="/sign-up/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"></path></svg>			</span>
+									<span class="elementor-button-text">Get Started</span>
+					</span>
+					</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-4524a6ed e-flex e-con-boxed e-con e-parent" data-id="4524a6ed" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div data-dce-title-color="#16CEA3" class="elementor-element elementor-element-79be0663 ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="79be0663" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-heading-title elementor-size-default"><a href="/blog/">Blog</a></div>
+                            </div>
+                        </div>
+                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-2476acee ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="2476acee" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Explore Our Resources</h2>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-697cd21e e-con-full e-flex e-con e-child" data-id="697cd21e" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div data-dce-background-color="#44AACFD9" class="elementor-element elementor-element-16aa370c e-con-full e-flex e-con e-child" data-id="16aa370c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            </div>
+                            <div class="elementor-element elementor-element-1dd79846 elementor-widget-tablet__width-initial ob-has-background-overlay elementor-widget elementor-widget-shortcode" data-id="1dd79846" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="shortcode.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-shortcode">
+                                        <div class="selected-posts">
+
+                                            <div class="item">
+                                                <a href="https://spines.com/how-does-spines-work/" class="post-thumbnail"><img width="600" height="338" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20338'%3E%3C/svg%3E" alt="Publishing with Spines: Everything You Need to Know" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2025/01/illustration-3-600x338.png"><noscript><img width="600" height="338" decoding="async" src="https://cdn.spines.com/wp-content/uploads/2025/01/illustration-3-600x338.png" alt="Publishing with Spines: Everything You Need to Know"></noscript></a>
+
+                                                <div class="item-content-wrapper">
+
+                                                    <h3 class="item-title"><a href="https://spines.com/how-does-spines-work/">Publishing with Spines: Everything You Need to Know</a></h3>
+
+
+                                                    <div class="excerpt">A new chapter is unfolding for writers and readers alike. In a world driven by constant technological leaps, the literary landscape is transforming: faster, broader, and more creatively than we’ve seen
+                                                        in decades....</div>
+
+
+                                                    <div class="read-more-wrapper">
+                                                        <a href="https://spines.com/how-does-spines-work/" class="read-more">Read more</a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="item">
+                                                <a href="https://spines.com/how-to-self-publish-a-book/" class="post-thumbnail"><img width="600" height="338" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20338'%3E%3C/svg%3E" alt="How to Self Publish a Book: The Ultimate Guide to Self-Publishing Success" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/01/illustration-2-600x338.png"><noscript><img width="600" height="338" decoding="async" src="https://cdn.spines.com/wp-content/uploads/2024/01/illustration-2-600x338.png" alt="How to Self Publish a Book: The Ultimate Guide to Self-Publishing Success"></noscript></a>
+
+                                                <div class="item-content-wrapper">
+
+                                                    <h3 class="item-title"><a href="https://spines.com/how-to-self-publish-a-book/">How to Self Publish a Book: The Ultimate Guide to Self-Publishing Success</a></h3>
+
+
+                                                    <div class="excerpt">In recent years, the publishing industry has undergone a revolutionary transformation, ushering in an era where authors have more control over their literary journeys than ever before. The advent of
+                                                        self-publishing has democratized...</div>
+
+
+                                                    <div class="read-more-wrapper">
+                                                        <a href="https://spines.com/how-to-self-publish-a-book/" class="read-more">Read more</a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="item">
+                                                <a href="https://spines.com/the-best-selling-book-genres-and-why-they-succeed/" class="post-thumbnail"><img width="600" height="338" decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20338'%3E%3C/svg%3E" alt="The Best-Selling Book Genres and Why They Succeed" data-lazy-src="https://cdn.spines.com/wp-content/uploads/2024/08/illustration-1-600x338.png"><noscript><img width="600" height="338" decoding="async" src="https://cdn.spines.com/wp-content/uploads/2024/08/illustration-1-600x338.png" alt="The Best-Selling Book Genres and Why They Succeed"></noscript></a>
+
+                                                <div class="item-content-wrapper">
+
+                                                    <h3 class="item-title"><a href="https://spines.com/the-best-selling-book-genres-and-why-they-succeed/">The Best-Selling Book Genres and Why They Succeed</a></h3>
+
+
+                                                    <div class="excerpt">Ever wonder what separates a blockbuster novel from a forgotten one gathering dust on a shelf? Spoiler alert: it&#039;s not always about the quality of writing. Often, the secret lies in choosing the...</div>
+
+
+                                                    <div class="read-more-wrapper">
+                                                        <a href="https://spines.com/the-best-selling-book-genres-and-why-they-succeed/" class="read-more">Read more</a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-36e2dd7f e-flex e-con-boxed e-con e-parent" data-id="36e2dd7f" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                    <div class="e-con-inner">
+                        <div data-dce-title-color="#133B49" class="elementor-element elementor-element-3408da57 ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="3408da57" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Frequently Asked Questions</h2>
+                            </div>
+                        </div>
+                        <div data-dce-title-color="#4C617B" class="elementor-element elementor-element-69c9f814 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-heading" data-id="69c9f814" data-element_type="widget"
+                            data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-heading-title elementor-size-default">Everything you need to know about the product and billing.</div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-33cf68a2 ob-has-background-overlay elementor-widget elementor-widget-n-accordion" data-id="33cf68a2" data-element_type="widget" data-e-type="widget" data-settings="{&quot;default_state&quot;:&quot;all_collapsed&quot;,&quot;max_items_expended&quot;:&quot;multiple&quot;,&quot;n_accordion_animation_duration&quot;:{&quot;unit&quot;:&quot;ms&quot;,&quot;size&quot;:400,&quot;sizes&quot;:[]},&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                            data-widget_type="nested-accordion.default">
+                            <div class="elementor-widget-container">
+                                <div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
+                                    <details id="e-n-accordion-item-8690" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="false" aria-controls="e-n-accordion-item-8690">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Can I try Spines for free? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8690" class="elementor-element elementor-element-3d1567f e-con-full e-flex e-con e-child" data-id="3d1567f" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div data-dce-text-color="#667085" class="elementor-element elementor-element-70ff44a6 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="70ff44a6" data-element_type="widget"
+                                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                data-widget_type="text-editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <p><span style="font-weight: 400;">Yes! Anyone can sign up for a free account by clicking the </span><a href="/sign-up/"><b>“Get Started”</b></a><span style="font-weight: 400;"> button at the top of the page. Try out our platform tools and see how easy it is to proofread, design your cover, and publish your book with Spines. </span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8691" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8691">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How long will it take to publish my book with Spines? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8691" class="elementor-element elementor-element-20ea17e4 e-con-full e-flex e-con e-child" data-id="20ea17e4" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div data-dce-text-color="#667085" class="elementor-element elementor-element-15cd465 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="15cd465" data-element_type="widget"
+                                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                data-widget_type="text-editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <p><span style="font-weight: 400;">With Spines, the entire publishing process typically takes around 30 days, from the moment you choose your plan until your book appears on Amazon.</span></p>
+                                                    <p><span style="font-weight: 400;">Keep in mind, the timeline can vary depending on your needs. If you choose to work with our professional team for additional services—like </span><b>translation, line editing, illustration, ghostwriting</b>
+                                                        <span
+                                                            style="font-weight: 400;">, and more—your publishing journey may take a bit longer to ensure top-quality results.</span>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8692" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="3" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8692">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How much does publishing with Spines cost? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8692" class="elementor-element elementor-element-24249939 e-con-full e-flex e-con e-child" data-id="24249939" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div data-dce-text-color="#667085" class="elementor-element elementor-element-43e350b2 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="43e350b2" data-element_type="widget"
+                                                data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                data-widget_type="text-editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <p><span style="font-weight: 400;">Spines offers </span><b>three standard publishing plans</b><span style="font-weight: 400;">, as well as two specialized plans for authors focused on children&#8217;s literature. Our plans are designed to fit different publishing goals, budgets, and book formats.</span></p>
+                                                    <p><b>The cost varies depending on several factors</b><span style="font-weight: 400;">, such as the length of your manuscript, the formats you choose to publish (eBook, audiobook, softcover, or hardcover), how much personal support you’d like along the way, and any additional services you may require.</span></p>
+                                                    <p><span style="font-weight: 400;">Some authors want a simple, streamlined path to get their book live on Amazon. Others want a full-service experience, including translation, multi-format publishing, and hands-on guidance from our team. Wherever you fall on that spectrum, there’s a plan built to meet you right where you are.</span></p>
+                                                    <p><span style="font-weight: 400;">To find the best fit for your book and your vision, explore our </span><a href="/pricing/"><b>pricing page</b></a><span style="font-weight: 400;"> or connect with one of our </span>
+                                                        <a
+                                                            href="/sign-up/"><b>publishing experts</b></a><span style="font-weight: 400;"> for personalized guidance. </span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8693" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8693">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What payment methods can I use? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8693" class="elementor-element elementor-element-6728ff04 e-flex e-con-boxed e-con e-child" data-id="6728ff04" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-231f79e0 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="231f79e0" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">To make it easy for you to purchase the package you want, Spines offers multiple ways to pay. You can pay via bank transfer, Affirm, credit card, or PayPal.</span></p>
+                                                        <ul>
+                                                            <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pay directly from your bank account via ACH transfer.</span></li>
+                                                            <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Split your purchase into up to 24 monthly payments with Affirm (subject to approval).</span></li>
+                                                            <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Securely pay with your credit or debit card at checkout. All major cards accepted.</span></li>
+                                                            <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Check out quickly and securely with PayPal. </span></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8694" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="5" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8694">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What if I change my mind? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8694" class="elementor-element elementor-element-47fb82e e-flex e-con-boxed e-con e-child" data-id="47fb82e" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-357a9073 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="357a9073" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">We’re confident that once you try our service, you’ll understand why thousands of authors have chosen to publish with Spines. However, if you decide it’s not for you, we offer a </span><b>100% hassle-free, 30-day money-back guarantee</b>
+                                                            <span
+                                                                style="font-weight: 400;">.</span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8695" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="6" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8695">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Does Spines support any languages other than English? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8695" class="elementor-element elementor-element-4a0337e6 e-flex e-con-boxed e-con e-child" data-id="4a0337e6" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-3157f9f6 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="3157f9f6" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">Yes! Our platform currently supports </span><b>Spanish</b><span style="font-weight: 400;">, </span><b>Portuguese</b><span style="font-weight: 400;">, and </span><b>French</b>
+                                                            <span
+                                                                style="font-weight: 400;"> in addition to English. We also offer translation services from any other language into English.</span>
+                                                        </p>
+                                                        <p><span style="font-weight: 400;">If you need your manuscript translated into English from another language, just let us know—we’ll be happy to provide you with a quote.</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8696" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="7" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8696">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How do royalties work? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8696" class="elementor-element elementor-element-302bd6b0 e-flex e-con-boxed e-con e-child" data-id="302bd6b0" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-2b15efbb elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="2b15efbb" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">At Spines, we believe authors deserve the </span><b>highest royalties possible</b><span style="font-weight: 400;">—with </span><b>zero hassle</b><span style="font-weight: 400;">. That’s why we handle the collection from all distribution channels for you and display everything in a clear, easy-to-read </span><b>royalties dashboard.</b></p>
+                                                        <p><span style="font-weight: 400;">All royalties from every distribution channel are collected and displayed together on your dashboard, with updates provided on a monthly basis. You focus on writing—we’ll take care of the rest.</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8697" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="8" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8697">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Before uploading my manuscript to Spines' platform, what format should it be in? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8697" class="elementor-element elementor-element-743cd330 e-flex e-con-boxed e-con e-child" data-id="743cd330" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-6d301489 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="6d301489" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">To ensure a smooth publishing experience, please upload your manuscript as a </span><b>.DOC or .DOCX file</b><span style="font-weight: 400;">.</span></p>
+                                                        <p><span style="font-weight: 400;">There’s no need to apply any special formatting—our platform will handle that for you.</span></p>
+                                                        <p><span style="font-weight: 400;">If your manuscript is divided into multiple files, please </span><b>combine them into a single document</b><span style="font-weight: 400;"> before uploading.</span></p>
+                                                        <p><span style="font-weight: 400;">If your manuscript is handwritten or scanned, feel free to </span><a href="/contact-us/"><b>contact us</b></a><span style="font-weight: 400;">—we’ll be happy to provide a quote to convert it into a digital file.</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                    <details id="e-n-accordion-item-8698" class="e-n-accordion-item">
+                                        <summary class="e-n-accordion-item-title" data-accordion-index="9" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-8698">
+                                            <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What other services do you offer? </div></span>
+                                            <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M8 1.11133V15.1113M1 8.11133H15" stroke="#44AACF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                            </span>
+
+                                        </summary>
+                                        <div role="region" aria-labelledby="e-n-accordion-item-8698" class="elementor-element elementor-element-5e150bba e-flex e-con-boxed e-con e-child" data-id="5e150bba" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                                            <div class="e-con-inner">
+                                                <div data-dce-text-color="#667085" class="elementor-element elementor-element-6bf7187 elementor-widget__width-initial ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="6bf7187" data-element_type="widget"
+                                                    data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                                    data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p><span style="font-weight: 400;">In addition to the standard production plans listed on our </span><a href="/pricing/"><b>pricing page</b></a><span style="font-weight: 400;">, Spines offers </span><b>editing</b>
+                                                            <span
+                                                                style="font-weight: 400;">, </span><b>design</b><span style="font-weight: 400;">, </span><b>illustration creation</b><span style="font-weight: 400;">, </span><b>document conversion</b><span style="font-weight: 400;">, and </span><b>ghostwriting</b>
+                                                                <span
+                                                                    style="font-weight: 400;"> services. For these or any other special requests, please contact our </span><a href="/contact-us/"><b>publishing consultants</b></a><span style="font-weight: 400;"> to learn more.</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </details>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="post-tags">
+            </div>
+        </div>
+
+    </main>
+
+
+    <?php include 'partials/footer.php'; ?>
+
+  

@@ -1,0 +1,141 @@
+/* Button Container */
+.plaid-button-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Plaid Button Styling */
+.plaid-button {
+    display: inline-flex; /* ensure content wraps neatly */
+    align-items: center;
+    background-color: #48bb8a !important;
+    color: #ffffff !important;
+    border: none;
+    border-radius: 8px !important;
+    padding: 14px 20px !important;
+    font-size: 16px !important;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    max-width: 300px;
+}
+
+.plaid-button:hover {
+    background-color: #3fa278 !important;
+}
+
+.plaid-button:active {
+    transform: translateY(2px) !important;
+}
+
+/* Hide the icon entirely */
+.plaid-button-icon {
+    display: none !important;
+}
+
+/* Loading Spinner Styling */
+.plaid-button-loading {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
+}
+
+.spinner {
+    width: 24px !important;
+    height: 24px !important;
+    animation: spin 1s linear infinite !important;
+}
+.spinner .path {
+    stroke: #ffffff !important;
+    stroke-linecap: round !important;
+    animation: dash 1.5s ease-in-out infinite !important;
+}
+
+/* Linked Account Styling */
+#plaid-linked-info {
+    margin-top: 15px !important;
+    font-size: 14px !important;
+    text-align: center !important;
+    width: 100% !important;
+    max-width: 300px !important;
+}
+
+.plaid-account-info {
+    margin-bottom: 6px !important;
+    color: #2c3e50 !important;
+    font-weight: 500 !important;
+}
+
+#plaid-relink-account {
+    color: #48bb8a !important; /* Match primary button color */
+    text-decoration: underline !important;
+    cursor: pointer !important;
+    font-size: 13px !important;
+    transition: color 0.2s ease !important;
+}
+
+#plaid-relink-account:hover {
+    color: #3fa278 !important; /* Match hover color */
+}
+
+/* Account linked button state */
+.account-linked {
+    background-color: #27ae60 !important;
+    color: white !important;
+    border: none !important;
+}
+
+.account-linked:hover {
+    background-color: #219955 !important;
+}
+
+/* Keyframes for Spinner Animation */
+@keyframes spin {
+    100% { transform: rotate(360deg) !important; }
+}
+
+@keyframes dash {
+    0% {
+        stroke-dasharray: 1, 150 !important;
+        stroke-dashoffset: 0 !important;
+    }
+    50% {
+        stroke-dasharray: 90, 150 !important;
+        stroke-dashoffset: -35 !important;
+    }
+    100% {
+        stroke-dasharray: 90, 150 !important;
+        stroke-dashoffset: -124 !important;
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    .payment_box.payment_method_plaid_gateway {
+        padding: 20px !important;
+        margin: 20px !important;
+    }
+    .payment_box.payment_method_plaid_gateway p {
+        font-size: 16px !important;
+        margin-bottom: 20px !important;
+    }
+
+    .plaid-button {
+        padding: 12px 16px !important;
+        font-size: 14px !important;
+        min-width: 220px !important;
+    }
+
+    .spinner {
+        width: 20px !important;
+        height: 20px !important;
+    }
+    
+    #plaid-linked-info {
+        margin-top: 12px !important;
+        font-size: 13px !important;
+    }
+}

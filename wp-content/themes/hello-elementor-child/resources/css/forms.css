@@ -1,0 +1,242 @@
+html body .iti--container {
+    z-index: 10000 !important;
+}
+
+html body .iti__search-input {
+    width: 100%;
+    border-width: 0;
+    border-radius: 3px;
+    padding-left: 30px;
+    padding-right: 28px;
+}
+
+.form-design-1 .elementor-form-fields-wrapper {
+	align-items:flex-start;
+}
+
+.form-design-1 .elementor-button {
+    width: 100%;
+    transition: .3s ease-in-out all;
+}
+
+.form-design-1 .elementor-button .elementor-button-content-wrapper{
+    gap:7px !important;
+}
+
+.form-design-1 .elementor-button .elementor-button-icon svg {
+    width: .5em;
+}
+
+.form-design-1 .elementor-button .elementor-button-icon {
+    transition:.3s ease-in-out all;
+}
+
+.form-design-1 .elementor-button:hover .elementor-button-icon {
+    transform: translateX(4px);
+}
+
+/* selector .elementor-field:not(.elementor-select-wrapper),
+selector .elementor-field.elementor-select-wrapper select {
+    box-shadow: 0 1px 3px 0 rgba(16, 24, 40, 0.07);
+} */
+
+.form-design-1 .elementor-field-type-text .input-icons + .elementor-field,
+.form-design-1 .elementor-field-type-tel .input-icons +  .elementor-field:not(.iti__tel-input),
+.form-design-1 .elementor-field-type-email .input-icons + .elementor-field,
+.form-design-1 .elementor-field-type-select .input-icons +  select {
+    padding-left: 35px !important;
+}
+
+
+.form-design-1 .elementor-field:placeholder {
+    color:#ADADAD;
+}
+
+.form-design-1 .elementor-field::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #ADADAD;
+  opacity: 1; /* Firefox */
+}
+
+.form-design-1 .elementor-field:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #ADADAD;
+}
+
+.form-design-1 .elementor-field::-ms-input-placeholder { /* Microsoft Edge */
+  color: #ADADAD;
+}
+
+.form-design-1 .dce-field-input-wrapper > .input-icons,
+.form-design-1 .elementor-field > .input-icons {
+    position: absolute;
+    top:18px !important;
+    width: 20px !important;
+    height: 22px !important;
+}
+
+.form-design-1 .elementor-select-wrapper .e-eicon-caret-down {
+    width: 9px !important;
+    height: 9px !important;
+    left: -8px !important;
+}
+
+/*---------------------------------------*/
+
+.form-design-1 .elementor-field-type-acceptance {
+    margin-bottom: 15px !important;
+    /*padding-left: 11px !important;*/
+}
+
+.form-design-1 .elementor-field-type-acceptance .elementor-field-subgroup {
+    
+}
+
+.form-design-1 .elementor-field-type-acceptance .elementor-field-option {
+    display: flex;
+    align-items: center;
+}
+
+.form-design-1 .elementor-field-type-acceptance .elementor-field-subgroup input[type=checkbox] {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    accent-color: #25EDBF;
+}
+
+.form-design-1 .elementor-field-type-acceptance .elementor-field-subgroup label {
+    /*justify-content: center;*/
+    font-size: .9em !important;
+    color: rgba(0,0,0,.6) !important;
+}
+
+.form-design-1 .elementor-field-type-acceptance .elementor-field-subgroup label a {
+    text-decoration: underline !important;
+    color: rgba(0,0,0,.6);
+}
+
+/*---------------------------------------*/
+
+.form-design-1 .elementor-field-type-radio .elementor-field-option,
+.form-design-1 .elementor-field-type-checkbox .elementor-field-option {
+    display: flex;
+    align-items: center;
+    border: 1px solid #DCE2EA;
+    padding: 9px 13px;
+    border-radius:30px;
+    box-shadow: 0 1px 3px 0 rgba(16, 24, 40, 0.07);
+}
+
+.form-design-1 .elementor-field-type-radio .elementor-field-subgroup input[type=radio],
+.form-design-1 .elementor-field-type-checkbox .elementor-field-subgroup input[type=checkbox] {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    accent-color: #25EDBF;
+}
+
+
+.form-design-1 .elementor-field-type-radio .elementor-field-subgroup.elementor-subgroup-inline,
+.form-design-1 .elementor-field-type-checkbox .elementor-field-subgroup.elementor-subgroup-inline {
+    gap:9px;
+}
+
+.form-design-1 .iti__selected-country {
+    color: #5F7A9B !important;
+}
+
+/*-------------------------------------*/
+
+.form-errors {
+    /*--color-error-message: #FF4588;*/
+    --color-error-message: #DC2626;
+}
+
+.form-errors .elementor-field-group {
+	align-items:flex-start;
+}
+
+.form-errors .elementor-message {
+    font-size:14px;
+    /*font-weight: 500 !important;*/
+    margin: 7px 0 7px 0px;
+    text-align: center;
+}
+
+.form-errors .elementor-message.elementor-input-message {
+    text-align: left;
+}
+
+.form-errors .elementor-message:before {
+    margin-right: 3px;;
+}
+
+.form-errors .elementor-message.elementor-message-danger {
+    color: var(--color-error-message) !important;
+}
+
+.form-errors .elementor-message.elementor-message-danger::before {
+    display: none;
+}
+
+.form-errors .has-error-message input,
+.form-errors .has-error-message textarea,
+.form-errors .has-error-message select,
+.form-errors .elementor-field-type-radio.has-error-message .elementor-field-option {
+    border-color: var(--color-error-message) !important;
+    /*box-shadow: 0 0 1px 1px var(--color-error-message) !important;*/
+}
+
+.form-errors .has-error-message input[type=checkbox]{
+    box-shadow: 0 0 1px 1px var(--color-error-message) !important;
+}
+
+/*-------------------------------------*/
+
+.form-phone .iti .iti__search-input {
+    width: 100%;
+    border-width: 0;
+    border-radius: 3px;
+    padding-left: 30px;
+    padding-right: 28px;   
+}
+
+.form-phone .iti__country-container {
+    padding: 0 !important;    
+}
+
+.form-phone .elementor-field-type-tel .iti {
+    width: 100%;
+    z-index: 10;
+}
+
+.form-phone .elementor-field-type-tel {
+    z-index: 1000;
+}
+
+.form-phone .elementor-field-type-tel .dce-field-input-wrapper .input-icons {
+    display: none;
+}
+
+.form-design-1 .iti__selected-country {
+    border-radius: 12px 0 0 12px;
+}
+
+.form-phone .iti__selected-country {
+    overflow: hidden;
+    color: inherit;
+}
+
+.form-phone .iti__selected-country-primary {
+    padding-left: 10px;
+}
+
+.form-phone .iti__selected-country:hover, 
+.form-phone .iti__selected-country:focus {
+    background-color:transparent;
+}
+
+.form-phone .iti__selected-country:hover .iti__selected-country-primary,
+.form-phone .iti__selected-country:focus .iti__selected-country-primary,
+.form-phone .iti__selected-country .iti__selected-country-primary:hover,
+.form-phone .iti__selected-country .iti__selected-country-primary:focus{
+    background: rgba(0,0,0,.05) !important;
+}
