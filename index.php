@@ -932,19 +932,19 @@
                                         <div class="e-n-tabs-heading" role="tablist">
                                             <button id="e-n-tab-title-1078168951" data-tab-title-id="e-n-tab-title-1078168951" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1078168951" style="--n-tabs-title-order: 1;">
 						<span class="e-n-tab-title-text">
-				<div class="step">Step 1</div> Upload Your Manuscript			</span>
+				<div class="step">Step 1</div> <p class="tab-section-txt"> Upload Your Manuscript	</p>		</span>
 		</button>
                                             <button id="e-n-tab-title-1078168952" data-tab-title-id="e-n-tab-title-1078168952" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168952" style="--n-tabs-title-order: 2;">
 						<span class="e-n-tab-title-text">
-				<div class="step">Step 2</div> Edit &amp; Perfect Your Book			</span>
+				<div class="step">Step 2</div> <p class="tab-section-txt"> Edit &amp; Perfect Your Book	</p></span>
 		</button>
                                             <button id="e-n-tab-title-1078168953" data-tab-title-id="e-n-tab-title-1078168953" class="e-n-tab-title" aria-selected="false" data-tab-index="3" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168953" style="--n-tabs-title-order: 3;">
 						<span class="e-n-tab-title-text">
-				<div class="step">Step 3</div> Design Your Cover &amp; Layout			</span>
+				<div class="step">Step 3</div> <p class="tab-section-txt"> Design Your Cover &amp; Layout	</p>	</span>
 		</button>
                                             <button id="e-n-tab-title-1078168954" data-tab-title-id="e-n-tab-title-1078168954" class="e-n-tab-title" aria-selected="false" data-tab-index="4" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1078168954" style="--n-tabs-title-order: 4;">
 						<span class="e-n-tab-title-text">
-				<div class="step">Step 4</div> Publish &amp; Distribute			</span>
+				<div class="step">Step 4</div> <p class="tab-section-txt"> Publish &amp; Distribute	</p> </span>
 		</button>
                                         </div>
                                         <div class="e-n-tabs-content">

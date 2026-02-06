@@ -5271,27 +5271,27 @@
         </div>
     </div>
     
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='partials/pluginFooter/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='partials/pluginFooter/jet-elements.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=10.4.3&wpr_t=1770124740' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link rel='preload' href='partials/pluginFooter/photoswipe.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=10.4.3&wpr_t=1770124740' data-rocket-async="style" as="style"
+    <link rel='preload' href='partials/pluginFooter/default-skin.min.css' data-rocket-async="style" as="style"
         onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <script src="https://cdn.spines.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/betterdocs/assets/blocks/categorygrid/frontend.js?ver=a4a7e7ed1fd9a2aaf85a" id="betterdocs-categorygrid-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/imagesloaded.min.js" id="imagesloaded-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/masonry.min.js" id="masonry-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/frontends.js" id="betterdocs-categorygrid-js" data-rocket-defer defer></script>
     <script id="fluentform-elementor-js-extra">
         var fluentformElementor = {
             "adminUrl": "wp-admin/admin.php"
         };
         //# sourceURL=fluentform-elementor-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/fluentform/assets/js/fluent-forms-elementor-widget.js?ver=6.1.16" id="fluentform-elementor-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2" id="wc-accounting-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/fluent-forms-elementor-widget.js" id="fluentform-elementor-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/accounting.min.js" id="wc-accounting-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/core.min.js" id="jquery-ui-core-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/datepicker.min.js" id="jquery-ui-datepicker-js" data-rocket-defer defer></script>
     <script id="jquery-ui-datepicker-js-after">
         jQuery(function(jQuery) {
             jQuery.datepicker.setDefaults({
@@ -5348,7 +5348,7 @@
         };
         //# sourceURL=woocommerce-addons-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce-product-addons/assets/js/frontend/addons.min.js?ver=7.0.1" id="woocommerce-addons-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/addons.min.js" id="woocommerce-addons-js" defer data-wp-strategy="defer"></script>
     <script id="rsp-tracker-js-extra">
         var rsp_ajax = {
             "ajax_url": "wp-admin/admin-ajax.php",
@@ -5356,8 +5356,8 @@
         };
         //# sourceURL=rsp-tracker-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/wp-rocket-smart-preload/assets/js/rsp-tracker.js?ver=1.1.0" id="rsp-tracker-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/sfwd-lms/includes/course-grid/templates/skins/grid/script.js?ver=4.25.8.1" id="learndash-course-grid-skin-grid-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/rsp-tracker.js" id="rsp-tracker-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/script.js" id="learndash-course-grid-skin-grid-js" data-rocket-defer defer></script>
     <script id="learndash-js-extra">
         var LearnDash_Course_Grid = {
             "ajaxurl": "wp-admin/admin-ajax.php",
@@ -5367,10 +5367,10 @@
         };
         //# sourceURL=learndash-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/sfwd-lms/includes/course-grid/assets/js/script.js?ver=4.25.8.1" id="learndash-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/sfwd-lms/includes/course-grid/assets/js/elementor.js?ver=4.25.8.1" id="learndash-course-grid-elementor-compatibility-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/fix-background-loop.js?ver=3.4.1" id="dce-fix-background-loop-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/settings.js?ver=3.4.1" id="dce-settings-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/script2.js" id="learndash-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/elementor.js" id="learndash-course-grid-elementor-compatibility-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/fix-background-loop.js" id="dce-fix-background-loop-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/settings.js" id="dce-settings-js" data-rocket-defer defer></script>
     <script id="dce-js-field-js-extra">
         var jsFieldLocale = {
             "syntaxError": "Your JS Field code contains errors, check the browser console!",
@@ -5378,24 +5378,24 @@
         };
         //# sourceURL=dce-js-field-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/js-field.js?ver=3.4.1" id="dce-js-field-js" data-rocket-defer defer></script>
+    <script src="../partials/pluginFooter/js-field.js" id="dce-js-field-js" data-rocket-defer defer></script>
     <script id="dce-amount-field-js-extra">
         var amountFieldLocale = {
             "syntaxError": "Your formula in Amount Field contains errors. Check the field and correct the errors. You can find the errors in the console of your browser"
         };
         //# sourceURL=dce-amount-field-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/amount-field.js?ver=3.4.1" id="dce-amount-field-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/range.js?ver=3.4.1" id="dce-range-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/node/mustache/mustache.min.js?ver=3.4.1" id="dce-mustache-js-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/live-html.js?ver=3.4.1" id="dce-live-html-js" data-rocket-defer defer></script>
-    <script src="https://js.stripe.com/v3" id="dce-stripe-js-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/stripe.js?ver=3.4.1" id="dce-stripe-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/dynamic-select.js?ver=3.4.1" id="dce-dynamic-select-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/hidden-label.js?ver=3.4.1" id="dce-hidden-label-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/signature.js?ver=3.4.1" id="dce-signature-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/js/inline-align-form.js?ver=3.4.1" id="dce-inline-align-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dynamic-content-for-elementor/assets/node/signature_pad/signature_pad.umd.min.js?ver=3.4.1" id="dce-signature-lib-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/amount-field.js" id="dce-amount-field-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/range.js" id="dce-range-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/mustache.min.js" id="dce-mustache-js-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/live-html.js" id="dce-live-html-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/stripe.js" id="dce-stripe-js-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/Stripes.js" id="dce-stripe-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/dynamic-select.js" id="dce-dynamic-select-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/hidden-label.js" id="dce-hidden-label-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/signature.js" id="dce-signature-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/inline-align-form.js" id="dce-inline-align-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/signature_pad.umd.min.js" id="dce-signature-lib-js" data-rocket-defer defer></script>
     <script id="metorik-js-js-extra">
         var metorik_params = {
             "source_tracking": {
@@ -5422,7 +5422,7 @@
         };
         //# sourceURL=metorik-js-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/metorik-helper/assets/js/metorik.min.js?ver=2.0.10" id="metorik-js-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/metorik.min.js" id="metorik-js-js" data-rocket-defer defer></script>
     <script id="rocket-browser-checker-js-after">
         "use strict";
         var _createClass = function() {
@@ -5501,7 +5501,7 @@
             "usesTrailingSlash": "1",
             "imageExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php",
             "fileExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm",
-            "siteUrl": "https://spines.com",
+            // "siteUrl": "https://spines.com",
             "onHoverDelay": "100",
             "rateThrottle": "3"
         };
@@ -5720,14 +5720,14 @@
         };
         //# sourceURL=woonp-frontend-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/wpc-name-your-price/assets/js/frontend.js?ver=2.2.1" id="woonp-frontend-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/frontend.js" id="woonp-frontend-js" data-rocket-defer defer></script>
     <script id="learndash-main-ns-extra">
         window.learndash = window.learndash || {};
         window.learndash.global = Object.assign(window.learndash.global || {}, {
-            "ajaxurl": "https:\/\/spines.com\/wp-admin\/admin-ajax.php"
+            // "ajaxurl": "https:\/\/spines.com\/wp-admin\/admin-ajax.php"
         });
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/sfwd-lms/src/assets/dist/js/main.js?ver=4.25.8.1" id="learndash-main-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/main.js" id="learndash-main-js" data-rocket-defer defer></script>
     <script id="learndash-breakpoints-ns-extra">
         window.learndash = window.learndash || {};
         window.learndash.views = window.learndash.views || {};
@@ -5743,7 +5743,7 @@
             }
         });
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/sfwd-lms/src/assets/dist/js/breakpoints.js?ver=4.25.8.1" id="learndash-breakpoints-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/breakpoints.js" id="learndash-breakpoints-js" data-rocket-defer defer></script>
     <script id="learndash-front-js-extra">
         var ldVars = {
             "postID": "274013",
@@ -5752,7 +5752,7 @@
         };
         //# sourceURL=learndash-front-js-extra
     </script>
-    <script src="//cdn.spines.com/wp-content/plugins/sfwd-lms/themes/ld30/assets/js/learndash.js?ver=4.25.8.1" id="learndash-front-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/learndash.js" id="learndash-front-js" data-rocket-defer defer></script>
     <script id="eael-general-js-extra">
         var localize = {
             "ajaxurl": "wp-admin/admin-ajax.php",
@@ -5830,10 +5830,10 @@
         };
         //# sourceURL=eael-general-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.5.9" id="eael-general-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/uploads/essential-addons-elementor/eael-274063.js?ver=1770037556" id="eael-274063-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.0" id="elementor-webpack-runtime-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.0" id="elementor-frontend-modules-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/generals.min.js" id="eael-general-js" data-rocket-defer defer></script>
+    <!-- <script src="https://cdn.spines.com/wp-content/uploads/essential-addons-elementor/eael-274063.js?ver=1770037556" id="eael-274063-js" data-rocket-defer defer></script> -->
+    <script src="partials/pluginFooter/webpacks.runtime.min.js" id="elementor-webpack-runtime-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/frontends-modules.min.js" id="elementor-frontend-modules-js" data-rocket-defer defer></script>
     <script id="elementor-frontend-js-extra">
         var EAELImageMaskingConfig = {
             "svg_dir_url": "wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/"
@@ -5975,7 +5975,7 @@
         };
         //# sourceURL=elementor-frontend-js-before
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0" id="elementor-frontend-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/frontend.min.js" id="elementor-frontend-js" data-rocket-defer defer></script>
     <script id="elementor-frontend-js-after">
         "use strict";
         ! function(e, t) {
@@ -6010,12 +6010,12 @@
         }(jQuery, window);
         //# sourceURL=elementor-frontend-js-after
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/uploads/essential-addons-elementor/eael-274096.js?ver=1770037556" id="eael-274096-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/uploads/essential-addons-elementor/eael-274013.js?ver=1770037556" id="eael-274013-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/ooohboi-steroids.js?ver=2.1.24aaa" id="ooohboi-steroids-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.4.3" id="sourcebuster-js-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/jquery.smartmenus.min.js" id="smartmenus-js" data-rocket-defer defer></script>
+    <!-- <script src="https://cdn.spines.com/wp-content/uploads/essential-addons-elementor/eael-274096.js?ver=1770037556" id="eael-274096-js" data-rocket-defer defer></script> -->
+    <script src="partials/pluginFooter/eael-274013.js" id="eael-274013-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/ooohboi-steroids.js" id="ooohboi-steroids-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/swiper.min.js" id="swiper-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/sourcebuster.min.js" id="sourcebuster-js-js" data-rocket-defer defer></script>
     <script id="wc-order-attribution-js-extra">
         var wc_order_attribution = {
             "params": {
@@ -6047,9 +6047,9 @@
         };
         //# sourceURL=wc-order-attribution-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.4.3" id="wc-order-attribution-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/popper.min.js?ver=6.9" id="popper-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/tippy-bundle.umd.min.js?ver=6.9" id="tippy-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/order-attribution.min.js" id="wc-order-attribution-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/popper.min.js" id="popper-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/tippy-bundle.umd.min.js" id="tippy-js" data-rocket-defer defer></script>
     <script id="child-theme-script-js-extra">
         var ajaxObj = {
             "ajaxUrl": "wp-admin/admin-ajax.php",
@@ -6062,8 +6062,8 @@
         };
         //# sourceURL=child-theme-script-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/script.js" id="child-theme-script-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-elements/assets/js/lib/tweenjs/tweenjs.min.js?ver=2.0.2" id="jet-tween-js-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/scripts.js" id="child-theme-script-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/tweenjs.min.js" id="jet-tween-js-js" data-rocket-defer defer></script>
     <script id="jet-elements-js-extra">
         var jetElements = {
             "ajaxUrl": "wp-admin/admin-ajax.php",
@@ -6077,9 +6077,9 @@
         };
         //# sourceURL=jet-elements-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.8.0.1" id="jet-elements-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-tricks/assets/js/lib/ts-particles/3.0.2/tsparticles.min.js?ver=3.0.2" id="jet-tricks-ts-particles-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.0" id="elementor-pro-webpack-runtime-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/jet-elements.min.js" id="jet-elements-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/tsparticles.min.js" id="jet-tricks-ts-particles-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js" data-rocket-defer defer></script>
     <script id="elementor-pro-frontend-js-before">
         var ElementorProFrontendConfig = {
             "ajaxurl": "https:\/\/spines.com\/wp-admin\/admin-ajax.php",
@@ -6182,14 +6182,14 @@
         };
         //# sourceURL=elementor-pro-frontend-js-before
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.0" id="elementor-pro-frontend-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.0" id="pro-elements-handlers-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/glider-min.js?ver=2.1.24" id="ob-glider-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/spacerat-min.js?ver=2.1.24" id="ob-spacerat-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/hoveranimator.js?ver=2.1.24" id="ob-hoveranimator-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/ooohboi-steroids-for-elementor/assets/js/pseudo-min.js?ver=2.1.24" id="ob-pseuduo-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-tricks/assets/js/lib/tippy/popperjs.js?ver=2.11.8" id="jet-tricks-popperjs-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-tricks/assets/js/lib/tippy/tippy-bundle.js?ver=6.3.7" id="jet-tricks-tippy-bundle-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/frontend.min.js" id="elementor-pro-frontend-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/elements-handlers.min.js" id="pro-elements-handlers-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/spacerat-min.js" id="ob-glider-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/spacerats-min.js" id="ob-spacerat-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/hoveranimator.js" id="ob-hoveranimator-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/pseudo-min.js" id="ob-pseuduo-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/popperjs.js" id="jet-tricks-popperjs-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/tippy-bundle.js" id="jet-tricks-tippy-bundle-js" data-rocket-defer defer></script>
     <script id="jet-tricks-frontend-js-extra">
         var JetTricksSettings = {
             "elements_data": {
@@ -6221,11 +6221,11 @@
         };
         //# sourceURL=jet-tricks-frontend-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/jet-tricks/assets/js/jet-tricks-frontend.js?ver=1.5.9" id="jet-tricks-frontend-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.10.4.3" id="wc-zoom-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.10.4.3" id="wc-flexslider-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.10.4.3" id="wc-photoswipe-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.10.4.3" id="wc-photoswipe-ui-default-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/jet-tricks-frontend.js" id="jet-tricks-frontend-js" data-rocket-defer defer></script>
+    <script src="partials/pluginFooter/jquery.zoom.min.js" id="wc-zoom-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/jquery.flexslider.min.js" id="wc-flexslider-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/photoswipe.min.js" id="wc-photoswipe-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/photoswipe-ui-default.min.js" id="wc-photoswipe-ui-default-js" defer data-wp-strategy="defer"></script>
     <script id="wc-single-product-js-extra">
         var wc_single_product_params = {
             "i18n_required_rating_text": "Please select a rating",
@@ -6257,7 +6257,7 @@
         };
         //# sourceURL=wc-single-product-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=10.4.3" id="wc-single-product-js" defer data-wp-strategy="defer"></script>
+    <script src="partials/pluginFooter/single-product.min.js" id="wc-single-product-js" defer data-wp-strategy="defer"></script>
     <script type="application/json" fncls="fnparams-dede7cc5-15fd-4c75-a9f4-36c430ee3a99">
         {
             "f": "39a0fa24885549a0bfb873fa1b170fef",
@@ -6444,7 +6444,7 @@
             }
         }, !1)
     </script>
-    <script data-no-minify="1" async src="https://cdn.spines.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script>
+    <script data-no-minify="1" async src="partials/pluginFooter/lazyload.min.js"></script>
     <script>
         "use strict";
 
@@ -6459,7 +6459,8 @@
             elem && "remove" in elem && elem.remove()
         }
         window.addEventListener ? window.addEventListener("load", wprRemoveCPCSS) : window.attachEvent && window.attachEvent("onload", wprRemoveCPCSS);
-    </script><noscript><link data-minify="1" rel='stylesheet' id='dashicons-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-shipping-block-checkout-support-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-pro/assets/blocks/shipping/index.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='fluentform-elementor-widget-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='betterdocs-blocks-category-slate-layout-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/betterdocs/assets/blocks/category-slate-layout/default.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='woocommerce-layout-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='woocommerce-smallscreen-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=1770037613' media='only screen and (max-width: 768px)' /><link data-minify="1" rel='stylesheet' id='woocommerce-general-css' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=1770037613&wpr_t=1770124740' media='all' /><link rel='stylesheet' id='learndash_quiz_front_css-css' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=4.25.8.1' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/src/assets/dist/css/styles.css?ver=1770037613' media='all' /><link rel='stylesheet' id='jquery-dropdown-css-css' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=4.25.8.1' media='all' /><link rel='stylesheet' id='learndash_lesson_video-css' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=4.25.8.1' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-admin-bar-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/src/assets/dist/css/admin-bar/styles.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-skin-grid-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/skins/grid/style.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-pagination-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/pagination/style.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-filter-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/filter/style.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-card-grid-1-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/cards/grid-1/style.css?ver=1770037613' media='all' /><link rel='stylesheet' id='booxai-dokan-customization-css' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' media='all' /><link data-minify="1" rel='stylesheet' id='dce-style-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/style.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='dce-hidden-label-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/hidden-label.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='dce-dynamic-visibility-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/dynamic-visibility.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='metorik-css-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/metorik-helper/assets/css/metorik.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='custom_splitit_checkout_page_css-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/splitit-installment-payments/assets/css/style.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='url-shortify-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/url-shortify/lite/dist/styles/url-shortify.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='woonp-frontend-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/wpc-name-your-price/assets/css/frontend.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/reset.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-theme-style-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/theme.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-header-footer-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-front-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/themes/ld30/assets/css/learndash.min.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='betterdocs-elementor-editor-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/betterdocs/assets/elementor/css/betterdocs-el-edit.css?ver=1770037613' media='all' /><link rel='stylesheet' id='elementor-frontend-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-image-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-nav-menu-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-heading-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-icon-list-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-grow-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-social-icons-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-apple-webkit-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-icon-box-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-zoomIn-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-bounceIn-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.35.0' media='all' /><link data-minify="1" rel='stylesheet' id='ooohboi-steroids-styles-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/ooohboi-steroids-for-elementor/assets/css/main.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='jet-tricks-frontend-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend.css?ver=1770037613' media='all' /><link rel='stylesheet' id='e-animation-fadeIn-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-fadeInRight-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-rating-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-rating.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='e-motion-fx-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.35.0' media='all' /><link data-minify="1" rel='stylesheet' id='swiper-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1770037613' media='all' /><link rel='stylesheet' id='e-swiper-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-testimonial-carousel-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-reviews-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-reviews.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-star-rating-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-carousel-module-base-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-image-carousel-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-nested-tabs-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-media-carousel-css' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-media-carousel.min.css?ver=3.35.0' media='all' /><link rel='stylesheet' id='widget-nested-accordion-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.35.0' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-style-css' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-lite/assets/css/style.css?ver=1770037613&wpr_t=1770124740' media='all' /><link rel='stylesheet' id='dokan-modal-css' href='https://cdn.spines.com/wp-content/plugins/dokan-lite/assets/vendors/izimodal/iziModal.min.css?ver=1769761652' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-fontawesome-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-lite/assets/vendors/font-awesome/css/font-awesome.min.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='wc-pb-checkout-blocks-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-child-css' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/style.css?ver=1770037613&wpr_t=1770124740' media='all' /><link data-minify="1" rel='stylesheet' id='wc-bundle-style-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='font-awesome-5-all-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1770037613' media='all' /><link rel='stylesheet' id='font-awesome-4-shim-css' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.5.9' media='all' /><link rel='stylesheet' id='eael-general-css' href='https://cdn.spines.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.9' media='all' /><link data-minify="1" rel='stylesheet' id='elementor-gf-local-dmsans-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/dmsans.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='elementor-gf-local-merriweather-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/merriweather.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='wc-blocks-style-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=1770037613' media='all' /><link data-minify="1" rel='stylesheet' id='jet-elements-css' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=1770037613' media='all' /><link rel='stylesheet' id='photoswipe-css' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=10.4.3&wpr_t=1770124740' media='all' /><link rel='stylesheet' id='photoswipe-default-skin-css' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=10.4.3&wpr_t=1770124740' media='all' /></noscript></body>
+    </script><noscript><link data-minify="1" rel='stylesheet' id='dashicons-css' href='partials/pluginFooter/dashicons.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-shipping-block-checkout-support-css' href='partials/pluginFooter/index.css' media='all' /><link data-minify="1" rel='stylesheet' id='fluentform-elementor-widget-css' href='partials/pluginFooter/fluent-forms-elementor-widget.css' media='all' /><link data-minify="1" rel='stylesheet' id='betterdocs-blocks-category-slate-layout-css' href='partials/pluginFooter/default.css' media='all' /><link data-minify="1" rel='stylesheet' id='woocommerce-layout-css' href='partials/pluginFooter/woocommerce-layout.css' media='all' /><link data-minify="1" rel='stylesheet' id='woocommerce-smallscreen-css' href='partials/pluginFooter/woocommerce-smallscreen.css' media='only screen and (max-width: 768px)' /><link data-minify="1" rel='stylesheet' id='woocommerce-general-css' href='partials/pluginFooter/woocommerce.css' media='all' /><link rel='stylesheet' id='learndash_quiz_front_css-css' href='partials/pluginFooter/learndash_quiz_front.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-css' href='partials/pluginFooter/styles.css' media='all' /><link rel='stylesheet' id='jquery-dropdown-css-css' href='partials/pluginFooter/jquery.dropdown.min.css' media='all' /><link rel='stylesheet' id='learndash_lesson_video-css' href='partials/pluginFooter/learndash_lesson_video.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-admin-bar-css' href='partials/pluginFooter/styless.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-skin-grid-css' href='partials/pluginFooter/style.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-pagination-css' href='partials/pluginFooter/style2.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-filter-css' href='partials/pluginFooter/style3.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-course-grid-card-grid-1-css' href='partials/pluginFooter/style4.css' media='all' /><link rel='stylesheet' id='booxai-dokan-customization-css' href='partials/pluginFooter/booxai-dokan-customization-public.css' media='all' /><link data-minify="1" rel='stylesheet' id='dce-style-css' href='partials/pluginFooter/style5.css' media='all' /><link data-minify="1" rel='stylesheet' id='dce-hidden-label-css' href='partials/pluginFooter/hidden-label.css' media='all' /><link data-minify="1" rel='stylesheet' id='dce-dynamic-visibility-css' href='partials/pluginFooter/dynamic-visibility.css' media='all' /><link data-minify="1" rel='stylesheet' id='metorik-css-css' href='partials/pluginFooter/metorik.css' media='all' /><link data-minify="1" rel='stylesheet' id='custom_splitit_checkout_page_css-css' href='partials/pluginFooter/metorik.css' media='all' /><link data-minify="1" rel='stylesheet' id='url-shortify-css' href='partials/pluginFooter/url-shortify.css' media='all' /><link data-minify="1" rel='stylesheet' id='woonp-frontend-css' href='partials/pluginFooter/frontend.css' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-css' href='partials/pluginFooter/reset.css' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-theme-style-css' href='partials/pluginFooter/theme.css' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-header-footer-css' href='partials/pluginFooter/header-footer.css' media='all' /><link data-minify="1" rel='stylesheet' id='learndash-front-css' href='partials/pluginFooter/learndash.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='betterdocs-elementor-editor-css' href='partials/pluginFooter/betterdocs-el-edit.css' media='all' /><link rel='stylesheet' id='elementor-frontend-css' href='partials/pluginFooter/frontend.min.css' media='all' /><link rel='stylesheet' id='widget-image-css' href='partials/pluginFooter/widget-image.min.css' media='all' /><link rel='stylesheet' id='widget-nav-menu-css' href='partials/pluginFooter/widget-nav-menu.min.css' media='all' /><link rel='stylesheet' id='widget-heading-css' href='partials/pluginFooter/widget-heading.min.css' media='all' /><link rel='stylesheet' id='widget-icon-list-css' href='partials/pluginFooter/widget-icon-list.min.css' media='all' /><link rel='stylesheet' id='e-animation-grow-css' href='/partials/pluginFooter/e-' media='all' /><link rel='stylesheet' id='widget-social-icons-css' href='partials/pluginFooter/widget-social-icons.min.css' media='all' /><link rel='stylesheet' id='e-apple-webkit-css' href='partials/pluginFooter/apple-webkit.min.css' media='all' /><link rel='stylesheet' id='widget-icon-box-css' href='partials/pluginFooter/widget-icon-box.min.css' media='all' /><link rel='stylesheet' id='e-animation-zoomIn-css' href='../partials/pluginFooter/zoomIn.min.css' media='all' /><link rel='stylesheet' id='e-animation-bounceIn-css' href='partials/pluginFooter/bounceIn.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='ooohboi-steroids-styles-css' href='partials/pluginFooter/main.css' media='all' /><link data-minify="1" rel='stylesheet' id='jet-tricks-frontend-css' href='partials/pluginFooter/jet-tricks-frontend.css' media='all' /><link rel='stylesheet' id='e-animation-fadeIn-css' href='partials/pluginFooter/fadeIn.min.css' media='all' /><link rel='stylesheet' id='e-animation-fadeInRight-css' href='partials/pluginFooter/fadeInRight.min.css' media='all' /><link rel='stylesheet' id='e-animation-fadeInLeft-css' href='partials/pluginFooter/fadeInLeft.min.css' media='all' /><link rel='stylesheet' id='widget-rating-css' href='partials/pluginFooter/widget-rating.min.css' media='all' /><link rel='stylesheet' id='e-animation-fadeInUp-css' href='partials/pluginFooter/fadeInUp.min.css' media='all' /><link rel='stylesheet' id='e-motion-fx-css' href='partials/pluginFooter/motion-fx.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='swiper-css' href='partials/pluginFooter/swiper.min.css' media='all' /><link rel='stylesheet' id='e-swiper-css' href='partials/pluginFooter/e-swiper.min.css' media='all' /><link rel='stylesheet' id='widget-testimonial-carousel-css' href='partials/pluginFooter/widget-testimonial-carousel.min.css' media='all' /><link rel='stylesheet' id='widget-reviews-css' href='partials/pluginFooter/widget-reviews.min.css' media='all' /><link rel='stylesheet' id='widget-star-rating-css' href='partials/pluginFooter/widget-star-rating.min.css' media='all' /><link rel='stylesheet' id='widget-carousel-module-base-css' href='partials/pluginFooter/widget-carousel-module-base.min.css' media='all' /><link rel='stylesheet' id='widget-image-carousel-css' href='partials/pluginFooter/widget-image-carousel.min.css' media='all' /><link rel='stylesheet' id='widget-nested-tabs-css' href='partials/pluginFooter/widget-nested-tabs.min.css' media='all' /><link rel='stylesheet' id='widget-media-carousel-css' href='partials/pluginFooter/widget-media-carousel.min.css' media='all' /><link rel='stylesheet' id='widget-nested-accordion-css' href='partials/pluginFooter/widget-nested-accordion.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-style-css' href='partials/pluginFooter/style6.css' media='all' /><link rel='stylesheet' id='dokan-modal-css' href='partials/pluginFooter/iziModal.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='dokan-fontawesome-css' href='partials/pluginFooter/font-awesome.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='wc-pb-checkout-blocks-css' href='partials/pluginFooter/checkout-blocks.css' media='all' /><link data-minify="1" rel='stylesheet' id='hello-elementor-child-css' href='../partials/pluginFooter/style7.css' media='all' /><link data-minify="1" rel='stylesheet' id='wc-bundle-style-css' href='partials/pluginFooter/woocommerce2.css' media='all' /><link data-minify="1" rel='stylesheet' id='font-awesome-5-all-css' href='partials/pluginFooter/all.min.css' media='all' /><link rel='stylesheet' id='font-awesome-4-shim-css' href='partials/pluginFooter/v4-shims.min.css' media='all' /><link rel='stylesheet' id='eael-general-css' href='partials/pluginFooter/general.min.css' media='all' /><link data-minify="1" rel='stylesheet' id='elementor-gf-local-dmsans-css' href='partials/pluginFooter/dmsans.css' media='all' />
+    <link data-minify="1" rel='stylesheet' id='elementor-gf-local-merriweather-css' href='partials/pluginFooter/merriweather.css' media='all' /><link data-minify="1" rel='stylesheet' id='elementor-gf-local-roboto-css' href='partials/pluginFooter/roboto.css' media='all' /><link data-minify="1" rel='stylesheet' id='wc-blocks-style-css' href='partials/pluginFooter/wc-blocks2.css' media='all' /><link data-minify="1" rel='stylesheet' id='jet-elements-css' href='partials/pluginFooter/jet-elements2.css' media='all' /><link rel='stylesheet' id='photoswipe-css' href='partials/pluginFooter/photoswipe2.min.css' media='all' /><link rel='stylesheet' id='photoswipe-default-skin-css' href='partials/pluginFooter/default-skin2.min.css' media='all' /></noscript></body>
 
 </html>
 

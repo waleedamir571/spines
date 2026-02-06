@@ -3263,9 +3263,9 @@
     </style>
     <link data-minify="1" rel='preload' href='plugin/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-pro/assets/blocks/shipping/index.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/index.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/fluentform/assets/css/fluent-forms-elementor-widget.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/fluent-forms-elementor-widget.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <style id='wp-emoji-styles-inline-css'>
         img.wp-smiley,
@@ -3283,7 +3283,7 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/betterdocs/assets/blocks/category-slate-layout/default.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/default.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <style id='safe-svg-svg-icon-style-inline-css'>
         .safe-svg-cover {
@@ -3741,11 +3741,11 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/woocommerce-layout.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/woocommerce-smallscreen.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='only screen and (max-width: 768px)' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=1770037613&wpr_t=1770124740' data-rocket-async="style"
+    <link data-minify="1" rel='preload' href='plugin/woocommerce.css' data-rocket-async="style"
         as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <style id='woocommerce-inline-inline-css'>
         .woocommerce form .form-row .required {
@@ -3754,47 +3754,47 @@
 
         /*# sourceURL=woocommerce-inline-inline-css */
     </style>
-    <link rel='preload' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=4.25.8.1' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/learndash_quiz_front.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/src/assets/dist/css/styles.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/styles.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=4.25.8.1' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/jquery.dropdown.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='//cdn.spines.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=4.25.8.1' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/learndash_lesson_video.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/src/assets/dist/css/admin-bar/styles.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/styles2.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/skins/grid/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/pagination/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style4.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/filter/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style5.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/includes/course-grid/templates/cards/grid-1/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style6.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <!-- <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" -->
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style7.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/hidden-label.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/hidden-label.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dynamic-content-for-elementor/assets/css/dynamic-visibility.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/dynamic-visibility.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/metorik-helper/assets/css/metorik.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/metorik.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/splitit-installment-payments/assets/css/style.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/style8.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/url-shortify/lite/dist/styles/url-shortify.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/url-shortify.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/wpc-name-your-price/assets/css/frontend.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/frontend.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/reset.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/reset.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/theme.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/theme.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/header-footer.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/sfwd-lms/themes/ld30/assets/css/learndash.min.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/learndash.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <style id='learndash-front-inline-css'>
         .learndash-wrapper #quiz_continue_link,
@@ -3862,9 +3862,9 @@
 
         /*# sourceURL=learndash-front-inline-css */
     </style>
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/betterdocs/assets/elementor/css/betterdocs-el-edit.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/betterdocs-el-edit.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/frontend.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
     <style id='elementor-frontend-inline-css'>
         .elementor-kit-5 {
@@ -3926,7 +3926,7 @@
         .elementor a:link,
         .elementor .smooth-hover a:link,
             {
-            transition: inherit;
+            transition:inherit;
         }
 
         .elementor-section.elementor-section-boxed>.elementor-container {
@@ -13857,12 +13857,31 @@
         }
 
         .elementor-274013 .elementor-element.elementor-element-66d27bf .e-n-tab-title {
-            padding: 0 12px 10px 0;
+            padding: 0 12px 10px 0 !important;
             justify-content: flex-start;
             display: inline-flex;
             transition: margin .7s ease-in-out;
+           
         }
-
+        button#e-n-tab-title-1078168952 {
+    margin-left: 110px;
+            }
+            button#e-n-tab-title-1078168953 {
+    margin-left: 110px;
+}
+button#e-n-tab-title-1078168954 {
+    margin-left: 110px;
+}
+p.tab-section-txt {
+    color: grey;
+    font-weight: 500;
+    font-size : 20px;
+    font-family: "DM Sans";
+    
+}
+.elementor-274013 .elementor-element.elementor-element-66d27bf .e-n-tab-title[aria-selected="true"] .e-n-tab-title-text .tab-section-txt {
+    color: black;
+}
         .elementor-274013 .elementor-element.elementor-element-66d27bf .e-n-tab-title-text {
             flex-direction: column;
             align-items: flex-start;
@@ -17393,85 +17412,85 @@
 
         /*# sourceURL=elementor-frontend-inline-css */
     </style>
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-image.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-nav-menu.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-heading.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-icon-list.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/e-animation-grow.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-social-icons.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/apple-webkit.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-icon-box.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/zoomIn.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/bounceIn.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/ooohboi-steroids-for-elementor/assets/css/main.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/main.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/jet-tricks-frontend.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/fadeIn.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/fadeInRight.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/fadeInLeft.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-rating.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-rating.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/fadeInUp.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/motion-fx.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/swiper.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/e-swiper.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-testimonial-carousel.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-reviews.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-reviews.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-star-rating.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-carousel-module-base.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-image-carousel.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-nested-tabs.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor-pro/assets/css/widget-media-carousel.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-media-carousel.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.35.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/widget-nested-accordion.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-lite/assets/css/style.css?ver=1770037613&wpr_t=1770124740' data-rocket-async="style" as="style"
+    <link data-minify="1" rel='preload' href='plugin/style9.css' data-rocket-async="style" as="style"
         onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/dokan-lite/assets/vendors/izimodal/iziModal.min.css?ver=1769761652' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/dokan-lite/assets/vendors/font-awesome/css/font-awesome.min.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/font-awesome.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/checkout-blocks.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/checkout-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/background-css/1/cdn.spines.com/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/style.css?ver=1770037613&wpr_t=1770124740' data-rocket-async="style" as="style"
+    <link data-minify="1" rel='preload' href='plugin/style10.css' data-rocket-async="style" as="style"
         onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/woocommerce-product-bundles/assets/css/frontend/woocommerce.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/woocommerce2.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/all.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=6.5.9' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/v4-shims.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.9' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link rel='preload' href='plugin/general.min.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/dmsans.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/dmsans.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/merriweather.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
+    <link data-minify="1" rel='preload' href='plugin/merriweather.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <link data-minify="1" rel='preload' href='https://cdn.spines.com/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1770037613' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
+    <link data-minify="1" rel='preload' href='plugin/roboto.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
         media='all' />
     <script type="text/template" id="tmpl-variation-template">
         <div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
@@ -17481,19 +17500,19 @@
     <script type="text/template" id="tmpl-unavailable-variation-template">
         <p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
     </script>
-    <script src="https://cdn.spines.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script src="https://cdn.spines.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-    <script src="https://cdn.spines.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
-    <script src="https://cdn.spines.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+    <script src="plugin/jquery.min.js" id="jquery-core-js"></script>
+    <script src="plugin/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+    <script src="plugin/hooks.min.js" id="wp-hooks-js"></script>
+    <script src="plugin/i18n.min.js" id="wp-i18n-js"></script>
     <script id="wp-i18n-js-after">
         wp.i18n.setLocaleData({
             'text direction\u0004ltr': ['ltr']
         });
         //# sourceURL=wp-i18n-js-after
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dokan-lite/assets/vendors/izimodal/iziModal.min.js?ver=4.2.9" id="dokan-modal-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dokan-lite/assets/vendors/sweetalert2/sweetalert2.all.min.js?ver=1769761652" id="dokan-sweetalert2-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.30.1" id="moment-js"></script>
+    <script src="plugin/iziModal.min.js" id="dokan-modal-js" data-rocket-defer defer></script>
+    <script src="plugin/sweetalert2.all.min.js" id="dokan-sweetalert2-js" data-rocket-defer defer></script>
+    <script src="plugin/moment.min.js" id="moment-js"></script>
     <script id="moment-js-after">
         moment.updateLocale('en_US', {
             "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
@@ -17638,8 +17657,8 @@
         };
         //# sourceURL=dokan-util-helper-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/dokan-lite/assets/js/helper.js?ver=1769761652" id="dokan-util-helper-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js" data-rocket-defer defer></script>
+    <script src="plugin/helper.js" id="dokan-util-helper-js" data-rocket-defer defer></script>
+    <script src="plugin/underscore.min.js" id="underscore-js" data-rocket-defer defer></script>
     <script id="wp-util-js-extra">
         var _wpUtilSettings = {
             "ajax": {
@@ -17648,8 +17667,8 @@
         };
         //# sourceURL=wp-util-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-includes/js/wp-util.min.js?ver=6.9" id="wp-util-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=4.2.4" id="wc-jquery-blockui-js" defer data-wp-strategy="defer"></script>
+    <script src="plugin/wp-util.min.js" id="wp-util-js" data-rocket-defer defer></script>
+    <script src="plugin/jquery.blockUI.min.js" id="wc-jquery-blockui-js" defer data-wp-strategy="defer"></script>
     <script id="wc-add-to-cart-variation-js-extra">
         var wc_add_to_cart_variation_params = {
             "wc_ajax_url": "/?wc-ajax=%%endpoint%%",
@@ -17660,8 +17679,8 @@
         };
         //# sourceURL=wc-add-to-cart-variation-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.4.3" id="wc-add-to-cart-variation-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/handl-utm-grabber-v3/js/js.cookie.js?ver=6.9" id="js.cookie-js" data-rocket-defer defer></script>
+    <script src="plugin/add-to-cart-variation.min.js" id="wc-add-to-cart-variation-js" defer data-wp-strategy="defer"></script>
+    <script src="plugin/js.cookie.js" id="js.cookie-js" data-rocket-defer defer></script>
     <script id="handl-utm-grabber-js-extra">
         var handl_utm = [];
         var handl_utm_all_params = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign", "first_utm_source", "first_utm_medium", "first_utm_term", "first_utm_content", "first_utm_campaign", "fbclid", "msclkid", "gclid", "wbraid", "gbraid", "handl_original_ref", "handl_landing_page", "handl_landing_page_base", "handl_ip", "handl_ref", "handl_url", "handl_ref_domain", "handl_url_base", "gaclientid", "organic_source", "organic_source_str", "user_agent", "traffic_source", "first_traffic_source", "handlID", "_fbc", "_fbp", "irclickid", "irpid", "msclickid", "im_ref", "program"];
@@ -17687,8 +17706,8 @@
         }];
         //# sourceURL=handl-utm-grabber-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/handl-utm-grabber-v3/js/handl-utm-grabber.js?ver=6.9" id="handl-utm-grabber-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.4.3" id="wc-js-cookie-js" defer data-wp-strategy="defer"></script>
+    <script src="plugin/handl-utm-grabber.js" id="handl-utm-grabber-js" data-rocket-defer defer></script>
+    <script src="plugin/js.cookie.min.js" id="wc-js-cookie-js" defer data-wp-strategy="defer"></script>
     <script id="woocommerce-js-extra">
         var woocommerce_params = {
             "ajax_url": "/wp-admin/admin-ajax.php",
@@ -17698,23 +17717,23 @@
         };
         //# sourceURL=woocommerce-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.4.3" id="woocommerce-js" defer data-wp-strategy="defer"></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/js/booxai-dokan-customization-public.js?ver=1.1.0" id="booxai-dokan-customization-js" data-rocket-defer defer></script>
+    <script src="../plugin/woocommerce.min.js" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+    <script src="plugin/booxai-dokan-customization-public.js" id="booxai-dokan-customization-js" data-rocket-defer defer></script>
     <script id="url-shortify-js-extra">
         var usParams = {
             "ajaxurl": "wp-admin/admin-ajax.php"
         };
         //# sourceURL=url-shortify-js-extra
     </script>
-    <script src="https://cdn.spines.com/wp-content/plugins/url-shortify/lite/dist/scripts/url-shortify.js?ver=1.12.2" id="url-shortify-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/template/template-controllers.js" id="custom-template-controllers-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/logic/addons-logic.js" id="custom-addons-logic-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/logic/objects-config.js" id="custom-objects-config-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/logic/calc-utils.js" id="custom-calc-utils-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/requests/plans-requests.js" id="custom-plans-requests-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/requests/addons-requests.js" id="custom-addons-requests-js"></script>
-    <script src="https://cdn.spines.com/wp-content/themes/hello-elementor-child/resources/js/upgrading_and_cancellation/template/cookies.js" id="custom-cookies-js" data-rocket-defer defer></script>
-    <script src="https://cdn.spines.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=6.5.9" id="font-awesome-4-shim-js" data-rocket-defer defer></script>
+    <script src="plugin/url-shortify.js" id="url-shortify-js" data-rocket-defer defer></script>
+    <script src="plugin/template-controllers.js" id="custom-template-controllers-js"></script>
+    <script src="plugin/addons-logic.js" id="custom-addons-logic-js"></script>
+    <script src="plugin/objects-config.js" id="custom-objects-config-js"></script>
+    <script src="plugin/calc-utils.js" id="custom-calc-utils-js"></script>
+    <script src="plugin/plans-requests.js" id="custom-plans-requests-js"></script>
+    <script src="plugin/addons-requests.js" id="custom-addons-requests-js"></script>
+    <script src="plugin/cookies.js" id="custom-cookies-js" data-rocket-defer defer></script>
+    <script src="plugin/v4-shims.min.js" id="font-awesome-4-shim-js" data-rocket-defer defer></script>
     <link rel="https://api.w.org/" href="wp-json/" />
     <link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/274013" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
