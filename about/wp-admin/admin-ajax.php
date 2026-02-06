@@ -1,1 +1,0 @@
-{"success":false,"data":"Visit not recorded. Too early to record a new visit from the same IP."}

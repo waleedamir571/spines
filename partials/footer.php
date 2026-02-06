@@ -367,7 +367,7 @@
                             <div data-dce-text-color="#4C617B" class="elementor-element elementor-element-a25f6d5 ob-harakiri-inherit ob-has-background-overlay elementor-widget elementor-widget-text-editor" data-id="a25f6d5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                                 data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p><a href="/sitemap/">HTML Sitemap</a>  |  © <span style="background-color: initial;">2026</span><span style="background-color: initial;"> Spines</span></p>
+                                    <p>  © <span style="background-color: initial;">2026</span><span style="background-color: initial;"> Spines</span></p>
                                 </div>
                             </div>
                         </div>

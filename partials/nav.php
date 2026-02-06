@@ -29,7 +29,7 @@
                             <div class="elementor-widget-container">
                                 <nav aria-label="Menu Center" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-text e--animation-none">
                                     <ul id="menu-1-68cb957" class="elementor-nav-menu">
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314635"><a href="/pricing/" class="elementor-item">Pricing</a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314635"><a href="pricing.php" class="elementor-item">Pricing</a></li>
                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-306991"><a href="services.php" class="elementor-item">Services</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274048"><a href="about.php" class="elementor-item">About us</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274049"><a href="/blog/" class="elementor-item">Blog</a></li>
@@ -38,7 +38,7 @@
                                 </nav>
                                 <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                                     <ul id="menu-2-68cb957" class="elementor-nav-menu">
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314635"><a href="/pricing/" class="elementor-item" tabindex="-1">Pricing</a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-314635"><a href="pricing.php" class="elementor-item" tabindex="-1">Pricing</a></li>
                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-306991"><a href="services.php" class="elementor-item" tabindex="-1">Services</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274048"><a href="about.php" class="elementor-item" tabindex="-1">About us</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274049"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
@@ -57,12 +57,12 @@
                                         <li class="btn-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-274052"><a href="/sign-up/" class="elementor-item"><span>Chat with Us</span></a></li>
                                     </ul>
                                 </nav>
-                                <!-- <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
                                     <ul id="menu-2-35b1f0f" class="elementor-nav-menu">
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274051"><a href="https://dash.spines.com/" class="elementor-item" tabindex="-1">Log In</a></li>
-                                        <li class="btn-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-274052"><a href="/sign-up/" class="elementor-item" tabindex="-1"><span>Get Started</span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274051"><a href="https://dash.spines.com/" class="elementor-item" tabindex="-1">(551) 290-8897</a></li>
+                                        <li class="btn-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-274052"><a href="/sign-up/" class="elementor-item" tabindex="-1"><span>Chat with Us</span></a></li>
                                     </ul>
-                                </nav> -->
+                                </nav>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-63fd71dc elementor-absolute elementor-hidden-desktop elementor-hidden-tablet ob-has-background-overlay elementor-widget elementor-widget-button" data-id="63fd71dc" data-element_type="widget" data-e-type="widget"
