@@ -3261,8 +3261,7 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link data-minify="1" rel='preload' href='plugin/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
-        media='all' />
+    <link data-minify="1" rel='preload' href='plugin/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/index.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/fluent-forms-elementor-widget.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
@@ -3772,8 +3771,7 @@
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/style6.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <!-- <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" -->
-        media='all' />
+    <!-- <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />-->
     <link data-minify="1" rel='preload' href='plugin/style7.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/hidden-label.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
