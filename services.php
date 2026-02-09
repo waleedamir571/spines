@@ -16086,7 +16086,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="self-publishing/index.html">Effortless Self-Publishing</a></h3>
+                                    href="self-publishing.php">Effortless Self-Publishing</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16113,7 +16113,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="self-publishing/index.html">
+                                    href="self-publishing.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16172,7 +16172,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="coaching/index.html">Writing Coach</a></h3>
+                                    href="coaching.php">Writing Coach</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16197,7 +16197,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="coaching/index.html">
+                                    href="coaching.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16261,7 +16261,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="ghostwriting/index.html">Expert Ghostwriting </a></h3>
+                                    href="ghostwriting.php">Expert Ghostwriting </a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16286,7 +16286,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="ghostwriting/index.html">
+                                    href="ghostwriting.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16383,7 +16383,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="book-editing/index.html">Book Editing</a></h3>
+                                    href="book-editing.php">Book Editing</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16411,7 +16411,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="book-editing/index.html">
+                                    href="book-editing.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16502,7 +16502,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="book-cover-design/index.html">Book Cover Design</a></h3>
+                                    href="book-cover-design.php">Book Cover Design</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16530,7 +16530,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="book-cover-design/index.html">
+                                    href="book-cover-design.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16581,7 +16581,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="book-proofreading/index.html">Proofreading &amp; Grammar</a></h3>
+                                    href="book-proofreading.php">Proofreading &amp; Grammar</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16609,7 +16609,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="book-proofreading/index.html">
+                                    href="book-proofreading.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16660,7 +16660,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="book-formatting/index.html">Flawless Book Formatting</a></h3>
+                                    href="book-formatting.php">Flawless Book Formatting</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16685,7 +16685,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="book-formatting/index.html">
+                                    href="book-formatting.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16794,7 +16794,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="digital-ebook/index.html">eBook Creation</a></h3>
+                                    href="digital-ebook.php">eBook Creation</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16822,7 +16822,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="digital-ebook/index.html">
+                                    href="digital-ebook.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16873,7 +16873,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="audiobook/index.html">Audiobook Creation</a></h3>
+                                    href="audiobook.php">Audiobook Creation</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16901,7 +16901,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="audiobook/index.html">
+                                    href="audiobook.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
@@ -16969,7 +16969,7 @@
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                             <h3 class="elementor-heading-title elementor-size-default"><a
-                                    href="childrens-books/index.html">Children’s Book Publishing</a></h3>
+                                    href="childrens-books.php">Children’s Book Publishing</a></h3>
                         </div>
                     </div>
                     <div data-dce-text-color="#4C617B"
@@ -16995,7 +16995,7 @@
                         <div class="elementor-widget-container">
                             <div class="elementor-button-wrapper">
                                 <a class="elementor-button elementor-button-link elementor-size-sm"
-                                    href="childrens-books/index.html">
+                                    href="childrens-books.php">
                                     <span class="elementor-button-content-wrapper">
                                         <span class="elementor-button-icon">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right"
