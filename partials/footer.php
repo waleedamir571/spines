@@ -6015,6 +6015,7 @@
     <script src="partials/pluginFooter/eael-274013.js" id="eael-274013-js" data-rocket-defer defer></script>
     <script src="partials/pluginFooter/ooohboi-steroids.js" id="ooohboi-steroids-js" data-rocket-defer defer></script>
     <script src="partials/pluginFooter/swiper.min.js" id="swiper-js" data-rocket-defer defer></script>
+    <script src="js/swiper-init.js" defer></script>
     <script src="partials/pluginFooter/sourcebuster.min.js" id="sourcebuster-js-js" data-rocket-defer defer></script>
     <script id="wc-order-attribution-js-extra">
         var wc_order_attribution = {

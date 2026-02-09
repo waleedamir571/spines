@@ -3244,6 +3244,8 @@
     <meta name="twitter:data1" content="Albert" />
     <meta name="twitter:label2" content="Time to read" />
     <meta name="twitter:data2" content="14 minutes" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
   
     <!-- /Rank Math WordPress SEO plugin -->
 
@@ -13854,6 +13856,7 @@
         .elementor-274013 .elementor-element.elementor-element-66d27bf .e-n-tabs-heading {
             flex-wrap: nowrap;
             justify-content: space-between;
+            padding-bottom: 10px;
         }
 
         .elementor-274013 .elementor-element.elementor-element-66d27bf .e-n-tab-title {
@@ -18063,9 +18066,6 @@ p.tab-section-txt {
 
 <body class="home wp-singular page-template-default page page-id-274013 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor wp-child-theme-hello-elementor-child theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-274013 dokan-theme-hello-elementor">
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SK453N"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+ 
     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
