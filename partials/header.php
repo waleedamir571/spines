@@ -1,3 +1,7 @@
+
+
+<?php include 'partials/meta.php'; ?>
+
 <!doctype html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
@@ -5,10 +9,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <!-- This site is tracked with the HandL UTM Grabber v3 (3.1.16) - https://www.utmgrabber.com/ -->
+  
+     <title>
+        <?php echo $title_name; ?>
+    </title>
 
-    <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-    <title>Spines: Seamless Book Publishing for Authors | Publish, Sell, and Manage</title>
+
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>" />
+    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>"/>
     <style id="rocket-critical-css">
         :root {
             --woocommerce: #720eec;
@@ -3218,32 +3227,12 @@
             opacity: .001
         }
     </style>
-    <meta name="description" content="Experience the next generation of publishing with Spines. Bring your book to life in any format, sell globally, and manage everything from one user-friendly platform." />
+   
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-    <link rel="canonical" href="" />
+  
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Spines: Seamless Book Publishing for Authors | Publish, Sell, and Manage" />
-    <meta property="og:description" content="Experience the next generation of publishing with Spines. Bring your book to life in any format, sell globally, and manage everything from one user-friendly platform." />
-    <meta property="og:url" content="" />
-    <meta property="og:site_name" content="Spines" />
-    <meta property="og:updated_time" content="2026-02-02T13:05:56+00:00" />
-    <meta property="og:image" content="https://cdn.spines.com/wp-content/uploads/2025/04/home.png" />
-    <meta property="og:image:secure_url" content="https://cdn.spines.com/wp-content/uploads/2025/04/home.png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Home" />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="article:published_time" content="2025-04-15T11:53:56+00:00" />
-    <meta property="article:modified_time" content="2026-02-02T13:05:56+00:00" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Spines: Seamless Book Publishing for Authors | Publish, Sell, and Manage" />
-    <meta name="twitter:description" content="Experience the next generation of publishing with Spines. Bring your book to life in any format, sell globally, and manage everything from one user-friendly platform." />
-    <meta name="twitter:image" content="https://cdn.spines.com/wp-content/uploads/2025/04/home.png" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="Albert" />
-    <meta name="twitter:label2" content="Time to read" />
-    <meta name="twitter:data2" content="14 minutes" />
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
   
@@ -3263,8 +3252,7 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link data-minify="1" rel='preload' href='plugin/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')"
-        media='all' />
+    <link data-minify="1" rel='preload' href='plugin/wc-blocks.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/index.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/fluent-forms-elementor-widget.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
@@ -3774,8 +3762,7 @@
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/style6.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
-    <!-- <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" -->
-        media='all' />
+    <!-- <link rel='preload' href='https://cdn.spines.com/wp-content/plugins/booxai-royalties/public/css/booxai-dokan-customization-public.css?ver=1.1.0' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" onerror="this.removeAttribute('data-rocket-async')" media='all' />-->
     <link data-minify="1" rel='preload' href='plugin/style7.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />
     <link data-minify="1" rel='preload' href='plugin/hidden-label.css' data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
@@ -13992,7 +13979,7 @@ p.tab-section-txt {
         .elementor-274013 .elementor-element.elementor-element-922ffdd .swiper-slide .by {
             text-align: center;
             font-size: 19px;
-            padding-top: 5px;
+            padding-top: 30px;
         }
 
         /*.elementor-274013 .elementor-element.elementor-element-922ffdd .swiper.swiper-initialized {*/
@@ -18061,6 +18048,13 @@ p.tab-section-txt {
         const rocket_excluded_pairs = [];
     </script>
     <meta name="generator" content="WP Rocket 3.20.3" data-wpr-features="wpr_lazyload_css_bg_img wpr_defer_js wpr_async_css wpr_lazyload_images wpr_image_dimensions wpr_minify_css wpr_cdn wpr_preload_links wpr_desktop" />
+    <style>
+        /* Prevent Books Carousel from bunching up on load */
+        .books-carousel .elementor-main-swiper {
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+    </style>
 </head>
 
 

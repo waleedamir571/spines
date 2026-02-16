@@ -9406,10 +9406,12 @@
                     data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1500,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                     data-widget_type="image-carousel.default">
                     <div class="elementor-widget-container">
-                        <div class="elementor-image-carousel-wrapper swiper" role="region"
+                          <img src="https://cdn.spines.com/wp-content/uploads/2025/09/header-about-us-3.jpg" alt="">
+                        <!-- <div class="elementor-image-carousel-wrapper swiper" role="region"
                             aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
                             <div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="off">
                                 <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 1">
+                                    <img src="wp-content/uploads/2025/09/he" alt="">
                                     <figure class="swiper-slide-inner"><img width="1400" height="634" decoding="async"
                                             class="swiper-slide-image"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20634'%3E%3C/svg%3E"
@@ -9420,7 +9422,7 @@
                                                 alt="header-about-us-3.jpg" /></noscript></figure>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -9613,7 +9615,7 @@
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="2021" data-from-value="0">0</span>
+                                                data-to-value="2021" data-from-value="0">120</span>
                                             <span class="elementor-counter-number-suffix"></span>
                                         </div>
                                     </div>
@@ -9634,7 +9636,7 @@
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="150" data-from-value="0" data-delimiter=",">0</span>
+                                                data-to-value="150" data-from-value="0" data-delimiter=",">100</span>
                                             <span class="elementor-counter-number-suffix">+</span>
                                         </div>
                                     </div>
@@ -9655,7 +9657,7 @@
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="2800" data-from-value="0">0</span>
+                                                data-to-value="2800" data-from-value="0">250</span>
                                             <span class="elementor-counter-number-suffix">+</span>
                                         </div>
                                     </div>
@@ -9676,7 +9678,7 @@
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="1800" data-from-value="0">0</span>
+                                                data-to-value="1800" data-from-value="0">130</span>
                                             <span class="elementor-counter-number-suffix">+</span>
                                         </div>
                                     </div>

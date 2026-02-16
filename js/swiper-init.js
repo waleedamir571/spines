@@ -1,161 +1,141 @@
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('Swiper Init Script Loaded');
+(function() {
+    console.log('Swiper Init: Script loaded');
 
-    function initSwiper() {
-        if (typeof Swiper === 'undefined') {
-            console.warn('Swiper library not loaded yet, retrying in 100ms...');
-            setTimeout(initSwiper, 100);
+    function getSwiper() {
+        if (typeof Swiper !== 'undefined') return Swiper;
+        if (typeof elementorFrontend !== 'undefined' && elementorFrontend.utils && elementorFrontend.utils.swiper) return elementorFrontend.utils.swiper;
+        if (window.Swiper) return window.Swiper;
+        return null;
+    }
+
+    function init() {
+        var SwiperClass = getSwiper();
+        
+        if (!SwiperClass) {
+            console.warn('Swiper not found, retrying...');
+            setTimeout(init, 200);
             return;
         }
 
-        // Target both standard elementor swipers and image carousels
-        var swiperContainers = document.querySelectorAll('.elementor-main-swiper, .elementor-image-carousel-wrapper.swiper');
+        console.log('Swiper found, initializing...');
+
+        var containers = document.querySelectorAll('.elementor-main-swiper');
         
-        swiperContainers.forEach(function(container) {
+        containers.forEach(function(container) {
             if (container.swiper) {
-                console.log('Swiper already initialized for', container);
+                console.log('Swiper already initialized:', container);
                 return;
             }
 
-            // Look for navigation buttons in the parent container or siblings
-            // elementor-main-swiper usually has a parent .elementor-swiper
-            // elementor-image-carousel-wrapper IS the container usually
-            var parent = container.closest('.elementor-swiper') || container.parentElement;
-            
-            var nextBtn = parent ? parent.querySelector('.elementor-swiper-button-next') : null;
-            var prevBtn = parent ? parent.querySelector('.elementor-swiper-button-prev') : null;
+            // Manually fix width/height issues
+            container.style.width = '100%';
+            container.style.height = 'auto';
+            container.style.overflow = 'hidden';
+            container.style.opacity = '1'; // Ensure visible immediately
 
-            // Default options (Mobile first approach)
+            // Ensure wrapper exists
+            var wrapper = container.querySelector('.swiper-wrapper');
+            if (!wrapper) {
+                console.error('Swiper wrapper not found in', container);
+                return;
+            }
+            // Ensure wrapper has display flex
+            wrapper.style.display = 'flex';
+
+            // Find navigation
+            var parent = container.closest('.elementor-swiper') || container.parentElement;
+            var nextEl = parent ? parent.querySelector('.elementor-swiper-button-next') : null;
+            var prevEl = parent ? parent.querySelector('.elementor-swiper-button-prev') : null;
+            var paginationEl = parent ? parent.querySelector('.swiper-pagination') : null;
+
+            // Basic options
             var options = {
                 slidesPerView: 1,
                 spaceBetween: 10,
                 loop: true,
                 speed: 1000,
+                grabCursor: true,
+                autoHeight: true, 
+                observer: true, 
+                observeParents: true,
                 navigation: {
-                    nextEl: nextBtn,
-                    prevEl: prevBtn,
+                    nextEl: nextEl,
+                    prevEl: prevEl,
+                },
+                pagination: {
+                    el: paginationEl,
+                    clickable: true,
                 },
                 autoplay: {
                     delay: 5000,
-                    disableOnInteraction: false,
-                },
-                pagination: {
-                    el: parent ? parent.querySelector('.swiper-pagination') : null,
-                    clickable: true,
-                },
-                breakpoints: {}
+                    disableOnInteraction: false
+                }
             };
 
-            // Try to get settings from parent widget
+            // Parse settings
             var widget = container.closest('.elementor-widget');
             if (widget && widget.dataset.settings) {
                 try {
                     var settings = JSON.parse(widget.dataset.settings);
                     
-                    // Helper to get value or fallback
-                    var getValue = function(key, fallback) {
-                        return settings[key] ? (parseInt(settings[key]) || fallback) : fallback;
-                    };
+                    if (settings.autoplay === 'no') options.autoplay = false;
+                    if (settings.autoplay === 'yes' && settings.autoplay_speed) options.autoplay.delay = parseInt(settings.autoplay_speed);
+                    
+                    if (settings.loop === 'no') options.loop = false;
+                    if (settings.speed) options.speed = parseInt(settings.speed);
+                    
+                    if (settings.slides_per_view && settings.slides_per_view !== 'default') {
+                        options.slidesPerView = parseInt(settings.slides_per_view) || 1;
+                    }
 
-                    // Elementor Image Carousel uses 'slides_to_show' instead of 'slides_per_view'
-                    var slidesPerViewKey = settings.slides_to_show ? 'slides_to_show' : 'slides_per_view';
-                    
-                    // Desktop values (Elementor stores these in root keys)
-                    var desktopSlides = getValue(slidesPerViewKey, 1);
-                    var desktopSpace = 10; // Default
-                    
-                    if (settings.space_between) {
-                        if (typeof settings.space_between === 'object' && settings.space_between.size) {
-                             desktopSpace = parseInt(settings.space_between.size) || 0;
-                        } else if (typeof settings.space_between === 'number' || typeof settings.space_between === 'string') {
-                             desktopSpace = parseInt(settings.space_between) || 0;
+                    options.breakpoints = {
+                        768: {
+                            slidesPerView: settings.slides_per_view_tablet ? parseInt(settings.slides_per_view_tablet) : (options.slidesPerView > 1 ? 2 : 1),
+                            spaceBetween: settings.space_between_tablet ? parseInt(settings.space_between_tablet.size || settings.space_between_tablet) : 10
+                        },
+                        1025: {
+                            slidesPerView: options.slidesPerView,
+                            spaceBetween: settings.space_between ? parseInt(settings.space_between.size || settings.space_between) : 10
                         }
-                    } else if (settings.slides_to_show) {
-                        // Image Carousel defaults often don't have space_between explicitly set in the same way, 
-                        // sometimes it's implied or 0.
-                        desktopSpace = 0; 
-                    }
-
-                    // Tablet values
-                    var tabletSlides = getValue(slidesPerViewKey + '_tablet', desktopSlides);
-                    var tabletSpace = settings.space_between_tablet && settings.space_between_tablet.size 
-                                      ? parseInt(settings.space_between_tablet.size) 
-                                      : desktopSpace;
-
-                    // Mobile values
-                    var mobileSlides = getValue(slidesPerViewKey + '_mobile', desktopSlides); 
-                    
-                    if (!settings[slidesPerViewKey + '_mobile'] && settings[slidesPerViewKey + '_tablet']) {
-                         // Fallback logic
-                        mobileSlides = tabletSlides;
-                    }
-
-                    var mobileSpace = settings.space_between_mobile && settings.space_between_mobile.size
-                                      ? parseInt(settings.space_between_mobile.size)
-                                      : (settings.space_between_tablet ? tabletSpace : desktopSpace);
-
-
-                    // Set Mobile values as default (for width < 768)
-                    options.slidesPerView = mobileSlides;
-                    options.spaceBetween = mobileSpace;
-                    
-                    // Set Breakpoints
-                    // >= 768px (Tablet)
-                    options.breakpoints[768] = {
-                        slidesPerView: tabletSlides,
-                        spaceBetween: tabletSpace
                     };
                     
-                    // >= 1025px (Desktop)
-                    options.breakpoints[1025] = {
-                        slidesPerView: desktopSlides,
-                        spaceBetween: desktopSpace
-                    };
-
-                    // Other settings
-                    if (settings.slides_to_scroll) {
-                        options.slidesPerGroup = parseInt(settings.slides_to_scroll) || 1;
-                    }
-                    if (settings.speed) {
-                        options.speed = parseInt(settings.speed) || 1000;
-                    }
-                    
-                    // Infinite Loop
-                    if (settings.loop === 'no' || settings.infinite === 'no') {
-                        options.loop = false;
-                    } else if (settings.loop === 'yes' || settings.infinite === 'yes') {
-                        options.loop = true;
-                    }
-
-                    // Autoplay
-                    if (settings.autoplay === 'yes') {
-                        options.autoplay = {
-                            delay: settings.autoplay_speed || 5000,
-                            disableOnInteraction: false
-                        };
-                    } else if (settings.autoplay === 'no') {
-                        options.autoplay = false;
-                    }
-                    
-                    // Navigation override for Image Carousel
-                    if (settings.navigation === 'none') {
-                        options.navigation = false;
-                    }
-
                 } catch (e) {
-                    console.error('Error parsing Elementor settings', e);
+                    console.error('Settings parse error', e);
                 }
             }
 
-            // Initialize
             try {
-                new Swiper(container, options);
-                console.log('Swiper initialized successfully', container);
-            } catch (e) {
-                console.error('Error initializing Swiper', e);
+                // IMPORTANT: Swiper 8+ requires modules if using core version, BUT
+                // The provided file is a minified bundle (swiper.min.js), which usually includes modules.
+                // However, accessing modules via SwiperClass.Navigation might fail if it's the global UMD build.
+                // We will try to pass modules if available on the class constructor.
+
+                if (SwiperClass.Navigation && SwiperClass.Pagination && SwiperClass.Autoplay) {
+                     options.modules = [SwiperClass.Navigation, SwiperClass.Pagination, SwiperClass.Autoplay];
+                }
+
+                var swiper = new SwiperClass(container, options);
+                console.log('Swiper initialized success:', container);
+                
+                // Force layout update
+                setTimeout(function() {
+                    swiper.update();
+                }, 100);
+                
+            } catch (err) {
+                console.error('Swiper init failed:', err);
+                // Fallback: Try without modules key if it failed
+                try {
+                    delete options.modules;
+                    var swiperFallback = new SwiperClass(container, options);
+                    console.log('Swiper initialized success (fallback):', container);
+                } catch(fallbackErr) {
+                     console.error('Swiper fallback init failed:', fallbackErr);
+                }
             }
         });
     }
 
-    initSwiper();
-});
+    window.addEventListener('load', init);
+    if (document.readyState === 'complete') init();
+})();

@@ -1,17 +1,20 @@
+<?php include 'partials/meta.php'; ?>
+
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: https://ogp.me/ns#">
 
 <head>
     <meta charset="UTF-8">
-    <!-- This site is tracked with the HandL UTM Grabber v3 (3.1.16) - https://www.utmgrabber.com/ -->
+  
 
-    <!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
-    <title>Self Publishing a Book Made Easy | Spines</title>
+     <title>
+        <?php echo $title_name; ?>
+    </title>
 
-    <meta name="description"
-        content="Discover Spines&#039; comprehensive self-publishing services, online tools, and powerful dashboard to publish your book easily and take control of your journey." />
-    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
-    <link rel="canonical" href="https://spines.com/services/self-publishing/" />
+
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>" />
+    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>"/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Self Publishing a Book Made Easy | Spines" />
@@ -73,6 +76,7 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel='preload' href='partials/inner-headerplugins/style.min.css'
         data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'"
         onerror="this.removeAttribute('data-rocket-async')" media='all' />

@@ -62,40 +62,40 @@
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/services/book-marketing/">
+                                        <a href="book-marketing.php">
 
                                             <span class="elementor-icon-list-text">Book Marketing</span>
                                         </a>
                                     </li>
-                                    <li class="elementor-icon-list-item">
+                                    <!-- <li class="elementor-icon-list-item">
                                         <a href="/services/">
 
                                             <span class="elementor-icon-list-text">Our Services</span>
                                         </a>
-                                    </li>
+                                    </li> -->
                                     <li class="elementor-icon-list-item">
-                                        <a href="/book-review/">
+                                        <a href="book-royalties.php">
 
-                                            <span class="elementor-icon-list-text">Free Book Review</span>
+                                            <span class="elementor-icon-list-text">Free Book Royalties</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/literary-agents/">
+                                        <a href="ghostwriting.php">
 
-                                            <span class="elementor-icon-list-text">Literary Agents</span>
+                                            <span class="elementor-icon-list-text">Ghostwriting</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/academic-publishing/">
+                                        <a href="childrens-books.php">
 
-                                            <span class="elementor-icon-list-text">Academic Publishing</span>
+                                            <span class="elementor-icon-list-text">Childrens Book Publishing</span>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-60b44df2 e-con-full e-flex e-con e-child"
+                    <!-- <div class="elementor-element elementor-element-60b44df2 e-con-full e-flex e-con e-child"
                         data-id="60b44df2" data-element_type="container" data-e-type="container"
                         data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
                         <div data-dce-title-color="#133B49"
@@ -135,7 +135,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="elementor-element elementor-element-49845b1b e-con-full e-flex e-con e-child"
                         data-id="49845b1b" data-element_type="container" data-e-type="container"
                         data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
@@ -156,33 +156,33 @@
                             <div class="elementor-widget-container">
                                 <ul class="elementor-icon-list-items">
                                     <li class="elementor-icon-list-item">
-                                        <a href="/about/">
+                                        <a href="about.php">
 
                                             <span class="elementor-icon-list-text">About us</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/news-and-media/">
+                                        <a href="pricing.php">
 
-                                            <span class="elementor-icon-list-text">News and Media</span>
+                                            <span class="elementor-icon-list-text">Pricing</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/affiliate/">
+                                        <a href="contact.php">
 
-                                            <span class="elementor-icon-list-text">Affiliate Program</span>
+                                            <span class="elementor-icon-list-text">Contact Us</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/testimonials/">
+                                        <a href="testimonials.php">
 
                                             <span class="elementor-icon-list-text">Testimonials</span>
                                         </a>
                                     </li>
                                     <li class="elementor-icon-list-item">
-                                        <a href="/career/">
+                                        <a href="book-distribution.php">
 
-                                            <span class="elementor-icon-list-text">Careers</span>
+                                            <span class="elementor-icon-list-text">Book Distributions</span>
                                         </a>
                                     </li>
                                 </ul>
@@ -5846,7 +5846,7 @@
     };
     //# sourceURL=rocket_lazyload_css-js-extra
 </script>
-<script id="rocket_lazyload_css-js-after">
+<!-- <script id="rocket_lazyload_css-js-after">
     ! function o(n, c, a) {
         function u(t, e) {
             if (!c[t]) {
@@ -5916,7 +5916,7 @@
             }, { }]
         }, { }, [1]);
     //# sourceURL=rocket_lazyload_css-js-after
-</script>
+</script> -->
 <script id="woonp-frontend-js-extra">
     var woonp_vars = {
         "rounding": "down",
@@ -6222,7 +6222,7 @@
 <script src="partials/pluginFooter/eael-274013.js" id="eael-274013-js" data-rocket-defer defer></script>
 <script src="partials/pluginFooter/ooohboi-steroids.js" id="ooohboi-steroids-js" data-rocket-defer defer></script>
 <script src="partials/pluginFooter/swiper.min.js" id="swiper-js" data-rocket-defer defer></script>
-<script src="js/swiper-init.js" defer></script>
+<script src="js/custom-slider.js" defer></script>
 <script src="partials/pluginFooter/sourcebuster.min.js" id="sourcebuster-js-js" data-rocket-defer defer></script>
 <script id="wc-order-attribution-js-extra">
     var wc_order_attribution = {
@@ -6798,6 +6798,7 @@
     <link rel='stylesheet' id='photoswipe-css' href='partials/pluginFooter/photoswipe2.min.css' media='all' />
     <link rel='stylesheet' id='photoswipe-default-skin-css' href='partials/pluginFooter/default-skin2.min.css'
         media='all' />
+        
 </noscript></body>
 
 </html>
