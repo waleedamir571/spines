@@ -1,5 +1,3 @@
-
-
 <style id="rocket-critical-css">
     :root {
         --woocommerce: #720eec;
@@ -3209,7 +3207,6 @@
         max-width: 100%;
         width: 100%
     }
-
 </style>
 <style id='global-styles-inline-css'>
     :root {
@@ -7685,190 +7682,202 @@
         font-style: italic;
         color: #292929;
     }
-    
 
 
-        /* Modern Testimonial Card Wrapper */
-        .block-shadow {
-            background-color: #fff !important;
-            border-radius: 20px !important;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.08) !important;
-            padding: 0 !important;
-            display: flex !important;
-            flex-direction: column !important;
-            overflow: hidden !important;
-            border: 1px solid #f0f0f0 !important;
-            transition: transform 0.3s ease !important;
-            height: 100% !important;
-        }
-        .block-shadow:hover {
-            transform: translateY(-5px) !important;
-            box-shadow: 0 15px 50px rgba(0,0,0,0.12) !important;
-        }
 
-        /* Video Section - Full Width Top */
-        .block-shadow .elementor-widget-video {
-            width: 100% !important;
-            margin: 0 !important;
-            flex-shrink: 0 !important;
-        }
-        .block-shadow .elementor-widget-video .elementor-widget-container {
-            margin: 0 !important;
-            width: 100% !important;
-        }
-        .block-shadow .elementor-custom-embed-image-overlay {
-            border-radius: 0 !important;
-            height: 250px !important;
-            background-size: cover !important;
-            background-position: center !important;
-        }
-        .block-shadow .elementor-custom-embed-play svg {
-            width: 64px !important;
-            height: 64px !important;
-            filter: drop-shadow(0 2px 10px rgba(0,0,0,0.3)) !important;
-            transition: transform 0.3s ease !important;
-        }
-        .block-shadow:hover .elementor-custom-embed-play svg {
-            transform: scale(1.1) !important;
-        }
+    /* Modern Testimonial Card Wrapper */
+    .block-shadow {
+        background-color: #fff !important;
+        border-radius: 20px !important;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08) !important;
+        padding: 0 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        overflow: hidden !important;
+        border: 1px solid #f0f0f0 !important;
+        transition: transform 0.3s ease !important;
+        height: 100% !important;
+    }
 
-        /* Content Section - REVERTED TO ORIGINAL STYLE */
-        .block-shadow .elementor-widget-eael-testimonial {
-            padding: 30px !important;
-            flex-grow: 1 !important;
-        }
+    .block-shadow:hover {
+        transform: translateY(-5px) !important;
+        box-shadow: 0 15px 50px rgba(0, 0, 0, 0.12) !important;
+    }
 
-        .block-shadow .eael-testimonial-item {
-            background: transparent !important;
-            box-shadow: none !important;
-            padding: 0 !important;
-            border: none !important;
-            display: flex !important;
-            flex-direction: column !important;
-            height: 100% !important;
-            justify-content: space-between !important;
-        }
+    /* Video Section - Full Width Top */
+    .block-shadow .elementor-widget-video {
+        width: 100% !important;
+        margin: 0 !important;
+        flex-shrink: 0 !important;
+    }
 
-        /* Text Area */
-        .block-shadow .eael-testimonial-text {
-            margin-bottom: 20px !important;
-            flex-grow: 1 !important;
-        }
-        .block-shadow .eael-testimonial-text p {
-            font-size: 16px !important;
-            line-height: 1.6 !important;
-            color: #333 !important;
-            font-style: italic !important;
-            margin-bottom: 0 !important;
-        }
+    .block-shadow .elementor-widget-video .elementor-widget-container {
+        margin: 0 !important;
+        width: 100% !important;
+    }
 
-        /* User Info Section - Natural Layout */
-        .block-shadow .eael-testimonial-content {
-            margin-top: auto !important;
-            display: flex !important;
-            flex-direction: column !important; /* Stack items vertically */
-            align-items: flex-start !important;
-        }
-        
-        /* Main Grid Container for Testimonial Item */
-        .block-shadow .eael-testimonial-item {
-            display: grid !important;
-            grid-template-columns: 60px 1fr auto !important;
-            grid-template-rows: auto auto auto !important;
-            grid-template-areas: 
-                "text text text"
-                "image user quote"
-                "image rating quote" !important;
-            column-gap: 15px !important;
-            row-gap: 4px !important;
-            padding: 0 !important;
-            height: 100% !important;
-        }
+    .block-shadow .elementor-custom-embed-image-overlay {
+        border-radius: 0 !important;
+        height: 250px !important;
+        background-size: cover !important;
+        background-position: center !important;
+    }
 
-        /* Flatten Content Wrapper so children join the main grid */
-        .block-shadow .eael-testimonial-content {
-            display: contents !important;
-        }
+    .block-shadow .elementor-custom-embed-play svg {
+        width: 64px !important;
+        height: 64px !important;
+        filter: drop-shadow(0 2px 10px rgba(0, 0, 0, 0.3)) !important;
+        transition: transform 0.3s ease !important;
+    }
 
-        /* Text Area */
-        .block-shadow .eael-testimonial-text {
-            grid-area: text !important;
-            margin-bottom: 25px !important;
-        }
-        .block-shadow .eael-testimonial-text p {
-             margin-bottom: 0 !important;
-        }
+    .block-shadow:hover .elementor-custom-embed-play svg {
+        transform: scale(1.1) !important;
+    }
 
-        /* User Name Wrapper */
-        .block-shadow .eael-testimonial-content .clearfix {
-            grid-area: user !important;
-            align-self: end !important;
-            margin-bottom: 0 !important;
-            display: block !important; /* Ensure it behaves */
-            width: auto !important;
-        }
-        
-        /* Star Rating */
-        .block-shadow .testimonial-star-rating {
-            grid-area: rating !important;
-            align-self: start !important;
-            padding: 0 !important;
-            margin: 0 !important;
-            display: flex !important;
-            list-style: none !important;
-            color: #FFB400 !important;
-        }
-        .block-shadow .testimonial-star-rating li {
-             margin-right: 3px !important;
-             font-size: 13px !important;
-        }
+    /* Content Section - REVERTED TO ORIGINAL STYLE */
+    .block-shadow .elementor-widget-eael-testimonial {
+        padding: 30px !important;
+        flex-grow: 1 !important;
+    }
 
-        /* Image */
-        .block-shadow .eael-testimonial-image {
-            grid-area: image !important;
-            width: 60px !important;
-            height: 60px !important;
-            margin: 0 !important;
-            position: static !important;
-        }
-        .block-shadow .eael-testimonial-image img {
-            width: 100% !important;
-            height: 100% !important;
-            object-fit: cover !important;
-            border-radius: 50% !important;
-        }
-        
-        /* User Name Styling */
-        .block-shadow .eael-testimonial-user {
-            font-weight: 700 !important;
-            color: #000 !important;
-            font-size: 16px !important;
-            line-height: 1.2 !important;
-            margin: 0 !important;
-        }
-        .block-shadow .eael-testimonial-user span {
-            font-weight: 400 !important;
-            color: #444 !important;
-            display: inline !important; 
-            font-size: 14px !important;
-            text-transform: none !important;
-            margin-right: 5px !important;
-        }
+    .block-shadow .eael-testimonial-item {
+        background: transparent !important;
+        box-shadow: none !important;
+        padding: 0 !important;
+        border: none !important;
+        display: flex !important;
+        flex-direction: column !important;
+        height: 100% !important;
+        justify-content: space-between !important;
+    }
 
-        /* Quote Icon */
-        .block-shadow .eael-testimonial-item::after {
-            content: '❞' !important;
-            grid-area: quote !important;
-            font-size: 50px !important;
-            color: #E0E0E0 !important;
-            line-height: 1 !important;
-            display: block !important;
-        }
-        
-        /* Hide original quote span */
-        .block-shadow .eael-testimonial-quote {
-            display: none !important;
-        }
+    /* Text Area */
+    .block-shadow .eael-testimonial-text {
+        margin-bottom: 20px !important;
+        flex-grow: 1 !important;
+    }
+
+    .block-shadow .eael-testimonial-text p {
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+        color: #333 !important;
+        font-style: italic !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* User Info Section - Natural Layout */
+    .block-shadow .eael-testimonial-content {
+        margin-top: auto !important;
+        display: flex !important;
+        flex-direction: column !important;
+        /* Stack items vertically */
+        align-items: flex-start !important;
+    }
+
+    /* Main Grid Container for Testimonial Item */
+    .block-shadow .eael-testimonial-item {
+        display: grid !important;
+        grid-template-columns: 60px 1fr auto !important;
+        grid-template-rows: auto auto auto !important;
+        grid-template-areas:
+            "text text text"
+            "image user quote"
+            "image rating quote" !important;
+        column-gap: 15px !important;
+        row-gap: 4px !important;
+        padding: 0 !important;
+        height: 100% !important;
+    }
+
+    /* Flatten Content Wrapper so children join the main grid */
+    .block-shadow .eael-testimonial-content {
+        display: contents !important;
+    }
+
+    /* Text Area */
+    .block-shadow .eael-testimonial-text {
+        grid-area: text !important;
+        margin-bottom: 25px !important;
+    }
+
+    .block-shadow .eael-testimonial-text p {
+        margin-bottom: 0 !important;
+    }
+
+    /* User Name Wrapper */
+    .block-shadow .eael-testimonial-content .clearfix {
+        grid-area: user !important;
+        align-self: end !important;
+        margin-bottom: 0 !important;
+        display: block !important;
+        /* Ensure it behaves */
+        width: auto !important;
+    }
+
+    /* Star Rating */
+    .block-shadow .testimonial-star-rating {
+        grid-area: rating !important;
+        align-self: start !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        display: flex !important;
+        list-style: none !important;
+        color: #FFB400 !important;
+    }
+
+    .block-shadow .testimonial-star-rating li {
+        margin-right: 3px !important;
+        font-size: 13px !important;
+    }
+
+    /* Image */
+    .block-shadow .eael-testimonial-image {
+        grid-area: image !important;
+        width: 60px !important;
+        height: 60px !important;
+        margin: 0 !important;
+        position: static !important;
+    }
+
+    .block-shadow .eael-testimonial-image img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        border-radius: 50% !important;
+    }
+
+    /* User Name Styling */
+    .block-shadow .eael-testimonial-user {
+        font-weight: 700 !important;
+        color: #000 !important;
+        font-size: 16px !important;
+        line-height: 1.2 !important;
+        margin: 0 !important;
+    }
+
+    .block-shadow .eael-testimonial-user span {
+        font-weight: 400 !important;
+        color: #444 !important;
+        display: inline !important;
+        font-size: 14px !important;
+        text-transform: none !important;
+        margin-right: 5px !important;
+    }
+
+    /* Quote Icon */
+    .block-shadow .eael-testimonial-item::after {
+        content: '❞' !important;
+        grid-area: quote !important;
+        font-size: 50px !important;
+        color: #E0E0E0 !important;
+        line-height: 1 !important;
+        display: block !important;
+    }
+
+    /* Hide original quote span */
+    .block-shadow .eael-testimonial-quote {
+        display: none !important;
+    }
 
 
 
@@ -12969,8 +12978,8 @@
                             data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h1 class="elementor-heading-title elementor-size-default">See What Our Authors Are
-                                    Saying</h1>
+                                <h1 class="elementor-heading-title elementor-size-default">See What Authors Are Saying
+                                </h1>
                             </div>
                         </div>
                         <div data-dce-title-color="#4C617B"
@@ -12979,9 +12988,9 @@
                             data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <div class="elementor-heading-title elementor-size-default">We don't just publish
-                                    books; we champion stories. See why authors trust our team to treat their
-                                    manuscripts with the care they deserve.</div>
+                                <div class="elementor-heading-title elementor-size-default">We help people tell their
+                                    stories the right way. Here’s what working with our team felt like for real authors.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -13017,12 +13026,13 @@
                                         <div class="eael-counter-number-title-wrap">
                                             <div class="eael-counter-number-wrap">
                                                 <div class="eael-counter-number eael-counter-number-6a2d37"
-                                                    data-to="2800" data-speed="500">0</div>
+                                                    data-to="2100" data-speed="500">0</div>
                                                 <span class="eael-counter-number-suffix">+</span>
                                             </div>
 
 
-                                            <div class="eael-counter-title">Books published</div>
+                                            <div class="eael-counter-title">Books shared with readers
+</div>
                                         </div>
                                     </div>
                                 </div><!-- .eael-counter-container -->
@@ -13054,12 +13064,13 @@
                                         <div class="eael-counter-number-title-wrap">
                                             <div class="eael-counter-number-wrap">
                                                 <div class="eael-counter-number eael-counter-number-501360a8"
-                                                    data-to="450" data-speed="500">0</div>
+                                                    data-to="750    " data-speed="500">0</div>
                                                 <span class="eael-counter-number-suffix">+</span>
                                             </div>
 
 
-                                            <div class="eael-counter-title">Authors published a second book with us
+                                            <div class="eael-counter-title">Authors who trusted us again
+
                                             </div>
                                         </div>
                                     </div>
@@ -13092,12 +13103,12 @@
                                         <div class="eael-counter-number-title-wrap">
                                             <div class="eael-counter-number-wrap">
                                                 <div class="eael-counter-number eael-counter-number-34e4aa77"
-                                                    data-to="20" data-speed="500">0</div>
+                                                    data-to="22" data-speed="500">0</div>
                                                 <span class="eael-counter-number-suffix">%</span>
                                             </div>
 
 
-                                            <div class="eael-counter-title">Annual growth in royalty payout</div>
+                                            <div class="eael-counter-title">Yearly growth in author earnings</div>
                                         </div>
                                     </div>
                                 </div><!-- .eael-counter-container -->
@@ -13107,165 +13118,80 @@
                 </div>
             </div>
             <div class="elementor-element elementor-element-16ff4a38 e-flex e-con-boxed e-con e-parent"
-					data-id="16ff4a38" data-element_type="container"
-					data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-					<div class="e-con-inner">
-						<div class="elementor-element elementor-element-4971ebf0 e-con-full e-flex e-con e-child"
-							data-id="4971ebf0" data-element_type="container"
-							data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-							<div class="elementor-element elementor-element-7e986a54 e-con-full block-shadow e-flex e-con e-child"
-								data-id="7e986a54" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-6f5627e0 ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="6f5627e0" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/vfsipNBvaks?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21.jpg&quot;,&quot;id&quot;:354910,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-48a39f94 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="48a39f94" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+                data-id="16ff4a38" data-element_type="container"
+                data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-4971ebf0 e-con-full e-flex e-con e-child"
+                        data-id="4971ebf0" data-element_type="container"
+                        data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div class="elementor-element elementor-element-7e986a54 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="7e986a54" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-6f5627e0 ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="6f5627e0" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/vfsipNBvaks?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21.jpg&quot;,&quot;id&quot;:354910,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-48a39f94 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="48a39f94" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-48a39f94"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I’ve
-															wanted to write a book since I was a little girl… I didn’t
-															think it would be possible for me — I’m just a regular
-															person… Spines literally made my dreams come true.</span>
-													</p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Erica Marom</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354911"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg" /><noscript><img
-															decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354911"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
-
-
-
-
-
-
-
-
-											<span class="eael-testimonial-quote"></span>
-										</div>
-
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-4be36e05 e-con-full block-shadow e-flex e-con e-child"
-								data-id="4be36e05" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-3a249a2f ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="3a249a2f" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/VeyR0jNBzk4?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-1.jpg&quot;,&quot;id&quot;:354913,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-1-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-2065180f ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="2065180f" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
-
-										<div id="eael-testimonial-2065180f"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">The
-															whole process was smoother and more intuitive than I
-															imagined… Spines didn’t just bring my vision to life, they
-															made the whole journey enjoyable&#8230; it truly felt like a
-															partnership — not just a service.</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Richard Angulo
-													</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354914"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg" /><noscript><img
-															decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354914"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-48a39f94"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I’ve
+                                                        wanted to write a book since I was a little girl… I didn’t
+                                                        think it would be possible for me — I’m just a regular
+                                                        person… Spines literally made my dreams come true.</span>
+                                                </p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Erica Marom</p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354911" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg" /><noscript><img
+                                                        decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354911"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Erica-Marom-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13274,169 +13200,81 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-1e680218 e-con-full block-shadow e-flex e-con e-child"
-								data-id="1e680218" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-16623b5f ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="16623b5f" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/J46_IAOMAbE?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-2.jpg&quot;,&quot;id&quot;:354916,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-2-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-7f1d22a ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="7f1d22a" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-4be36e05 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="4be36e05" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-3a249a2f ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="3a249a2f" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/VeyR0jNBzk4?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-1.jpg&quot;,&quot;id&quot;:354913,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-1-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2065180f ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="2065180f" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-7f1d22a"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Smooth
-															and straightforward, Spines made it easy to navigate the
-															steps to bring my book to life. I feel incredibly proud and
-															grateful holding my book in my hands and knowing its out in
-															the world… it’s an amazing feeling.</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Leanora
-														Benjamin</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354917"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354917"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
-
-
-
-
-
-
-
-
-											<span class="eael-testimonial-quote"></span>
-										</div>
-
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-42c9c872 e-con-full block-shadow e-flex e-con e-child"
-								data-id="42c9c872" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-4d4fce98 ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="4d4fce98" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/v68_7tpAx7g?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-3.jpg&quot;,&quot;id&quot;:354919,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-3-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-58ebfcf ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="58ebfcf" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
-
-										<div id="eael-testimonial-58ebfcf"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p class="cvGsUA direction-ltr align-center para-style-body"><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I’m
-															a history blogger, and now that my book is complete, I
-															couldn’t </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">be
-															happier. Everything from the dedication to my wife, to the
-															table of contents looks extremely professional — my kids
-															aren’t old enough to read yet, but they keep telling me how
-															cool the cover looks!</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Tony Valerino
-													</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354920"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354920"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-2065180f"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">The
+                                                        whole process was smoother and more intuitive than I
+                                                        imagined… Spines didn’t just bring my vision to life, they
+                                                        made the whole journey enjoyable&#8230; it truly felt like a
+                                                        partnership — not just a service.</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Richard Angulo
+                                                </p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354914" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg" /><noscript><img
+                                                        decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354914"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Richard-Angulo-2-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13445,87 +13283,81 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-494b646b e-con-full block-shadow e-flex e-con e-child"
-								data-id="494b646b" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-22b6fe17 ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="22b6fe17" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/QDOv42sqxfI?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-4.jpg&quot;,&quot;id&quot;:354922,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-4-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-446f3da6 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="446f3da6" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-1e680218 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="1e680218" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-16623b5f ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="16623b5f" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/J46_IAOMAbE?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-2.jpg&quot;,&quot;id&quot;:354916,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-2-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-7f1d22a ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="7f1d22a" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-446f3da6"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p class="cvGsUA direction-ltr align-center para-style-body"><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Kind,
-															empathetic, responsive and professional… </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Spines
-															made my publishing journey pleasant and
-															rewarding. </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
-															now have 3 published books — and it has sparked my
-														</span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">passion
-															to continue to write!</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Valerie Price
-													</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-274001"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-274001"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-7f1d22a"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Smooth
+                                                        and straightforward, Spines made it easy to navigate the
+                                                        steps to bring my book to life. I feel incredibly proud and
+                                                        grateful holding my book in my hands and knowing its out in
+                                                        the world… it’s an amazing feeling.</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Leanora
+                                                    Benjamin</p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354917" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354917"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Leanora-Benjamin-2-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13534,89 +13366,84 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-325dd69f e-con-full block-shadow e-flex e-con e-child"
-								data-id="325dd69f" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-73501646 ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="73501646" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/Ex8R4avBq2s?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-5.jpg&quot;,&quot;id&quot;:354924,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-5-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-189d4ab8 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="189d4ab8" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-42c9c872 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="42c9c872" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-4d4fce98 ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="4d4fce98" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/v68_7tpAx7g?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-3.jpg&quot;,&quot;id&quot;:354919,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-3-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-58ebfcf ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="58ebfcf" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-189d4ab8"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p class="cvGsUA direction-ltr align-center para-style-body"><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Spines
-															was there every step of the way&#8230; my account manager
-															was there, </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">my
-															editor was there, </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">my
-															God, everybody was there! </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Each
-															stage transitioned seamlessly and the AI tools were simply
-															amazing… thank you Spines for </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">making
-															my dream a reality — I am on top of the world!</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Chad Robertson
-													</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354925"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354925"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-58ebfcf"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p class="cvGsUA direction-ltr align-center para-style-body"><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I’m
+                                                        a history blogger, and now that my book is complete, I
+                                                        couldn’t </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">be
+                                                        happier. Everything from the dedication to my wife, to the
+                                                        table of contents looks extremely professional — my kids
+                                                        aren’t old enough to read yet, but they keep telling me how
+                                                        cool the cover looks!</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Tony Valerino
+                                                </p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354920" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354920"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Tony-Valerino-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13625,14 +13452,192 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="elementor-element elementor-element-512b0fd2 e-con-full block-shadow e-flex e-con e-child"
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-494b646b e-con-full block-shadow e-flex e-con e-child"
+                            data-id="494b646b" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-22b6fe17 ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="22b6fe17" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/QDOv42sqxfI?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-4.jpg&quot;,&quot;id&quot;:354922,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-4-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-446f3da6 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="446f3da6" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
+
+                                    <div id="eael-testimonial-446f3da6"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p class="cvGsUA direction-ltr align-center para-style-body"><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Kind,
+                                                        empathetic, responsive and professional… </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Spines
+                                                        made my publishing journey pleasant and
+                                                        rewarding. </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
+                                                        now have 3 published books — and it has sparked my
+                                                    </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">passion
+                                                        to continue to write!</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Valerie Price
+                                                </p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-274001" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-274001"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2025/04/Valerie-Price-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
+
+
+
+
+
+
+
+
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-325dd69f e-con-full block-shadow e-flex e-con e-child"
+                            data-id="325dd69f" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-73501646 ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="73501646" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/Ex8R4avBq2s?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-5.jpg&quot;,&quot;id&quot;:354924,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-5-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-189d4ab8 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="189d4ab8" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
+
+                                    <div id="eael-testimonial-189d4ab8"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p class="cvGsUA direction-ltr align-center para-style-body"><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Spines
+                                                        was there every step of the way&#8230; my account manager
+                                                        was there, </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">my
+                                                        editor was there, </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">my
+                                                        God, everybody was there! </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Each
+                                                        stage transitioned seamlessly and the AI tools were simply
+                                                        amazing… thank you Spines for </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">making
+                                                        my dream a reality — I am on top of the world!</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Chad Robertson
+                                                </p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354925" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354925"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Chad-Robertson-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
+
+
+
+
+
+
+
+
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="elementor-element elementor-element-512b0fd2 e-con-full block-shadow e-flex e-con e-child"
 							data-id="512b0fd2" data-element_type="container"
 							data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
 							<div class="elementor-element elementor-element-303b70a6 e-con-full e-flex e-con e-child"
@@ -13721,166 +13726,81 @@
 									</div>
 								</div>
 							</div>
-						</div>
-						<div class="elementor-element elementor-element-3b783f8c e-con-full e-flex e-con e-child"
-							data-id="3b783f8c" data-element_type="container"
-							data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-							<div class="elementor-element elementor-element-7247d2a6 e-con-full block-shadow e-flex e-con e-child"
-								data-id="7247d2a6" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-2b29285e ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="2b29285e" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/tGB7Z02DrWc?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-6.jpg&quot;,&quot;id&quot;:354932,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-6-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-38385d0a ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="38385d0a" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+						</div> -->
+                    <div class="elementor-element elementor-element-3b783f8c e-con-full e-flex e-con e-child"
+                        data-id="3b783f8c" data-element_type="container"
+                        data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                        <div class="elementor-element elementor-element-7247d2a6 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="7247d2a6" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-2b29285e ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="2b29285e" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/tGB7Z02DrWc?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sd21-6.jpg&quot;,&quot;id&quot;:354932,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sd21-6-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-38385d0a ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="38385d0a" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-38385d0a"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p class="cvGsUA direction-ltr align-center para-style-body"><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
-															published my first two books with Amazon and </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
-															have to say, I am so pleased that I chose Spines for my 3rd
-															published book — they made the process easy for me to direct
-															— everything from the copy to the photos was chosen by
-															me.</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Katie DeWerdt
-													</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354933"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354933"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
-
-
-
-
-
-
-
-
-											<span class="eael-testimonial-quote"></span>
-										</div>
-
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-18036806 e-con-full block-shadow e-flex e-con e-child"
-								data-id="18036806" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-2eefd1e ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="2eefd1e" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/uKWkIp7vPNo?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sddefault1-6.jpg&quot;,&quot;id&quot;:354935,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sddefault1-6-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-150e9a2 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="150e9a2" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
-
-										<div id="eael-testimonial-150e9a2"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
-															became an author back in June of 2024, not knowing what
-															direction to go… Spines helped me publish not just one, but
-															three of my books — and in doing so, I created a saga and
-															turned my first book, “Love of Green Eyes,” into a
-															series.</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> ELJEFE</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354936"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354936"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-38385d0a"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p class="cvGsUA direction-ltr align-center para-style-body"><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
+                                                        published my first two books with Amazon and </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
+                                                        have to say, I am so pleased that I chose Spines for my 3rd
+                                                        published book — they made the process easy for me to direct
+                                                        — everything from the copy to the photos was chosen by
+                                                        me.</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Katie DeWerdt
+                                                </p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354933" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354933"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Katie-DeWerdt-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13889,84 +13809,81 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-1168398e e-con-full block-shadow e-flex e-con e-child"
-								data-id="1168398e" data-element_type="container"
-								data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
-								<div class="elementor-element elementor-element-37ec203 ob-has-background-overlay elementor-widget elementor-widget-video"
-									data-id="37ec203" data-element_type="widget"
-									data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/BM9M_xAenXw?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sddefault1-7.jpg&quot;,&quot;id&quot;:354938,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="video.default">
-									<div class="elementor-widget-container">
-										<div class="elementor-wrapper elementor-open-inline">
-											<div class="elementor-video"></div>
-											<div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sddefault1-7-600x450.jpg"
-												class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
-												<div class="elementor-custom-embed-play" role="button"
-													aria-label="Play Video" tabindex="0">
-													<svg height="100%" viewBox="0 0 68 48" width="100%">
-														<path class="ytp-large-play-button-bg"
-															d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
-															fill="#f03"></path>
-														<path d="M 45,24 27,14 27,34" fill="#fff"></path>
-													</svg>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="elementor-element elementor-element-28f13269 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
-									data-id="28f13269" data-element_type="widget"
-									data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
-									data-widget_type="eael-testimonial.default">
-									<div class="elementor-widget-container">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-18036806 e-con-full block-shadow e-flex e-con e-child"
+                            data-id="18036806" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-2eefd1e ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="2eefd1e" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/uKWkIp7vPNo?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sddefault1-6.jpg&quot;,&quot;id&quot;:354935,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sddefault1-6-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-150e9a2 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="150e9a2" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
 
-										<div id="eael-testimonial-28f13269"
-											class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
-											<div class="eael-testimonial-content">
-												<div class="eael-testimonial-text">
-													<p class="cvGsUA direction-ltr align-center para-style-body"><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Shout
-															out to Ella — from the very start, she was
-															pivotal </span><span
-															class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">in
-															helping us with every little step along the way, and we
-															appreciate everything she did. Anybody else out there trying
-															to publish a book, Spines is the way to go!</span></p>
-												</div>
-												<div class="clearfix">
-													<p class="eael-testimonial-user"><span>Author</span> Robert &amp;
-														Judith Jenkins</p>
-												</div>
-												<ul class="testimonial-star-rating">
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-													<li><i class="fas fa-star" aria-hidden="true"></i></li>
-												</ul>
-											</div>
-											<div class="eael-testimonial-image">
-												<figure><img decoding="async" width="150" height="150"
-														src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
-														class="attachment-thumbnail size-thumbnail wp-image-354939"
-														alt=""
-														data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1.jpg 200w"
-														data-lazy-sizes="(max-width: 150px) 100vw, 150px"
-														data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg" /><noscript><img
-															loading="lazy" decoding="async" width="150" height="150"
-															src="../../cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg"
-															class="attachment-thumbnail size-thumbnail wp-image-354939"
-															alt=""
-															srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1.jpg 200w"
-															sizes="(max-width: 150px) 100vw, 150px" /></noscript>
-												</figure>
-											</div>
+                                    <div id="eael-testimonial-150e9a2"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
+                                                        became an author back in June of 2024, not knowing what
+                                                        direction to go… Spines helped me publish not just one, but
+                                                        three of my books — and in doing so, I created a saga and
+                                                        turned my first book, “Love of Green Eyes,” into a
+                                                        series.</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> ELJEFE</p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354936" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354936"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/El-Jefe-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
 
 
 
@@ -13975,15 +13892,100 @@
 
 
 
-											<span class="eael-testimonial-quote"></span>
-										</div>
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
 
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-1168398e e-con-full block-shadow e-flex e-con e-child"
+                            data-id="1168398e" data-element_type="container"
+                            data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;_ob_use_container_extras&quot;:&quot;no&quot;,&quot;_ob_column_hoveranimator&quot;:&quot;no&quot;,&quot;_ob_glider_is_slider&quot;:&quot;no&quot;,&quot;_ob_column_has_pseudo&quot;:&quot;no&quot;}">
+                            <div class="elementor-element elementor-element-37ec203 ob-has-background-overlay elementor-widget elementor-widget-video"
+                                data-id="37ec203" data-element_type="widget"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtube.com\/shorts\/BM9M_xAenXw?feature=share&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/spines.com\/wp-content\/uploads\/2026\/01\/sddefault1-7.jpg&quot;,&quot;id&quot;:354938,&quot;size&quot;:&quot;&quot;},&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;lazy_load&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="video.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-wrapper elementor-open-inline">
+                                        <div class="elementor-video"></div>
+                                        <div data-bg="https://cdn.spines.com/wp-content/uploads/2026/01/sddefault1-7-600x450.jpg"
+                                            class="elementor-custom-embed-image-overlay rocket-lazyload" style="">
+                                            <div class="elementor-custom-embed-play" role="button"
+                                                aria-label="Play Video" tabindex="0">
+                                                <svg height="100%" viewBox="0 0 68 48" width="100%">
+                                                    <path class="ytp-large-play-button-bg"
+                                                        d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"
+                                                        fill="#f03"></path>
+                                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-28f13269 ob-has-background-overlay elementor-widget elementor-widget-eael-testimonial"
+                                data-id="28f13269" data-element_type="widget"
+                                data-settings="{&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
+                                data-widget_type="eael-testimonial.default">
+                                <div class="elementor-widget-container">
+
+                                    <div id="eael-testimonial-28f13269"
+                                        class="eael-testimonial-item clearfix testimonial-avatar-rounded classic-style rating-five">
+                                        <div class="eael-testimonial-content">
+                                            <div class="eael-testimonial-text">
+                                                <p class="cvGsUA direction-ltr align-center para-style-body"><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Shout
+                                                        out to Ella — from the very start, she was
+                                                        pivotal </span><span
+                                                        class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">in
+                                                        helping us with every little step along the way, and we
+                                                        appreciate everything she did. Anybody else out there trying
+                                                        to publish a book, Spines is the way to go!</span></p>
+                                            </div>
+                                            <div class="clearfix">
+                                                <p class="eael-testimonial-user"><span>Author</span> Robert &amp;
+                                                    Judith Jenkins</p>
+                                            </div>
+                                            <ul class="testimonial-star-rating">
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                                <li><i class="fas fa-star" aria-hidden="true"></i></li>
+                                            </ul>
+                                        </div>
+                                        <div class="eael-testimonial-image">
+                                            <figure><img decoding="async" width="150" height="150"
+                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
+                                                    class="attachment-thumbnail size-thumbnail wp-image-354939" alt=""
+                                                    data-lazy-srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1.jpg 200w"
+                                                    data-lazy-sizes="(max-width: 150px) 100vw, 150px"
+                                                    data-lazy-src="../../cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg" /><noscript><img
+                                                        loading="lazy" decoding="async" width="150" height="150"
+                                                        src="../../cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg"
+                                                        class="attachment-thumbnail size-thumbnail wp-image-354939"
+                                                        alt=""
+                                                        srcset="https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-150x150.jpg 150w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1-100x100.jpg 100w, https://cdn.spines.com/wp-content/uploads/2026/01/Robert-Judith-Jenkins-1.jpg 200w"
+                                                        sizes="(max-width: 150px) 100vw, 150px" /></noscript>
+                                            </figure>
+                                        </div>
+
+
+
+
+
+
+
+
+                                        <span class="eael-testimonial-quote"></span>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div data-dce-background-color="#F8F5F1"
                 class="elementor-element elementor-element-76d56ff3 e-con-full e-flex e-con e-parent" data-id="76d56ff3"
                 data-element_type="container"

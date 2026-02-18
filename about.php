@@ -9383,8 +9383,9 @@
                         data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                            <h1 class="elementor-heading-title elementor-size-default">Because Book Publishing Should Be
-                                Built Around the Author</h1>
+                            <h1 class="elementor-heading-title elementor-size-default">Because Marketing Should Be Built
+                                Around Your Brand
+                            </h1>
                         </div>
                     </div>
                     <div data-dce-title-color="#38485C"
@@ -9393,11 +9394,11 @@
                         data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                         data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                            <h2 class="elementor-heading-title elementor-size-default">At Spines, our mission is to make
-                                professional publishing accessible to everyone, so no great story goes unheard. We
-                                combine expert care, smart technology, and a seamless experience to empower authors,
-                                amplify their voices,
-                                and honor the craft.</h2>
+                            <h2 class="elementor-heading-title elementor-size-default">Our goal is to make marketing
+                                simple and accessible, so good work doesn’t go unseen. We focus on clear plans, honest
+                                support, and steady progress to help brands share their message, reach the right people,
+                                and grow at a pace that feels right.
+                            </h2>
                         </div>
                     </div>
                 </div>
@@ -9406,7 +9407,7 @@
                     data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay_speed&quot;:3000,&quot;effect&quot;:&quot;fade&quot;,&quot;speed&quot;:1500,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                     data-widget_type="image-carousel.default">
                     <div class="elementor-widget-container">
-                          <img src="https://cdn.spines.com/wp-content/uploads/2025/09/header-about-us-3.jpg" alt="">
+                        <img src="https://cdn.spines.com/wp-content/uploads/2025/09/header-about-us-3.jpg" alt="">
                         <!-- <div class="elementor-image-carousel-wrapper swiper" role="region"
                             aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
                             <div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="off">
@@ -9439,8 +9440,8 @@
                             data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                             data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">What book publishing should
-                                    be</h2>
+                                <h2 class="elementor-heading-title elementor-size-default">What marketing should be
+                                </h2>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-4da8cee e-con-full e-flex e-con e-child"
@@ -9476,15 +9477,14 @@
 
                                             <h3 class="elementor-icon-box-title">
                                                 <span>
-                                                    Designed for Authors Who Want More </span>
+                                                    Built for Brands That Want Results </span>
                                             </h3>
 
                                             <p class="elementor-icon-box-description">
-                                                Spines is a publishing platform created for authors who want more: More
-                                                quality. More control. More reach. With Spines, you retain full
-                                                ownership of your copyrights while accessing the tools and expertise to
-                                                bring your vision to life with professionalism
-                                                and precision. </p>
+                                                We help your brand show up in the right places and stay consistent over
+                                                time. Instead of quick fixes, we focus on steady progress that builds
+                                                real visibility and trust with your audience.
+                                            </p>
 
                                         </div>
 
@@ -9521,15 +9521,15 @@
 
                                             <h3 class="elementor-icon-box-title">
                                                 <span>
-                                                    Everything You Need to Bring Your Book to Life </span>
+                                                    All Your Marketing in One Place
+                                                </span>
                                             </h3>
 
                                             <p class="elementor-icon-box-description">
-                                                Our platform combines expert support with purpose-built technology to
-                                                deliver professional publishing at scale. Publish in print, ebook, and
-                                                audiobook formats with custom design, professional editing,
-                                                multi-language translation, and global distribution
-                                                to over 100 channels. </p>
+                                                Managing content, ads, and social media in one place saves time and
+                                                avoids confusion. You don’t have to deal with different people or
+                                                scattered plans — everything stays simple and organized.
+                                            </p>
 
                                         </div>
 
@@ -9566,14 +9566,15 @@
 
                                             <h3 class="elementor-icon-box-title">
                                                 <span>
-                                                    Effortless Publishing with Expert Guidance </span>
+                                                    Support That Feels Simple
+                                                </span>
                                             </h3>
 
                                             <p class="elementor-icon-box-description">
-                                                Intelligent workflows power every stage of the process, automating where
-                                                it saves time and involving experts where it matters most. The result? A
-                                                publishing experience that’s faster, clearer, and built to meet the high
-                                                standards you deserve. </p>
+                                                You get clear updates, honest feedback, and help when you need it. We
+                                                explain what’s happening in plain words so you always feel comfortable
+                                                with each step.
+                                            </p>
 
                                         </div>
 
@@ -9611,7 +9612,8 @@
                                 data-widget_type="counter.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-counter">
-                                        <div class="elementor-counter-title">year founded</div>
+                                        <div class="elementor-counter-title">Year we started
+                                        </div>
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
@@ -9632,7 +9634,8 @@
                                 data-widget_type="counter.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-counter">
-                                        <div class="elementor-counter-title">employees</div>
+                                        <div class="elementor-counter-title"> Team members
+                                        </div>
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
@@ -9653,11 +9656,12 @@
                                 data-widget_type="counter.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-counter">
-                                        <div class="elementor-counter-title">books published</div>
+                                        <div class="elementor-counter-title">Projects completed
+                                        </div>
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="2800" data-from-value="0">250</span>
+                                                data-to-value="2100" data-from-value="0">250</span>
                                             <span class="elementor-counter-number-suffix">+</span>
                                         </div>
                                     </div>
@@ -9674,11 +9678,11 @@
                                 data-widget_type="counter.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-counter">
-                                        <div class="elementor-counter-title">authors</div>
+                                        <div class="elementor-counter-title">Clients supported</div>
                                         <div class="elementor-counter-number-wrapper">
                                             <span class="elementor-counter-number-prefix"></span>
                                             <span class="elementor-counter-number" data-duration="2000"
-                                                data-to-value="1800" data-from-value="0">130</span>
+                                                data-to-value="750" data-from-value="0">130</span>
                                             <span class="elementor-counter-number-suffix">+</span>
                                         </div>
                                     </div>
@@ -9714,13 +9718,12 @@
                         data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_postman_use&quot;:&quot;no&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                         data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
-                            <p>We’re a team of editors, designers, engineers, and book lovers who believe great stories
-                                deserve to be heard. We approach every project with care, respect, and a shared
-                                commitment to quality. Whether we’re refining a manuscript,
-                                building the tools that support our authors, or helping a book cross borders and
-                                languages, we lead with craft and intention. We’re building more than a platform; we’re
-                                raising the standard for how books are published
-                                and shared today and in the future.</p>
+                            <p>We’re a team of marketers, writers, and designers who care about the work we do. We take
+                                time to understand your brand, speak in your voice, and handle each project with
+                                respect. From shaping your message to managing your content, we focus on clear work that
+                                helps people notice you and trust what you share. Our aim is simple: do good work, stay
+                                honest, and help your brand grow in a way that feels real.
+                            </p>
                         </div>
                     </div>
                     <!-- dce invisible element e17e21b -->
@@ -10343,8 +10346,8 @@
                     data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                     data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">Ready to write the next chapter of
-                            your career?</h2>
+                        <h2 class="elementor-heading-title elementor-size-default">Want to grow with our team?
+                        </h2>
                     </div>
                 </div>
                 <div data-dce-title-color="#4C617B"
@@ -10353,11 +10356,10 @@
                     data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400,&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
                     data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <div class="elementor-heading-title elementor-size-default">We're always on the lookout for
-                            passionate, driven individuals to join our team. If you're ready to grow your career, make
-                            an impact, and collaborate with a dynamic group of professionals, explore our open positions
-                            and discover
-                            how you can be part of our journey.</div>
+                        <div class="elementor-heading-title elementor-size-default">We’re looking for people who care
+                            about their work and enjoy helping authors and books succeed. If you like clear goals,
+                            teamwork, and doing honest work, take a look at our open roles and see where you fit in.
+                        </div>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-c90bb28 ob-has-background-overlay elementor-widget elementor-widget-button"
@@ -10366,7 +10368,7 @@
                     data-widget_type="button.default">
                     <div class="elementor-widget-container">
                         <div class="elementor-button-wrapper">
-                            <a class="elementor-button elementor-button-link elementor-size-sm" href="/career/">
+                            <a class="elementor-button elementor-button-link elementor-size-sm" href="#">
                                 <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-icon">
                                         <svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-right"

@@ -8,8 +8,8 @@
         data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
         data-widget_type="heading.default">
         <div class="elementor-widget-container">
-            <h2 class="elementor-heading-title elementor-size-default"><span class="accented">2,800+ Authors</span> Have
-                Published Their Books With Spines</h2>
+            <h2 class="elementor-heading-title elementor-size-default"><span class="accented">2,100+ Marketing</span>
+                Projects Completed</h2>
         </div>
     </div>
     <div data-dce-title-color="#4C617B"
@@ -18,7 +18,8 @@
         data-settings="{&quot;_ob_use_harakiri&quot;:&quot;yes&quot;,&quot;_ob_harakiri_writing_mode&quot;:&quot;inherit&quot;,&quot;_ob_harakiri_text_clip&quot;:&quot;none&quot;,&quot;_ob_widget_stalker_use&quot;:&quot;no&quot;,&quot;_ob_poopart_use&quot;:&quot;yes&quot;,&quot;_ob_shadough_use&quot;:&quot;no&quot;,&quot;_ob_allow_hoveranimator&quot;:&quot;no&quot;}"
         data-widget_type="heading.default">
         <div class="elementor-widget-container">
-            <div class="elementor-heading-title elementor-size-default">All without needing tech or design expertise.
+            <div class="elementor-heading-title elementor-size-default">Simple process, clear support from start to
+                finish.
             </div>
         </div>
     </div>
@@ -49,16 +50,14 @@
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
                                     <p><span
-                                            class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">The
-                                            quality of their work exceeded my expectations, and their commitment to
-                                            excellence was evident at every stage. While no process is without its
-                                            challenges, Spines Publishing handled everything with patience and
-                                            expertise, making the journey smooth and rewarding.</span></p>
+                                            class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Their
+                                            book marketing services helped my book reach the right readers. The process
+                                            was clear, and I finally saw steady interest in my work.</span></p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Daniel Solomon</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Daniel Carter</p>
                                     <p class="eael-testimonial-user-company">D</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
@@ -93,15 +92,14 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>There is no other company on the face of the planet that’s going to put
-                                        themselves in your shoes every step of the way, and go out of their way to make
-                                        sure not only that you are successful, but that
-                                        you, as a published author, develop a backbone!</p>
+                                    <p>Their book publishing services handled every step for me. I didn’t feel lost, and
+                                        the support stayed steady from start to finish.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Melvin Shoales</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Maria Thompson
+                                    </p>
                                     <p class="eael-testimonial-user-company">M</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
@@ -136,17 +134,14 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>I had the most phenomenal and pleasurable experience working with Isabel. Every
-                                        request that I had made was met with a delightful spirit and the willingness to
-                                        help me win the day. I am overwhelmed with
-                                        her devotion and leadership… What a spectacular team member under the realm of
-                                        Spines.</p>
+                                    <p>Their book writing services helped me organize my thoughts and shape them into a
+                                        book that still sounds like me.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Hikeem Wallace</p>
-                                    <p class="eael-testimonial-user-company">H</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Kevin Brooks</p>
+                                    <p class="eael-testimonial-user-company">K</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -180,11 +175,8 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>Spines can take the idea you are passionate about and facilitate bringing it into
-                                        reality. Everyone was not only helpful but very encouraging in the entire
-                                        creative process. I highly recommend Spines
-                                        as the best publishing service available to all aspiring authors who would like
-                                        to touch the world with their thoughts.</p>
+                                    <p>Their book ghostwriting services turned my rough idea into a full manuscript
+                                        while keeping my tone and message intact.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -202,7 +194,7 @@
                                                 sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Deandre Jefferson</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Aisha Rahman</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -236,8 +228,8 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>Isabel and the rest of the team were supportive and patient as I worked through
-                                        the process. Ready to tackle book #2!!!</p>
+                                    <p>Their book printing services delivered clean pages and a strong cover. The final
+                                        book feels great to hold and share.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -255,7 +247,7 @@
                                                 sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Glenn Diehll</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Robert Hayes</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -282,17 +274,10 @@
                         <div id="eael-testimonial-e01c0be"
                             class="eael-testimonial-item clearfix testimonial-avatar-rounded content-bottom-icon-title-inline rating-five">
 
-
-
-
-
-
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>OMG, Wardah has done it again!! My second book looks incredible on the inside and
-                                        out! I love Wardah’s professionalism and how she constantly kept me in the loop
-                                        and was quick to correct any changes
-                                        necessary to make the book exactly what I envisioned.</p>
+                                    <p>Their book editing services helped fix flow issues and small mistakes without
+                                        changing my voice. The difference is clear.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -310,7 +295,7 @@
                                                 sizes="(max-width: 150px) 100vw, 150px" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Josanne Stewart</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Emily Foster</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -344,8 +329,8 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>I am happy to recommend Spines and my project manager Wardah as the best in the
-                                        industry! Authors, while considering publishing, STOP looking and choose Spines!
+                                    <p>Their book proofreading services found small errors I couldn’t see anymore. I’m
+                                        glad I had a final check before publishing.
                                     </p>
                                 </div>
                             </div>
@@ -361,7 +346,7 @@
                                                 alt="" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Kirk Anthony Floyd</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Nathan Lee</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -395,13 +380,13 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>If you are a first-time author like myself, Spines is the publishing company you
-                                        need!</p>
+                                    <p>Their book formatting services fixed layout issues for print and eBook.
+                                        Everything looks clean and easy to read now.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Nikodeme Mentor</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Sophia Martinez</p>
                                     <p class="eael-testimonial-user-company">N</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
@@ -436,10 +421,8 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>I want to take this opportunity to thank the staff at Spines Publishing,
-                                        especially Eli Nazari. You have made a lifelong dream come true: becoming an
-                                        author. I look forward to working with you on my
-                                        second book. God bless!</p>
+                                    <p>Using both book publishing services and book marketing services made everything
+                                        easier. I didn’t have to manage different vendors.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -454,7 +437,7 @@
                                                 alt="" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Terry Parker</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Aaron Patel</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -489,11 +472,9 @@
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
                                     <p><span
-                                            class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">I
-                                            continue to be very impressed with Spines. From onboarding with Adriano to
-                                            my account manager Wardah, they were very thorough and communicative every
-                                            step of the way. They do set you up to succeed! I would recommend this team
-                                            to anyone.</span></p>
+                                            class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Their
+                                            book writing services and book editing services worked well together. The
+                                            feedback was clear and improved my manuscript.</span></p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -508,7 +489,7 @@
                                                 alt="" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> D Lawson</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Lauren Mitchell</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
@@ -550,14 +531,12 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>My production manager, José Uzcátegui, was extremely helpful and a pleasure to
-                                        work with; he was incredibly involved and called with updates every week. He was
-                                        just as excited as me to have my book out!</p>
+                                    <p>From book writing services to book publishing services, the team stayed patient and helpful. The process felt smooth.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Lisette Conti</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Omar Khan</p>
                                     <p class="eael-testimonial-user-company">L</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
@@ -592,9 +571,7 @@
 
                             <div class="eael-testimonial-content">
                                 <div class="eael-testimonial-text">
-                                    <p>It was a true partnership. I couldn’t have asked for a better team to collaborate
-                                        with on this journey. Thank you for championing my story and for the incredible
-                                        work you do in amplifying diverse voices.</p>
+                                    <p>I used their book marketing services again because the first experience went well. The support and results were consistent.</p>
                                 </div>
                             </div>
                             <div class="eael-testimonial-content eael-testimonial-inline-bio">
@@ -609,7 +586,7 @@
                                                 alt="" /></noscript></figure>
                                 </div>
                                 <div class="bio-text">
-                                    <p class="eael-testimonial-user"><span>Author</span> Leeora Benjamin</p>
+                                    <p class="eael-testimonial-user"><span>Author</span> Hannah Wright</p>
                                 </div>
                                 <ul class="testimonial-star-rating">
                                     <li><i class="fas fa-star" aria-hidden="true"></i></li>
